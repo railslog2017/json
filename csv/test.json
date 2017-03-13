@@ -1,0 +1,18 @@
+{
+  "chapter": "North America",
+  "region": "USA",
+  "regionSub": "USA East",
+  "regionCode": "UE",
+  "city": "Albany",
+  "state": "NY",
+  "resourceDemanded": "Lemon",
+  "amountDemanded": 50,
+  "currentAmountDemanded": 0,
+  "currentResourceDemanded": false,
+  "passengers": 10,
+  "upgradeCosts2": "1,000",
+  "upgradeCosts3": "5,000",
+  "upgradeCosts4": "10,000",
+  "currentUpgrade": 1,
+  "connectsTo": ["Kingston", "Montpelier", "Harrisburg"]
+}

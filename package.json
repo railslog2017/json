@@ -1,12 +1,16 @@
 {
   "name": "json",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "main": "index.js",
   "author": "GimYoungPhil <youngphil.gim@gmail.com>",
   "license": "MIT",
   "scripts": {
     "dev": "python -m SimpleHTTPServer",
-    "createSt": "node ./data/createStations.js",
-    "createRe": "node ./data/createRegions.js"
+    "createSt": "node ./csv/createStations.js",
+    "createRe": "node ./csv/createRegions.js"
+  },
+  "devDependencies": {
+    "csvtojson": "^1.1.4",
+    "jsonfile": "^2.4.0"
   }
 }

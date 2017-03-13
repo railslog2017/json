@@ -1,0 +1,12 @@
+{
+  "name": "json",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "GimYoungPhil <youngphil.gim@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "python -m SimpleHTTPServer",
+    "createSt": "node ./data/createStations.js",
+    "createRe": "node ./data/createRegions.js"
+  }
+}

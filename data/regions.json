@@ -5,66 +5,77 @@
   "info": "regions",
   "content": [
     {
+      "continent": "North America",
       "regionName": "USA East",
       "stations": 21,
       "totalDistance": 11054,
       "resourcesSold": "Honey, Paper, Pizza, Salmon, Steel, Strawberry, Wood, Onion"
     },
     {
+      "continent": "North America",
       "regionName": "USA South",
       "stations": 19,
       "totalDistance": 13928,
       "resourcesSold": "BBQ Rib, Corn, Lemon, Oil, Orange, Pig, Strawberry"
     },
     {
+      "continent": "North America",
       "regionName": "USA Center",
       "stations": 15,
       "totalDistance": 13997,
       "resourcesSold": "Apple, Carrot, Corn, Cow, Firework, Iron, Wheat"
     },
     {
+      "continent": "North America",
       "regionName": "USA West",
       "stations": 15,
       "totalDistance": 13167,
       "resourcesSold": "Chicken, Copper, Honey, Iron, Lemon, Microprocessor, Orange"
     },
     {
+      "continent": "North America",
       "regionName": "Canada West",
       "stations": 12,
       "totalDistance": 16922,
       "resourcesSold": "Chicken, Copper, Paper, Parka, Oil, Water, Wood"
     },
     {
+      "continent": "North America",
       "regionName": "Canada Center",
       "stations": 5,
       "totalDistance": 6672,
       "resourcesSold": "Apple, Carrot, Corn, Cow, Hockey Stick, Honey, Wheat"
     },
     {
+      "continent": "North America",
       "regionName": "Canada East",
       "stations": 11,
       "totalDistance": 13458,
       "resourcesSold": "Chicken, Cow, Pig, Poutine, Salmon, Steel, Water"
     },
     {
+      "continent": "Europe",
       "regionName": "Europe West",
       "stations": 15,
       "totalDistance": 12670,
       "resourcesSold": "Bonbon, Meatball, Lemon, Sausage, Sheep, Tea"
     },
     {
+      "continent": "Europe",
       "regionName": "Europe South",
       "stations": 18,
       "totalDistance": 20020,
       "resourcesSold": "Bonbon, Casino Chip, Holy Water, Lemon, Pasta, Tulip"
     },
     {
+      "continent": "Europe",
       "regionName": "Europe East",
       "stations": 10,
       "totalDistance": 9651,
       "resourcesSold": "Holy Water, Sheep, Candle, Sausage, Carrot, Meatball, Onion"
     },
     {
+      "continent": "Europe",
       "regionName": "Europe North",
       "stations": 11,
       "totalDistance": 15594,

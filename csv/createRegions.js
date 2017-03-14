@@ -12,6 +12,7 @@ let result = {
   "content" : [
     /*
     {
+      "continent": "North America",
       "regionName": "USA East",
       "stations": 21,
       "totalDistance": 11054,
@@ -26,6 +27,7 @@ csv()
 .on('json', (row) => {
 
   let tempRegion = {
+    continent: row['continent'],
     regionName: row['region'],
     stations: parseInt(row['Stations']),
     totalDistance: parseInt(row['total distance']),

@@ -7,10 +7,12 @@
   "scripts": {
     "dev": "python -m SimpleHTTPServer",
     "createSt": "node ./csv/createStations.js",
+    "createRs": "node ./csv/createResources.js",
     "createRe": "node ./csv/createRegions.js"
   },
   "devDependencies": {
     "csvtojson": "^1.1.4",
-    "jsonfile": "^2.4.0"
+    "jsonfile": "^2.4.0",
+    "underscore": "^1.8.3"
   }
 }

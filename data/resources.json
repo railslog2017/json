@@ -1,0 +1,273 @@
+{
+  "game": "tiny rails",
+  "update": "2017-03-14",
+  "version": "0.1.0",
+  "info": "resources",
+  "content": [
+    {
+      "resource": "Apple",
+      "regions": [
+        "USA Center",
+        "Canada Center"
+      ]
+    },
+    {
+      "resource": "BBQ Rib",
+      "regions": [
+        "USA South"
+      ]
+    },
+    {
+      "resource": "Bonbon",
+      "regions": [
+        "Europe West",
+        "Europe South",
+        "Europe North"
+      ]
+    },
+    {
+      "resource": "Candle",
+      "regions": [
+        "Europe East"
+      ]
+    },
+    {
+      "resource": "Carrot",
+      "regions": [
+        "USA Center",
+        "Canada Center",
+        "Europe East"
+      ]
+    },
+    {
+      "resource": "Casino Chip",
+      "regions": [
+        "Europe South"
+      ]
+    },
+    {
+      "resource": "Chicken",
+      "regions": [
+        "USA West",
+        "Canada West",
+        "Canada East"
+      ]
+    },
+    {
+      "resource": "Copper",
+      "regions": [
+        "USA West",
+        "Canada West"
+      ]
+    },
+    {
+      "resource": "Corn",
+      "regions": [
+        "USA South",
+        "USA Center",
+        "Canada Center"
+      ]
+    },
+    {
+      "resource": "Cow",
+      "regions": [
+        "USA Center",
+        "Canada Center",
+        "Canada East"
+      ]
+    },
+    {
+      "resource": "Firework",
+      "regions": [
+        "USA Center"
+      ]
+    },
+    {
+      "resource": "Hockey Stick",
+      "regions": [
+        "Canada Center"
+      ]
+    },
+    {
+      "resource": "Holy Water",
+      "regions": [
+        "Europe South",
+        "Europe East"
+      ]
+    },
+    {
+      "resource": "Honey",
+      "regions": [
+        "USA East",
+        "USA West",
+        "Canada Center"
+      ]
+    },
+    {
+      "resource": "Iron",
+      "regions": [
+        "USA Center",
+        "USA West"
+      ]
+    },
+    {
+      "resource": "Lemon",
+      "regions": [
+        "USA South",
+        "USA West",
+        "Europe West",
+        "Europe South"
+      ]
+    },
+    {
+      "resource": "Meatball",
+      "regions": [
+        "Europe West",
+        "Europe East",
+        "Europe North"
+      ]
+    },
+    {
+      "resource": "Microprocessor",
+      "regions": [
+        "USA West"
+      ]
+    },
+    {
+      "resource": "Oil",
+      "regions": [
+        "USA South",
+        "Canada West"
+      ]
+    },
+    {
+      "resource": "Onion",
+      "regions": [
+        "USA East",
+        "Europe East"
+      ]
+    },
+    {
+      "resource": "Orange",
+      "regions": [
+        "USA South",
+        "USA West"
+      ]
+    },
+    {
+      "resource": "Paper",
+      "regions": [
+        "USA East",
+        "Canada West"
+      ]
+    },
+    {
+      "resource": "Parka",
+      "regions": [
+        "Canada West"
+      ]
+    },
+    {
+      "resource": "Pasta",
+      "regions": [
+        "Europe South"
+      ]
+    },
+    {
+      "resource": "Pig",
+      "regions": [
+        "USA South",
+        "Canada East"
+      ]
+    },
+    {
+      "resource": "Pizza",
+      "regions": [
+        "USA East"
+      ]
+    },
+    {
+      "resource": "Poutine",
+      "regions": [
+        "Canada East"
+      ]
+    },
+    {
+      "resource": "Salmon",
+      "regions": [
+        "USA East",
+        "Canada East"
+      ]
+    },
+    {
+      "resource": "Sausage",
+      "regions": [
+        "Europe West",
+        "Europe East",
+        "Europe North"
+      ]
+    },
+    {
+      "resource": "Sheep",
+      "regions": [
+        "Europe West",
+        "Europe East"
+      ]
+    },
+    {
+      "resource": "Steel",
+      "regions": [
+        "USA East",
+        "Canada East"
+      ]
+    },
+    {
+      "resource": "Strawberry",
+      "regions": [
+        "USA East",
+        "USA South"
+      ]
+    },
+    {
+      "resource": "Tea",
+      "regions": [
+        "Europe West"
+      ]
+    },
+    {
+      "resource": "Tulip",
+      "regions": [
+        "Europe South",
+        "Europe North"
+      ]
+    },
+    {
+      "resource": "Utility Knife",
+      "regions": [
+        "Europe North"
+      ]
+    },
+    {
+      "resource": "Water",
+      "regions": [
+        "Canada West",
+        "Canada East",
+        "Europe North"
+      ]
+    },
+    {
+      "resource": "Wheat",
+      "regions": [
+        "USA Center",
+        "Canada Center"
+      ]
+    },
+    {
+      "resource": "Wood",
+      "regions": [
+        "USA East",
+        "Canada West"
+      ]
+    }
+  ]
+}

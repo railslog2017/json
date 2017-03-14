@@ -17,7 +17,7 @@ csv()
 .on('json', (row) => {
 
   let tempRegion = {
-    region: row['region'],
+    regionName: row['region'],
     stations: parseInt(row['Stations']),
     totalDistance: parseInt(row['total distance']),
     resourcesSold: row['Resources Sold']

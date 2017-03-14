@@ -9,7 +9,16 @@ let result = {
   "update": now.toISOString().slice(0,10),
   "version": pjson.version,
   "info": "regions",
-  "content" : []
+  "content" : [
+    /*
+    {
+      "regionName": "USA East",
+      "stations": 21,
+      "totalDistance": 11054,
+      "resourcesSold": "Honey, Paper, Pizza, Salmon, Steel, Strawberry, Wood, Onion"
+    },
+    */
+  ]
 };
 
 csv()

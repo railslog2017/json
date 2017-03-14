@@ -9,7 +9,22 @@ let result = {
   "update": now.toISOString().slice(0,10),
   "version": pjson.version,
   "info": "stations",
-  "content" : []
+  "content" : [
+    /*
+    {
+      "city": "Albany",
+      "state": "NY",
+      "passengers": 10,
+      "upgradeCosts": "1,000/5,000/10,000",
+      "resourceDemanded": "Lemon",
+      "amountDemanded": 50,
+      "connectsTo": "Kingston, Montpelier, Harrisburg",
+      "currentAmountDemanded": 0,
+      "currentResourceDemanded": false,
+      "currentLevel": 0
+    },
+    */
+  ]
 };
 
 csv()

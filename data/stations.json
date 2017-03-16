@@ -1,6 +1,6 @@
 {
   "game": "tiny rails",
-  "update": "2017-03-14",
+  "update": "2017-03-16",
   "version": "0.1.0",
   "info": "stations",
   "content": [
@@ -12,6 +12,7 @@
       "resourceDemanded": "Lemon",
       "amountDemanded": 50,
       "connectsTo": "Kingston, Montpelier, Harrisburg",
+      "region": "USA East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -24,6 +25,7 @@
       "resourceDemanded": "Corn",
       "amountDemanded": 25,
       "connectsTo": "Albany, Ottawa, Augusta",
+      "region": "USA East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -36,6 +38,7 @@
       "resourceDemanded": "Pig",
       "amountDemanded": 25,
       "connectsTo": "Sherbrooke, Montpelier, Halifax, Concord",
+      "region": "USA East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -48,6 +51,7 @@
       "resourceDemanded": "Wood",
       "amountDemanded": 25,
       "connectsTo": "Augusta, Boston",
+      "region": "USA East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -60,6 +64,7 @@
       "resourceDemanded": "Strawberry",
       "amountDemanded": 350,
       "connectsTo": "Concord, Providence",
+      "region": "USA East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -72,6 +77,7 @@
       "resourceDemanded": "Oil",
       "amountDemanded": 50,
       "connectsTo": "Boston, Hartford",
+      "region": "USA East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -84,6 +90,7 @@
       "resourceDemanded": "Orange",
       "amountDemanded": 50,
       "connectsTo": "Providence, New York",
+      "region": "USA East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -96,6 +103,7 @@
       "resourceDemanded": "BBQ Rib",
       "amountDemanded": 1000,
       "connectsTo": "Hartford, Trenton",
+      "region": "USA East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -108,6 +116,7 @@
       "resourceDemanded": "Pig",
       "amountDemanded": 50,
       "connectsTo": "New York, Philadelphia",
+      "region": "USA East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -120,6 +129,7 @@
       "resourceDemanded": "Chicken",
       "amountDemanded": 1000,
       "connectsTo": "Trenton, Dover",
+      "region": "USA East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -132,6 +142,7 @@
       "resourceDemanded": "Corn",
       "amountDemanded": 25,
       "connectsTo": "Philadelphia, Baltimore",
+      "region": "USA East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -144,6 +155,7 @@
       "resourceDemanded": "Lemon",
       "amountDemanded": 150,
       "connectsTo": "Dover, Washington, D.C.",
+      "region": "USA East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -156,6 +168,7 @@
       "resourceDemanded": "Orange",
       "amountDemanded": 350,
       "connectsTo": "Baltimore, Richmond",
+      "region": "USA East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -168,6 +181,7 @@
       "resourceDemanded": "Oil",
       "amountDemanded": 25,
       "connectsTo": "Washington, D.C., Raleigh",
+      "region": "USA East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -180,6 +194,7 @@
       "resourceDemanded": "Paper",
       "amountDemanded": 150,
       "connectsTo": "Richmond, Charleston, Columbia",
+      "region": "USA East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -192,6 +207,7 @@
       "resourceDemanded": "Salmon",
       "amountDemanded": 50,
       "connectsTo": "Raleigh, Nashville, Columbus",
+      "region": "USA East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -204,6 +220,7 @@
       "resourceDemanded": "Paper",
       "amountDemanded": 350,
       "connectsTo": "Charleston, Frankfort, Detroit",
+      "region": "USA East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -216,6 +233,7 @@
       "resourceDemanded": "Corn",
       "amountDemanded": 350,
       "connectsTo": "Columbus, Indianapolis, Madison, London, Toledo",
+      "region": "USA East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -228,6 +246,7 @@
       "resourceDemanded": "Pizza",
       "amountDemanded": 25,
       "connectsTo": "Detroit, Pittsburgh",
+      "region": "USA East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -240,6 +259,7 @@
       "resourceDemanded": "Cow",
       "amountDemanded": 150,
       "connectsTo": "Toledo, Harrisburg",
+      "region": "USA East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -252,6 +272,7 @@
       "resourceDemanded": "Honey",
       "amountDemanded": 25,
       "connectsTo": "Pittsburgh, Albany",
+      "region": "USA East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -264,6 +285,7 @@
       "resourceDemanded": "Firework",
       "amountDemanded": 150,
       "connectsTo": "Columbia, Miami",
+      "region": "USA South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -276,6 +298,7 @@
       "resourceDemanded": "Copper",
       "amountDemanded": 150,
       "connectsTo": "Atlanta, Tallahassee",
+      "region": "USA South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -288,6 +311,7 @@
       "resourceDemanded": "Paper",
       "amountDemanded": 50,
       "connectsTo": "Miami, Montgomery",
+      "region": "USA South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -300,6 +324,7 @@
       "resourceDemanded": "Wood",
       "amountDemanded": 50,
       "connectsTo": "Tallahassee, Jackson",
+      "region": "USA South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -312,6 +337,7 @@
       "resourceDemanded": "Wheat",
       "amountDemanded": 50,
       "connectsTo": "Montgomery, Little Rock",
+      "region": "USA South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -324,6 +350,7 @@
       "resourceDemanded": "Salmon",
       "amountDemanded": 25,
       "connectsTo": "Jackson, New Orleans",
+      "region": "USA South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -336,6 +363,7 @@
       "resourceDemanded": "Corn",
       "amountDemanded": 1000,
       "connectsTo": "Little Rock, Baton Rouge",
+      "region": "USA South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -348,6 +376,7 @@
       "resourceDemanded": "Steel",
       "amountDemanded": 150,
       "connectsTo": "New Orleans, Houston",
+      "region": "USA South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -360,6 +389,7 @@
       "resourceDemanded": "Poutine",
       "amountDemanded": 1000,
       "connectsTo": "Baton Rouge, Austin",
+      "region": "USA South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -372,6 +402,7 @@
       "resourceDemanded": "Pizza",
       "amountDemanded": 350,
       "connectsTo": "Houston, Fort Stockton",
+      "region": "USA South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -384,6 +415,7 @@
       "resourceDemanded": "Strawberry",
       "amountDemanded": 25,
       "connectsTo": "Austin, El Paso, Dallas",
+      "region": "USA South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -396,6 +428,7 @@
       "resourceDemanded": "Pig",
       "amountDemanded": 350,
       "connectsTo": "Fort Stockton, Oklahoma City",
+      "region": "USA South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -408,6 +441,7 @@
       "resourceDemanded": "Chicken",
       "amountDemanded": 150,
       "connectsTo": "Dallas, Santa Fe, Topeka",
+      "region": "USA South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -420,6 +454,7 @@
       "resourceDemanded": "Apple",
       "amountDemanded": 50,
       "connectsTo": "Oklahoma City, Lincoln, Springfield, Jefferson City",
+      "region": "USA South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -432,6 +467,7 @@
       "resourceDemanded": "Orange",
       "amountDemanded": 25,
       "connectsTo": "Topeka, Springfield, Memphis",
+      "region": "USA South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -444,6 +480,7 @@
       "resourceDemanded": "Salmon",
       "amountDemanded": 350,
       "connectsTo": "Jefferson City, St. Louis, Frankfort",
+      "region": "USA South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -456,6 +493,7 @@
       "resourceDemanded": "Wood",
       "amountDemanded": 25,
       "connectsTo": "Memphis, Indianapolis, Columbus, Nashville",
+      "region": "USA South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -468,6 +506,7 @@
       "resourceDemanded": "Cow",
       "amountDemanded": 350,
       "connectsTo": "Frankfort, Charleston, Columbia",
+      "region": "USA South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -480,6 +519,7 @@
       "resourceDemanded": "BBQ Rib",
       "amountDemanded": 50,
       "connectsTo": "Nashville, Raleigh, Atlanta",
+      "region": "USA South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -492,6 +532,7 @@
       "resourceDemanded": "Carrot",
       "amountDemanded": 50,
       "connectsTo": "Helena, Rapid City",
+      "region": "USA Center",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -504,6 +545,7 @@
       "resourceDemanded": "Honey",
       "amountDemanded": 25,
       "connectsTo": "Billings, Pierre",
+      "region": "USA Center",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -516,6 +558,7 @@
       "resourceDemanded": "Iron",
       "amountDemanded": 50,
       "connectsTo": "Rapid City, Regina, Bismarck",
+      "region": "USA Center",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -528,6 +571,7 @@
       "resourceDemanded": "Copper",
       "amountDemanded": 50,
       "connectsTo": "Pierre, Saint Paul",
+      "region": "USA Center",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -540,6 +584,7 @@
       "resourceDemanded": "Hockey Stick",
       "amountDemanded": 50,
       "connectsTo": "Bismarck, Winnipeg, Madison",
+      "region": "USA Center",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -552,6 +597,7 @@
       "resourceDemanded": "Paper",
       "amountDemanded": 50,
       "connectsTo": "Saint Paul, Detroit, Chicago",
+      "region": "USA Center",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -564,6 +610,7 @@
       "resourceDemanded": "Carrot",
       "amountDemanded": 350,
       "connectsTo": "Madison, Indianapolis",
+      "region": "USA Center",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -576,6 +623,7 @@
       "resourceDemanded": "Wheat",
       "amountDemanded": 150,
       "connectsTo": "Chicago, Detroit, Frankfort, St. Louis",
+      "region": "USA Center",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -588,6 +636,7 @@
       "resourceDemanded": "Wood",
       "amountDemanded": 150,
       "connectsTo": "Indianapolis, Memphis, Springfield",
+      "region": "USA Center",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -600,6 +649,7 @@
       "resourceDemanded": "Lemon",
       "amountDemanded": 50,
       "connectsTo": "St. Louis, Jefferson City, Topeka, Galesburg",
+      "region": "USA Center",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -612,6 +662,7 @@
       "resourceDemanded": "Hockey Stick",
       "amountDemanded": 25,
       "connectsTo": "Springfield, Des Moines",
+      "region": "USA Center",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -624,6 +675,7 @@
       "resourceDemanded": "Honey",
       "amountDemanded": 25,
       "connectsTo": "Galesburg, Lincoln",
+      "region": "USA Center",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -636,6 +688,7 @@
       "resourceDemanded": "Pizza",
       "amountDemanded": 50,
       "connectsTo": "Des Moines, Topeka, Cheyenne",
+      "region": "USA Center",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -648,6 +701,7 @@
       "resourceDemanded": "Carrot",
       "amountDemanded": 50,
       "connectsTo": "Lincoln, Denver, Helena",
+      "region": "USA Center",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -660,6 +714,7 @@
       "resourceDemanded": "Oil",
       "amountDemanded": 50,
       "connectsTo": "Cheyenne, Boise, Calgary, Billings",
+      "region": "USA Center",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -672,6 +727,7 @@
       "resourceDemanded": "Iron",
       "amountDemanded": 350,
       "connectsTo": "El Paso, Santa Fe",
+      "region": "USA West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -684,6 +740,7 @@
       "resourceDemanded": "Iron",
       "amountDemanded": 50,
       "connectsTo": "Albuquerque, Denver, Oklahoma City",
+      "region": "USA West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -696,6 +753,7 @@
       "resourceDemanded": "Chicken",
       "amountDemanded": 150,
       "connectsTo": "Santa Fe, Boise, Cheyenne",
+      "region": "USA West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -708,6 +766,7 @@
       "resourceDemanded": "Wheat",
       "amountDemanded": 50,
       "connectsTo": "Denver, Kennewick, Banff, Helena",
+      "region": "USA West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -720,6 +779,7 @@
       "resourceDemanded": "Cow",
       "amountDemanded": 25,
       "connectsTo": "Boise, Seattle",
+      "region": "USA West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -732,6 +792,7 @@
       "resourceDemanded": "Parka",
       "amountDemanded": 1000,
       "connectsTo": "Kennewick, Olympia, Vancouver",
+      "region": "USA West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -744,6 +805,7 @@
       "resourceDemanded": "Apple",
       "amountDemanded": 50,
       "connectsTo": "Seattle, Portland",
+      "region": "USA West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -756,6 +818,7 @@
       "resourceDemanded": "Poutine",
       "amountDemanded": 150,
       "connectsTo": "Olympia, Sacramento",
+      "region": "USA West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -768,6 +831,7 @@
       "resourceDemanded": "Orange",
       "amountDemanded": 150,
       "connectsTo": "Portland, San Francisco",
+      "region": "USA West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -780,6 +844,7 @@
       "resourceDemanded": "Micro Processor",
       "amountDemanded": 1000,
       "connectsTo": "Sacramento, Los Angeles",
+      "region": "USA West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -792,6 +857,7 @@
       "resourceDemanded": "Pizza",
       "amountDemanded": 1000,
       "connectsTo": "San Francisco, Las Vegas",
+      "region": "USA West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -804,6 +870,7 @@
       "resourceDemanded": "Water",
       "amountDemanded": 1000,
       "connectsTo": "Los Angeles, Phoenix",
+      "region": "USA West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -816,6 +883,7 @@
       "resourceDemanded": "Lemon",
       "amountDemanded": 350,
       "connectsTo": "Las Vegas, Tuscon",
+      "region": "USA West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -828,6 +896,7 @@
       "resourceDemanded": "Micro Processor",
       "amountDemanded": 50,
       "connectsTo": "Phoenix, El Paso",
+      "region": "USA West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -840,6 +909,7 @@
       "resourceDemanded": "Copper",
       "amountDemanded": 50,
       "connectsTo": "Tuscon, Albuquerque, Fort Stockton",
+      "region": "USA West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -852,6 +922,7 @@
       "resourceDemanded": "Oil",
       "amountDemanded": 1000,
       "connectsTo": "Boise, Vancouver, Calgary",
+      "region": "Canada West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -864,6 +935,7 @@
       "resourceDemanded": "Firework",
       "amountDemanded": 350,
       "connectsTo": "Banff, Edmonton, Saskatoon, Helena",
+      "region": "Canada West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -876,6 +948,7 @@
       "resourceDemanded": "Steel",
       "amountDemanded": 350,
       "connectsTo": "Calgary, Fort McMurray",
+      "region": "Canada West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -888,6 +961,7 @@
       "resourceDemanded": "Water",
       "amountDemanded": 50,
       "connectsTo": "Edmonton, Wood Buffalo",
+      "region": "Canada West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -900,6 +974,7 @@
       "resourceDemanded": "Pig",
       "amountDemanded": 150,
       "connectsTo": "Fort McMurray, Yellowknife",
+      "region": "Canada West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -912,6 +987,7 @@
       "resourceDemanded": "Strawberry",
       "amountDemanded": 25,
       "connectsTo": "Wood Buffalo, Fort Simpson",
+      "region": "Canada West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -924,6 +1000,7 @@
       "resourceDemanded": "Iron",
       "amountDemanded": 25,
       "connectsTo": "Yellowknife, Whitehorse",
+      "region": "Canada West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -936,6 +1013,7 @@
       "resourceDemanded": "Apple",
       "amountDemanded": 25,
       "connectsTo": "Fort Simpson, Iskut",
+      "region": "Canada West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -948,6 +1026,7 @@
       "resourceDemanded": "Orange",
       "amountDemanded": 25,
       "connectsTo": "Whitehorse, Hazelton",
+      "region": "Canada West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -960,6 +1039,7 @@
       "resourceDemanded": "Corn",
       "amountDemanded": 50,
       "connectsTo": "Iskut, Kamloops",
+      "region": "Canada West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -972,6 +1052,7 @@
       "resourceDemanded": "Poutine",
       "amountDemanded": 50,
       "connectsTo": "Hazelton, Vancouver",
+      "region": "Canada West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -984,6 +1065,72 @@
       "resourceDemanded": "Micro Processor",
       "amountDemanded": 350,
       "connectsTo": "Kamloops, Banff, Seattle",
+      "region": "Canada West",
+      "currentAmountDemanded": 0,
+      "currentResourceDemanded": false,
+      "currentLevel": 0
+    },
+    {
+      "city": "Regina",
+      "state": "SK",
+      "passengers": 15,
+      "upgradeCosts": "5,000/50,000/100,000",
+      "resourceDemanded": "Pig",
+      "amountDemanded": 150,
+      "connectsTo": "Pierre, Saskatoon, Winnipeg",
+      "region": "Canada Center",
+      "currentAmountDemanded": 0,
+      "currentResourceDemanded": false,
+      "currentLevel": 0
+    },
+    {
+      "city": "Saskatoon",
+      "state": "SK",
+      "passengers": 15,
+      "upgradeCosts": "5,000/50,000/100,000",
+      "resourceDemanded": "Salmon",
+      "amountDemanded": 150,
+      "connectsTo": "Regina, Calgary, The Pas",
+      "region": "Canada Center",
+      "currentAmountDemanded": 0,
+      "currentResourceDemanded": false,
+      "currentLevel": 0
+    },
+    {
+      "city": "The Pas",
+      "state": "MB",
+      "passengers": 5,
+      "upgradeCosts": "500/1,000/5,000",
+      "resourceDemanded": "Firework",
+      "amountDemanded": 25,
+      "connectsTo": "Saskatoon, Yorkton",
+      "region": "Canada Center",
+      "currentAmountDemanded": 0,
+      "currentResourceDemanded": false,
+      "currentLevel": 0
+    },
+    {
+      "city": "Yorkton",
+      "state": "SK",
+      "passengers": 5,
+      "upgradeCosts": "500/1,000/5,000",
+      "resourceDemanded": "Apple",
+      "amountDemanded": 25,
+      "connectsTo": "The Pas, Winnipeg",
+      "region": "Canada Center",
+      "currentAmountDemanded": 0,
+      "currentResourceDemanded": false,
+      "currentLevel": 0
+    },
+    {
+      "city": "Winnipeg",
+      "state": "MB",
+      "passengers": 15,
+      "upgradeCosts": "5,000/50,000/100,000",
+      "resourceDemanded": "Pizza",
+      "amountDemanded": 150,
+      "connectsTo": "Yorkton, Toronto, Saint Paul, Regina",
+      "region": "Canada Center",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -996,6 +1143,7 @@
       "resourceDemanded": "Steel",
       "amountDemanded": 150,
       "connectsTo": "Edmundston, St. John's",
+      "region": "Canada East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -1008,6 +1156,7 @@
       "resourceDemanded": "Copper",
       "amountDemanded": 350,
       "connectsTo": "Charlottetown, Halifax",
+      "region": "Canada East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -1020,6 +1169,7 @@
       "resourceDemanded": "Oil",
       "amountDemanded": 150,
       "connectsTo": "St. John's, Augusta, Fredericton",
+      "region": "Canada East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -1032,6 +1182,7 @@
       "resourceDemanded": "Chicken",
       "amountDemanded": 50,
       "connectsTo": "Halifax, Sherbrooke",
+      "region": "Canada East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -1044,6 +1195,7 @@
       "resourceDemanded": "Lemon",
       "amountDemanded": 50,
       "connectsTo": "Fredericton, Augusta, Kingston",
+      "region": "Canada East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -1056,6 +1208,7 @@
       "resourceDemanded": "BBQ Rib",
       "amountDemanded": 150,
       "connectsTo": "Sherbrooke, Albany, London",
+      "region": "Canada East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -1068,6 +1221,7 @@
       "resourceDemanded": "Pizza",
       "amountDemanded": 150,
       "connectsTo": "Kingston, Detroit, Toronto",
+      "region": "Canada East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -1080,6 +1234,7 @@
       "resourceDemanded": "Micro Processor",
       "amountDemanded": 1000,
       "connectsTo": "London, Winnipeg, Ottawa",
+      "region": "Canada East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -1092,6 +1247,7 @@
       "resourceDemanded": "Parka",
       "amountDemanded": 350,
       "connectsTo": "Toronto, Montreal, Montpelier",
+      "region": "Canada East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -1104,6 +1260,7 @@
       "resourceDemanded": "Firework",
       "amountDemanded": 1000,
       "connectsTo": "Ottawa, Edmundston",
+      "region": "Canada East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -1116,6 +1273,7 @@
       "resourceDemanded": "Wheat",
       "amountDemanded": 25,
       "connectsTo": "Montreal, Charlottetown",
+      "region": "Canada East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -1128,6 +1286,7 @@
       "resourceDemanded": "Strawberry",
       "amountDemanded": 25,
       "connectsTo": "Belfast, Dublin",
+      "region": "Europe West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -1140,6 +1299,7 @@
       "resourceDemanded": "Carrot",
       "amountDemanded": 50,
       "connectsTo": "Galway, Edinburgh",
+      "region": "Europe West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -1151,7 +1311,8 @@
       "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Sheep",
       "amountDemanded": 150,
-      "connectsTo": "Galway, London",
+      "connectsTo": "Belfast, London",
+      "region": "Europe West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -1163,7 +1324,8 @@
       "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Tea",
       "amountDemanded": 1000,
-      "connectsTo": "",
+      "connectsTo": "Amsterdam, Edinburgh",
+      "region": "Europe West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -1175,7 +1337,8 @@
       "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Tea",
       "amountDemanded": 350,
-      "connectsTo": "",
+      "connectsTo": "Brussels, Berlin, London",
+      "region": "Europe West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -1187,7 +1350,8 @@
       "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Chicken",
       "amountDemanded": 150,
-      "connectsTo": "",
+      "connectsTo": "Luxembourgh City, Amsterdam",
+      "region": "Europe West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -1199,7 +1363,8 @@
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Pasta",
       "amountDemanded": 50,
-      "connectsTo": "",
+      "connectsTo": "Vaduz, Brussels, Prague, Europe West Factory",
+      "region": "Europe West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -1211,7 +1376,8 @@
       "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Tea",
       "amountDemanded": 25,
-      "connectsTo": "",
+      "connectsTo": "Zurich, Luxembourg City",
+      "region": "Europe West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -1223,7 +1389,8 @@
       "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Hockey Stick",
       "amountDemanded": 150,
-      "connectsTo": "",
+      "connectsTo": "Bern, Vaduz",
+      "region": "Europe West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -1235,7 +1402,8 @@
       "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Sheep",
       "amountDemanded": 350,
-      "connectsTo": "",
+      "connectsTo": "Paris, Zurich",
+      "region": "Europe West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -1247,7 +1415,8 @@
       "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Tulip",
       "amountDemanded": 1000,
-      "connectsTo": "",
+      "connectsTo": "Nantes, Bern, Europe West Factory",
+      "region": "Europe West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -1259,7 +1428,8 @@
       "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Sausage",
       "amountDemanded": 150,
-      "connectsTo": "",
+      "connectsTo": "Southampton, Paris, Bilbao",
+      "region": "Europe West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -1271,7 +1441,8 @@
       "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Tea",
       "amountDemanded": 50,
-      "connectsTo": "",
+      "connectsTo": "Cardiff, Nantes",
+      "region": "Europe West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -1283,7 +1454,8 @@
       "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Pasta",
       "amountDemanded": 150,
-      "connectsTo": "",
+      "connectsTo": "Galway, Southampton",
+      "region": "Europe West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -1295,43 +1467,47 @@
       "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Sausage",
       "amountDemanded": 350,
-      "connectsTo": "",
+      "connectsTo": "Galway, Cardiff",
+      "region": "Europe West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
     },
     {
-      "city": "Andorra La Velle",
-      "state": "AD",
-      "passengers": 30,
-      "upgradeCosts": "50,000/500,000/1,000,000",
-      "resourceDemanded": "Tulip",
-      "amountDemanded": 350,
-      "connectsTo": "",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0
-    },
-    {
-      "city": "Bilbao",
-      "state": "ES",
-      "passengers": 10,
-      "upgradeCosts": "1,000/5,000/10,000",
-      "resourceDemanded": "Casino Chip",
-      "amountDemanded": 50,
-      "connectsTo": "",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0
-    },
-    {
-      "city": "Porto",
-      "state": "PT",
+      "city": "Southampton",
+      "state": "UK",
       "passengers": 15,
       "upgradeCosts": "5,000/50,000/100,000",
-      "resourceDemanded": "Meatball",
+      "resourceDemanded": "Tea",
+      "amountDemanded": 50,
+      "connectsTo": "Cardiff, Nantes",
+      "region": "Europe South",
+      "currentAmountDemanded": 0,
+      "currentResourceDemanded": false,
+      "currentLevel": 0
+    },
+    {
+      "city": "Cardiff",
+      "state": "UK",
+      "passengers": 15,
+      "upgradeCosts": "5,000/50,000/100,000",
+      "resourceDemanded": "Pasta",
       "amountDemanded": 150,
-      "connectsTo": "",
+      "connectsTo": "Galway, Southampton",
+      "region": "Europe South",
+      "currentAmountDemanded": 0,
+      "currentResourceDemanded": false,
+      "currentLevel": 0
+    },
+    {
+      "city": "Dublin",
+      "state": "IE",
+      "passengers": 30,
+      "upgradeCosts": "50,000/500,000/1,000,000",
+      "resourceDemanded": "Sausage",
+      "amountDemanded": 350,
+      "connectsTo": "Galway, Cardiff",
+      "region": "Europe South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -1343,7 +1519,8 @@
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Sausage",
       "amountDemanded": 50,
-      "connectsTo": "",
+      "connectsTo": "Porto, Madrid",
+      "region": "Europe South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -1355,7 +1532,8 @@
       "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Casino Chip",
       "amountDemanded": 350,
-      "connectsTo": "",
+      "connectsTo": "Lisbon, Barcelona",
+      "region": "Europe South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -1367,7 +1545,8 @@
       "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Candle",
       "amountDemanded": 1000,
-      "connectsTo": "",
+      "connectsTo": "Madrid, Monaco",
+      "region": "Europe South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -1379,7 +1558,8 @@
       "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Casino Chip",
       "amountDemanded": 1000,
-      "connectsTo": "",
+      "connectsTo": "Barcelona, Rome",
+      "region": "Europe South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -1391,7 +1571,8 @@
       "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Holy Water",
       "amountDemanded": 25,
-      "connectsTo": "",
+      "connectsTo": "Monaco, Naples, Europe South Factory",
+      "region": "Europe South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -1403,7 +1584,8 @@
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Pasta",
       "amountDemanded": 50,
-      "connectsTo": "",
+      "connectsTo": "Rome, Valleta",
+      "region": "Europe South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -1415,7 +1597,8 @@
       "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Bonbon",
       "amountDemanded": 150,
-      "connectsTo": "",
+      "connectsTo": "Naples, Tirana",
+      "region": "Europe South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -1427,7 +1610,8 @@
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Candle",
       "amountDemanded": 50,
-      "connectsTo": "",
+      "connectsTo": "Valleta, Athens, , Europe South Factory",
+      "region": "Europe South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -1439,7 +1623,8 @@
       "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Meatball",
       "amountDemanded": 350,
-      "connectsTo": "",
+      "connectsTo": "Tirana, Skopje",
+      "region": "Europe South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -1451,7 +1636,8 @@
       "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Casino Chip",
       "amountDemanded": 25,
-      "connectsTo": "",
+      "connectsTo": "Athens, Sarajevo, Sofia",
+      "region": "Europe South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -1463,7 +1649,8 @@
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Tulip",
       "amountDemanded": 50,
-      "connectsTo": "",
+      "connectsTo": "Skopje, Zagreb, Europe South Factory",
+      "region": "Europe South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -1475,7 +1662,8 @@
       "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Onion",
       "amountDemanded": 150,
-      "connectsTo": "",
+      "connectsTo": "Sarajevo, Ljubljana",
+      "region": "Europe South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -1487,7 +1675,8 @@
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Sheep",
       "amountDemanded": 50,
-      "connectsTo": "",
+      "connectsTo": "Zagreb, Vienna, San Marino",
+      "region": "Europe South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -1499,7 +1688,8 @@
       "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Water",
       "amountDemanded": 150,
-      "connectsTo": "",
+      "connectsTo": "Ljubljana, Milan",
+      "region": "Europe South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -1511,7 +1701,281 @@
       "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Strawberry",
       "amountDemanded": 1000,
-      "connectsTo": "",
+      "connectsTo": "San Marino, Vaduz, Andorra La Vella",
+      "region": "Europe South",
+      "currentAmountDemanded": 0,
+      "currentResourceDemanded": false,
+      "currentLevel": 0
+    },
+    {
+      "city": "Prague",
+      "state": "CZ",
+      "passengers": 30,
+      "upgradeCosts": "50,000/500,000/1,000,000",
+      "resourceDemanded": "Onion",
+      "amountDemanded": 350,
+      "connectsTo": "Ostrava, Vienna, Luxembourgh City",
+      "region": "Europe East",
+      "currentAmountDemanded": 0,
+      "currentResourceDemanded": false,
+      "currentLevel": 0
+    },
+    {
+      "city": "Vienna",
+      "state": "AT",
+      "passengers": 15,
+      "upgradeCosts": "5,000/50,000/100,000",
+      "resourceDemanded": "Bonbon",
+      "amountDemanded": 150,
+      "connectsTo": "Prague, Ljubljana",
+      "region": "Europe East",
+      "currentAmountDemanded": 0,
+      "currentResourceDemanded": false,
+      "currentLevel": 0
+    },
+    {
+      "city": "Timisoara",
+      "state": "RO",
+      "passengers": 10,
+      "upgradeCosts": "1,000/5,000/10,000",
+      "resourceDemanded": "Meatball",
+      "amountDemanded": 50,
+      "connectsTo": "Sofia, Vienna, Europe West Factory",
+      "region": "Europe East",
+      "currentAmountDemanded": 0,
+      "currentResourceDemanded": false,
+      "currentLevel": 0
+    },
+    {
+      "city": "Sofia",
+      "state": "BG",
+      "passengers": 5,
+      "upgradeCosts": "500/1,000/5,000",
+      "resourceDemanded": "Sheep",
+      "amountDemanded": 25,
+      "connectsTo": "Skopje, Bucharest, Timisoara",
+      "region": "Europe East",
+      "currentAmountDemanded": 0,
+      "currentResourceDemanded": false,
+      "currentLevel": 0
+    },
+    {
+      "city": "Bucharest",
+      "state": "RO",
+      "passengers": 10,
+      "upgradeCosts": "1,000/5,000/10,000",
+      "resourceDemanded": "Water",
+      "amountDemanded": 50,
+      "connectsTo": "Sofia, Chisinau, Europe West Factory",
+      "region": "Europe East",
+      "currentAmountDemanded": 0,
+      "currentResourceDemanded": false,
+      "currentLevel": 0
+    },
+    {
+      "city": "Chisinau",
+      "state": "MD",
+      "passengers": 5,
+      "upgradeCosts": "500/1,000/5,000",
+      "resourceDemanded": "Onion",
+      "amountDemanded": 25,
+      "connectsTo": "Bucharest, Cluj-Napoca",
+      "region": "Europe East",
+      "currentAmountDemanded": 0,
+      "currentResourceDemanded": false,
+      "currentLevel": 0
+    },
+    {
+      "city": "Cluj-Napoca",
+      "state": "RO",
+      "passengers": 10,
+      "upgradeCosts": "1,000/5,000/10,000",
+      "resourceDemanded": "Holy Water",
+      "amountDemanded": 50,
+      "connectsTo": "Chisinau, Budapest, Europe West Factory",
+      "region": "Europe East",
+      "currentAmountDemanded": 0,
+      "currentResourceDemanded": false,
+      "currentLevel": 0
+    },
+    {
+      "city": "Budapest",
+      "state": "HU",
+      "passengers": 15,
+      "upgradeCosts": "5,000/50,000/100,000",
+      "resourceDemanded": "Cow",
+      "amountDemanded": 150,
+      "connectsTo": "Cluj-Napoca, Bratislava",
+      "region": "Europe East",
+      "currentAmountDemanded": 0,
+      "currentResourceDemanded": false,
+      "currentLevel": 0
+    },
+    {
+      "city": "Bratislava",
+      "state": "SK",
+      "passengers": 10,
+      "upgradeCosts": "1,000/5,000/10,000",
+      "resourceDemanded": "Onion",
+      "amountDemanded": 50,
+      "connectsTo": "Budapest, Ostrava",
+      "region": "Europe East",
+      "currentAmountDemanded": 0,
+      "currentResourceDemanded": false,
+      "currentLevel": 0
+    },
+    {
+      "city": "Ostrava",
+      "state": "CZ",
+      "passengers": 5,
+      "upgradeCosts": "500/1,000/5,000",
+      "resourceDemanded": "Sausage",
+      "amountDemanded": 25,
+      "connectsTo": "Bratislava, Prague, Warsaw",
+      "region": "Europe East",
+      "currentAmountDemanded": 0,
+      "currentResourceDemanded": false,
+      "currentLevel": 0
+    },
+    {
+      "city": "Berlin",
+      "state": "DE",
+      "passengers": 50,
+      "upgradeCosts": "500,000/1,000,000/2,000,000",
+      "resourceDemanded": "Parka",
+      "amountDemanded": 1000,
+      "connectsTo": "Copenhagen, Warsaw, Amsterdam",
+      "region": "Europe North",
+      "currentAmountDemanded": 0,
+      "currentResourceDemanded": false,
+      "currentLevel": 0
+    },
+    {
+      "city": "Warsaw",
+      "state": "PL",
+      "passengers": 15,
+      "upgradeCosts": "5,000/50,000/100,000",
+      "resourceDemanded": "Tulip",
+      "amountDemanded": 150,
+      "connectsTo": "Berlin, Kiev, Ostrava",
+      "region": "Europe North",
+      "currentAmountDemanded": 0,
+      "currentResourceDemanded": false,
+      "currentLevel": 0
+    },
+    {
+      "city": "Kiev",
+      "state": "UA",
+      "passengers": 5,
+      "upgradeCosts": "500/1,000/5,000",
+      "resourceDemanded": "Bonbon",
+      "amountDemanded": 25,
+      "connectsTo": "Chisinau, Minsk, Warsaw",
+      "region": "Europe North",
+      "currentAmountDemanded": 0,
+      "currentResourceDemanded": false,
+      "currentLevel": 0
+    },
+    {
+      "city": "Minsk",
+      "state": "BY",
+      "passengers": 5,
+      "upgradeCosts": "500/1,000/5,000",
+      "resourceDemanded": "Utility Knife",
+      "amountDemanded": 25,
+      "connectsTo": "Kiev, Vilnius",
+      "region": "Europe North",
+      "currentAmountDemanded": 0,
+      "currentResourceDemanded": false,
+      "currentLevel": 0
+    },
+    {
+      "city": "Vilnius",
+      "state": "LT",
+      "passengers": 10,
+      "upgradeCosts": "1,000/5,000/10,000",
+      "resourceDemanded": "Utility Knife",
+      "amountDemanded": 50,
+      "connectsTo": "Minsk, Riga",
+      "region": "Europe North",
+      "currentAmountDemanded": 0,
+      "currentResourceDemanded": false,
+      "currentLevel": 0
+    },
+    {
+      "city": "Riga",
+      "state": "LV",
+      "passengers": 5,
+      "upgradeCosts": "500/1,000/5,000",
+      "resourceDemanded": "Honey",
+      "amountDemanded": 25,
+      "connectsTo": "Vilnius, Tallinn, Europe North Factory",
+      "region": "Europe North",
+      "currentAmountDemanded": 0,
+      "currentResourceDemanded": false,
+      "currentLevel": 0
+    },
+    {
+      "city": "Tallinn",
+      "state": "EE",
+      "passengers": 5,
+      "upgradeCosts": "500/1,000/5,000",
+      "resourceDemanded": "Holy Water",
+      "amountDemanded": 25,
+      "connectsTo": "Helsinki, Riga",
+      "region": "Europe North",
+      "currentAmountDemanded": 0,
+      "currentResourceDemanded": false,
+      "currentLevel": 0
+    },
+    {
+      "city": "Helsinki",
+      "state": "FI",
+      "passengers": 10,
+      "upgradeCosts": "1,000/5,000/10,000",
+      "resourceDemanded": "Candle",
+      "amountDemanded": 50,
+      "connectsTo": "Tallinn, Stockholm",
+      "region": "Europe North",
+      "currentAmountDemanded": 0,
+      "currentResourceDemanded": false,
+      "currentLevel": 0
+    },
+    {
+      "city": "Stockholm",
+      "state": "SE",
+      "passengers": 15,
+      "upgradeCosts": "5,000/50,000/100,000",
+      "resourceDemanded": "Utility Knife",
+      "amountDemanded": 150,
+      "connectsTo": "Helsinki, Oslo, Europe North Factory",
+      "region": "Europe North",
+      "currentAmountDemanded": 0,
+      "currentResourceDemanded": false,
+      "currentLevel": 0
+    },
+    {
+      "city": "Oslo",
+      "state": "NO",
+      "passengers": 30,
+      "upgradeCosts": "50,000/500,000/1,000,000",
+      "resourceDemanded": "Utility Knife",
+      "amountDemanded": 350,
+      "connectsTo": "Stockholm, Copenhagen",
+      "region": "Europe North",
+      "currentAmountDemanded": 0,
+      "currentResourceDemanded": false,
+      "currentLevel": 0
+    },
+    {
+      "city": "Copenhagen",
+      "state": "DK",
+      "passengers": 50,
+      "upgradeCosts": "500,000/1,000,000/2,000,000",
+      "resourceDemanded": "Candle",
+      "amountDemanded": 1000,
+      "connectsTo": "Oslo, Berlin, Europe North Factory",
+      "region": "Europe North",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0

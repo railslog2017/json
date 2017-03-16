@@ -19,6 +19,7 @@ let result = {
       "resourceDemanded": "Lemon",
       "amountDemanded": 50,
       "connectsTo": "Kingston, Montpelier, Harrisburg",
+      "region": "USA East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0
@@ -39,6 +40,7 @@ csv()
     resourceDemanded: row['Resource Demanded'],
     amountDemanded: parseInt(row['Amount Demanded']),
     connectsTo: row['Connects To'],
+    region: row['Region'],
 
     // 추가
     currentAmountDemanded: 0,

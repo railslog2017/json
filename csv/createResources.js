@@ -8,49 +8,80 @@ let result = {
   "game": "tiny rails",
   "update": now.toISOString().slice(0,10),
   "version": pjson.version,
-  "info": "resources",
+  "info": "resources needed",
   "content": [
     /*
     {
-      "resource": "Honey"
+      "name": "Apple"
+      "totalAmound": 150,
       "regions": [
-        "USA East",
-        "USA West",
-        "Canada Center"
+        {
+          "Amount Needed": 25,
+          "City": "Whitehorse, YT",
+          "Region": "Canada West"
+        },
+        {
+          "Amount Needed": 25,
+          "City": "Yorkton, SK",
+          "Region": "Canada Center"
+        },
+        {
+          "Amount Needed": 50,
+          "City": "Olympia, WA",
+          "Region": "USA West"
+        },
+        {
+          "Amount Needed": 50,
+          "City": "Topeka, KS",
+          "Region": "USA South"
+        }
       ]
     }
     */
   ]
 };
 
+let tempContent = [];
+let tempResource;
 csv()
-.fromFile('./csv/regions.csv')
+.fromFile('./csv/rails - resource.csv')
 .on('json', (row) => {
 
-  let regionName = row['region'];
-  let resourcesSold = row['Resources Sold'].split(', ');
-  let content = result['content'];
+  function pushRegion(region) {
+    let amount = region['Amount Needed'].replace(',', '');
+    tempResource.regions.push({
+      'amount': parseInt(amount),
+      'city': region['City'],
+      'region': region['Region']
+    })
+  }
 
-  _.each(resourcesSold, (resource) => {
+  if (!tempResource) {
+    tempResource = {
+      'name': row['Name'],
+      'totalAmound': 0,
+      'regions': []
+    };
+    pushRegion(row);
 
-    let temp = _.find(content, (obj) => {
-      return obj.resource == resource;
-    });
+  } else {
 
-    if (!temp) {
-      temp = {
-        resource: resource,
-        regions: [regionName]
-      };
-      content.push(temp)
+    if (row['City'] !== 'Total Amound') {
+      pushRegion(row);
     } else {
-      temp.regions.push(regionName);
+      let amount = row['Amount Needed'].replace(',', '');
+      console.log(amount);
+      tempResource.totalAmound = parseInt(amount);
+      tempContent.push(tempResource);
+      tempResource = undefined;
     }
-  });
+  }
 
-  result['content'] = _.sortBy(content, 'resource');
+
 })
 .on('done', () => {
+
+  result.content = tempContent;
 
   jsonfile.writeFile('./data/resources.json', result, {spaces: 2}, function(err) {
     console.error(err)

@@ -1,272 +1,975 @@
 {
   "game": "tiny rails",
-  "update": "2017-03-14",
+  "update": "2017-03-19",
   "version": "0.1.0",
-  "info": "resources",
+  "info": "resources needed",
   "content": [
     {
-      "resource": "Apple",
+      "name": "Apple",
+      "totalAmound": 150,
       "regions": [
-        "USA Center",
-        "Canada Center"
+        {
+          "amount": 25,
+          "city": "Whitehorse, YT",
+          "region": "Canada West"
+        },
+        {
+          "amount": 25,
+          "city": "Yorkton, SK",
+          "region": "Canada Center"
+        },
+        {
+          "amount": 50,
+          "city": "Olympia, WA",
+          "region": "USA West"
+        },
+        {
+          "amount": 50,
+          "city": "Topeka, KS",
+          "region": "USA South"
+        }
       ]
     },
     {
-      "resource": "BBQ Rib",
+      "name": "BBQ Rib",
+      "totalAmound": 1200,
       "regions": [
-        "USA South"
+        {
+          "amount": 50,
+          "city": "Columbia, SC",
+          "region": "USA South"
+        },
+        {
+          "amount": 150,
+          "city": "Kingston, ON",
+          "region": "Canada East"
+        },
+        {
+          "amount": 1000,
+          "city": "New York, NY",
+          "region": "USA East"
+        }
       ]
     },
     {
-      "resource": "Bonbon",
+      "name": "Bonbon",
+      "totalAmound": 325,
       "regions": [
-        "Europe West",
-        "Europe South",
-        "Europe North"
+        {
+          "amount": 25,
+          "city": "Kiev, UA",
+          "region": "Europe North"
+        },
+        {
+          "amount": 150,
+          "city": "Valleta, MT",
+          "region": "Europe South"
+        },
+        {
+          "amount": 150,
+          "city": "Vienna, AT",
+          "region": "Europe East"
+        }
       ]
     },
     {
-      "resource": "Candle",
+      "name": "Candle",
+      "totalAmound": 2100,
       "regions": [
-        "Europe East"
+        {
+          "amount": 50,
+          "city": "Helsinki, FI",
+          "region": "Europe North"
+        },
+        {
+          "amount": 50,
+          "city": "Tirana, AL",
+          "region": "Europe South"
+        },
+        {
+          "amount": 1000,
+          "city": "Barcelona, ES",
+          "region": "Europe South"
+        },
+        {
+          "amount": 1000,
+          "city": "Copenhagen, DK",
+          "region": "Europe North"
+        }
       ]
     },
     {
-      "resource": "Carrot",
+      "name": "Carrot",
+      "totalAmound": 500,
       "regions": [
-        "USA Center",
-        "Canada Center",
-        "Europe East"
+        {
+          "amount": 50,
+          "city": "Billings, MT",
+          "region": "USA Center"
+        },
+        {
+          "amount": 50,
+          "city": "Cheyenne, WY",
+          "region": "USA Center"
+        },
+        {
+          "amount": 50,
+          "city": "Belfast, UK",
+          "region": "Europe West"
+        },
+        {
+          "amount": 350,
+          "city": "Chicago, IL",
+          "region": "USA Center"
+        }
       ]
     },
     {
-      "resource": "Casino Chip",
+      "name": "Casino Chip",
+      "totalAmound": 1425,
       "regions": [
-        "Europe South"
+        {
+          "amount": 25,
+          "city": "Skopje, MK",
+          "region": "Europe South"
+        },
+        {
+          "amount": 50,
+          "city": "Bilbao, ES",
+          "region": "Europe South"
+        },
+        {
+          "amount": 350,
+          "city": "Madrid, ES",
+          "region": "Europe South"
+        },
+        {
+          "amount": 1000,
+          "city": "Monaco, FR",
+          "region": "Europe South"
+        }
       ]
     },
     {
-      "resource": "Chicken",
+      "name": "Chicken",
+      "totalAmound": 1500,
       "regions": [
-        "USA West",
-        "Canada West",
-        "Canada East"
+        {
+          "amount": 50,
+          "city": "Fredericton, NB",
+          "region": "Canada East"
+        },
+        {
+          "amount": 150,
+          "city": "Denver, CO",
+          "region": "USA West"
+        },
+        {
+          "amount": 150,
+          "city": "Oklahoma City, OK",
+          "region": "USA South"
+        },
+        {
+          "amount": 150,
+          "city": "Brussels, BE",
+          "region": "Europe West"
+        },
+        {
+          "amount": 1000,
+          "city": "Philadelphia, PA",
+          "region": "USA East"
+        }
       ]
     },
     {
-      "resource": "Copper",
+      "name": "Copper",
+      "totalAmound": 600,
       "regions": [
-        "USA West",
-        "Canada West"
+        {
+          "amount": 50,
+          "city": "Bismarck, ND",
+          "region": "USA Center"
+        },
+        {
+          "amount": 50,
+          "city": "El Paso, TX",
+          "region": "USA West"
+        },
+        {
+          "amount": 150,
+          "city": "Miami, FL",
+          "region": "USA South"
+        },
+        {
+          "amount": 350,
+          "city": "St. John's, NL",
+          "region": "Canada East"
+        }
       ]
     },
     {
-      "resource": "Corn",
+      "name": "Corn",
+      "totalAmound": 1450,
       "regions": [
-        "USA South",
-        "USA Center",
-        "Canada Center"
+        {
+          "amount": 25,
+          "city": "Dover, DE",
+          "region": "USA East"
+        },
+        {
+          "amount": 25,
+          "city": "Montpelier, VT",
+          "region": "USA East"
+        },
+        {
+          "amount": 50,
+          "city": "Hazelton, BC",
+          "region": "Canada West"
+        },
+        {
+          "amount": 350,
+          "city": "Detroit, MI",
+          "region": "USA East"
+        },
+        {
+          "amount": 1000,
+          "city": "New Orleans, LA",
+          "region": "USA South"
+        }
       ]
     },
     {
-      "resource": "Cow",
+      "name": "Cow",
+      "totalAmound": 675,
       "regions": [
-        "USA Center",
-        "Canada Center",
-        "Canada East"
+        {
+          "amount": 25,
+          "city": "Kennewick, WA",
+          "region": "USA West"
+        },
+        {
+          "amount": 150,
+          "city": "Pittsburgh, PA",
+          "region": "USA East"
+        },
+        {
+          "amount": 150,
+          "city": "Budapest, HU",
+          "region": "Europe East"
+        },
+        {
+          "amount": 350,
+          "city": "Nashville, TN",
+          "region": "USA South"
+        }
       ]
     },
     {
-      "resource": "Firework",
+      "name": "Firework",
+      "totalAmound": 1525,
       "regions": [
-        "USA Center"
+        {
+          "amount": 25,
+          "city": "The Pas, MB",
+          "region": "Canada Center"
+        },
+        {
+          "amount": 150,
+          "city": "Atlanta, GA",
+          "region": "USA South"
+        },
+        {
+          "amount": 350,
+          "city": "Calgary, AB",
+          "region": "Canada West"
+        },
+        {
+          "amount": 1000,
+          "city": "Montreal, QC",
+          "region": "Canada East"
+        }
       ]
     },
     {
-      "resource": "Hockey Stick",
+      "name": "Hockey Stick",
+      "totalAmound": 225,
       "regions": [
-        "Canada Center"
+        {
+          "amount": 25,
+          "city": "Galesburg, IL",
+          "region": "USA Center"
+        },
+        {
+          "amount": 50,
+          "city": "Atlanta, GA",
+          "region": "USA Center"
+        },
+        {
+          "amount": 150,
+          "city": "Zurich, CH",
+          "region": "Europe West"
+        }
       ]
     },
     {
-      "resource": "Holy Water",
+      "name": "Holy Water",
+      "totalAmound": 100,
       "regions": [
-        "Europe South",
-        "Europe East"
+        {
+          "amount": 25,
+          "city": "Rome, IT",
+          "region": "Europe South"
+        },
+        {
+          "amount": 25,
+          "city": "Tallinn, EE",
+          "region": "Europe North"
+        },
+        {
+          "amount": 50,
+          "city": "Cluj-Napoca, RO",
+          "region": "Europe East"
+        }
       ]
     },
     {
-      "resource": "Honey",
+      "name": "Honey",
+      "totalAmound": 100,
       "regions": [
-        "USA East",
-        "USA West",
-        "Canada Center"
+        {
+          "amount": 25,
+          "city": "Des Moines, IA",
+          "region": "USA Center"
+        },
+        {
+          "amount": 25,
+          "city": "Harrisburg, PA",
+          "region": "USA East"
+        },
+        {
+          "amount": 25,
+          "city": "Rapid City, SD",
+          "region": "USA Center"
+        },
+        {
+          "amount": 25,
+          "city": "Riga, LV",
+          "region": "Europe North"
+        }
       ]
     },
     {
-      "resource": "Iron",
+      "name": "Iron",
+      "totalAmound": 475,
       "regions": [
-        "USA Center",
-        "USA West"
+        {
+          "amount": 25,
+          "city": "Fort Simpson, NT",
+          "region": "Canada West"
+        },
+        {
+          "amount": 50,
+          "city": "Pierre, SD",
+          "region": "USA Center"
+        },
+        {
+          "amount": 50,
+          "city": "Santa Fe, NM",
+          "region": "USA West"
+        },
+        {
+          "amount": 350,
+          "city": "Albuquerque, NM",
+          "region": "USA West"
+        }
       ]
     },
     {
-      "resource": "Lemon",
+      "name": "Lemon",
+      "totalAmound": 650,
       "regions": [
-        "USA South",
-        "USA West",
-        "Europe West",
-        "Europe South"
+        {
+          "amount": 50,
+          "city": "Albany, NY",
+          "region": "USA East"
+        },
+        {
+          "amount": 50,
+          "city": "Sherbrooke, QC",
+          "region": "Canada East"
+        },
+        {
+          "amount": 50,
+          "city": "Springfield, IL",
+          "region": "USA Center"
+        },
+        {
+          "amount": 150,
+          "city": "Baltimore, MD",
+          "region": "USA East"
+        },
+        {
+          "amount": 350,
+          "city": "Phoenix, AZ",
+          "region": "USA West"
+        }
       ]
     },
     {
-      "resource": "Meatball",
+      "name": "Meatball",
+      "totalAmound": 550,
       "regions": [
-        "Europe West",
-        "Europe East",
-        "Europe North"
+        {
+          "amount": 50,
+          "city": "Timisoara, RO",
+          "region": "Europe East"
+        },
+        {
+          "amount": 150,
+          "city": "Porto, PT",
+          "region": "Europe South"
+        },
+        {
+          "amount": 350,
+          "city": "Athens, GR",
+          "region": "Europe South"
+        }
       ]
     },
     {
-      "resource": "Microprocessor",
+      "name": "Micro Processor",
+      "totalAmound": 2400,
       "regions": [
-        "USA West"
+        {
+          "amount": 50,
+          "city": "Tucson, AZ",
+          "region": "USA West"
+        },
+        {
+          "amount": 350,
+          "city": "Vancouver, BC",
+          "region": "Canada West"
+        },
+        {
+          "amount": 1000,
+          "city": "San Francisco, CA",
+          "region": "USA West"
+        },
+        {
+          "amount": 1000,
+          "city": "Toronto, ON",
+          "region": "Canada West"
+        }
       ]
     },
     {
-      "resource": "Oil",
+      "name": "Oil",
+      "totalAmound": 1275,
       "regions": [
-        "USA South",
-        "Canada West"
+        {
+          "amount": 25,
+          "city": "Richmond, VA",
+          "region": "USA East"
+        },
+        {
+          "amount": 50,
+          "city": "Helena, MT",
+          "region": "USA Center"
+        },
+        {
+          "amount": 50,
+          "city": "Providence, RI",
+          "region": "USA East"
+        },
+        {
+          "amount": 150,
+          "city": "Halifax, NS",
+          "region": "Canada East"
+        },
+        {
+          "amount": 1000,
+          "city": "Banff, AB",
+          "region": "Canada West"
+        }
       ]
     },
     {
-      "resource": "Onion",
+      "name": "Onion",
+      "totalAmound": 575,
       "regions": [
-        "USA East",
-        "Europe East"
+        {
+          "amount": 25,
+          "city": "Chisinau, MD",
+          "region": "Europe East"
+        },
+        {
+          "amount": 50,
+          "city": "Bratislava, SK",
+          "region": "Europe East"
+        },
+        {
+          "amount": 150,
+          "city": "Zagreb, HR",
+          "region": "Europe South"
+        },
+        {
+          "amount": 350,
+          "city": "Prague, CZ",
+          "region": "Europe East"
+        }
       ]
     },
     {
-      "resource": "Orange",
+      "name": "Orange",
+      "totalAmound": 600,
       "regions": [
-        "USA South",
-        "USA West"
+        {
+          "amount": 25,
+          "city": "Iskut, BC",
+          "region": "Canada West"
+        },
+        {
+          "amount": 25,
+          "city": "Jefferson City, MO",
+          "region": "USA South"
+        },
+        {
+          "amount": 50,
+          "city": "Hartford, CT",
+          "region": "USA East"
+        },
+        {
+          "amount": 150,
+          "city": "Sacramento, CA",
+          "region": "USA West"
+        },
+        {
+          "amount": 350,
+          "city": "Washington, DC",
+          "region": "USA East"
+        }
       ]
     },
     {
-      "resource": "Paper",
+      "name": "Paper",
+      "totalAmound": 600,
       "regions": [
-        "USA East",
-        "Canada West"
+        {
+          "amount": 50,
+          "city": "Madison, WI",
+          "region": "USA Center"
+        },
+        {
+          "amount": 50,
+          "city": "Tallahassee, FL",
+          "region": "USA South"
+        },
+        {
+          "amount": 150,
+          "city": "Raleigh, NC",
+          "region": "USA East"
+        },
+        {
+          "amount": 350,
+          "city": "Columbus, OH",
+          "region": "USA East"
+        }
       ]
     },
     {
-      "resource": "Parka",
+      "name": "Parka",
+      "totalAmound": 2350,
       "regions": [
-        "Canada West"
+        {
+          "amount": 350,
+          "city": "Ottawa, ON",
+          "region": "Canada East"
+        },
+        {
+          "amount": 1000,
+          "city": "Seattle, WA",
+          "region": "USA West"
+        },
+        {
+          "amount": 1000,
+          "city": "Berlin, DE",
+          "region": "Europe North"
+        }
       ]
     },
     {
-      "resource": "Pasta",
+      "name": "Pasta",
+      "totalAmound": 250,
       "regions": [
-        "Europe South"
+        {
+          "amount": 50,
+          "city": "Luxembourg, LU",
+          "region": "Europe West"
+        },
+        {
+          "amount": 50,
+          "city": "Naples, IT",
+          "region": "Europe South"
+        },
+        {
+          "amount": 150,
+          "city": "Cardiff, UK",
+          "region": "Europe West"
+        }
       ]
     },
     {
-      "resource": "Pig",
+      "name": "Pig",
+      "totalAmound": 725,
       "regions": [
-        "USA South",
-        "Canada East"
+        {
+          "amount": 25,
+          "city": "Augusta, ME",
+          "region": "USA East"
+        },
+        {
+          "amount": 50,
+          "city": "Trenton, NJ",
+          "region": "USA East"
+        },
+        {
+          "amount": 150,
+          "city": "Regina, SK",
+          "region": "Canada Center"
+        },
+        {
+          "amount": 150,
+          "city": "Wood Buffalo, AB",
+          "region": "Canada West"
+        },
+        {
+          "amount": 350,
+          "city": "Dallas, TX",
+          "region": "USA South"
+        }
       ]
     },
     {
-      "resource": "Pizza",
+      "name": "Pizza",
+      "totalAmound": 1725,
       "regions": [
-        "USA East"
+        {
+          "amount": 25,
+          "city": "Toledo, OH",
+          "region": "USA East"
+        },
+        {
+          "amount": 50,
+          "city": "Lincoln, NE",
+          "region": "USA Center"
+        },
+        {
+          "amount": 150,
+          "city": "London, ON",
+          "region": "Canada East"
+        },
+        {
+          "amount": 150,
+          "city": "Winnipeg, MB",
+          "region": "Canada Center"
+        },
+        {
+          "amount": 350,
+          "city": "Austin, TX",
+          "region": "USA South"
+        },
+        {
+          "amount": 1000,
+          "city": "Los Angeles, CA",
+          "region": "USA West"
+        }
       ]
     },
     {
-      "resource": "Poutine",
+      "name": "Poutine",
+      "totalAmound": 1200,
       "regions": [
-        "Canada East"
+        {
+          "amount": 50,
+          "city": "Kamloops, BC",
+          "region": "Canada West"
+        },
+        {
+          "amount": 150,
+          "city": "Portland, OR",
+          "region": "USA West"
+        },
+        {
+          "amount": 1000,
+          "city": "Houston, TX",
+          "region": "USA South"
+        }
       ]
     },
     {
-      "resource": "Salmon",
+      "name": "Salmon",
+      "totalAmound": 575,
       "regions": [
-        "USA East",
-        "Canada East"
+        {
+          "amount": 25,
+          "city": "Little Rock, AK",
+          "region": "USA South"
+        },
+        {
+          "amount": 50,
+          "city": "Charleston, WV",
+          "region": "USA East"
+        },
+        {
+          "amount": 150,
+          "city": "Saskatoon, SK",
+          "region": "Canada Center"
+        },
+        {
+          "amount": 350,
+          "city": "Memphis, TN",
+          "region": "USA South"
+        }
       ]
     },
     {
-      "resource": "Sausage",
+      "name": "Sausage",
+      "totalAmound": 575,
       "regions": [
-        "Europe West",
-        "Europe East",
-        "Europe North"
+        {
+          "amount": 25,
+          "city": "Ostrava, CZ",
+          "region": "Europe East"
+        },
+        {
+          "amount": 50,
+          "city": "Lisbon, PT",
+          "region": "Europe South"
+        },
+        {
+          "amount": 150,
+          "city": "Nantes, FR",
+          "region": "Europe West"
+        },
+        {
+          "amount": 350,
+          "city": "Dublin, IE",
+          "region": "Europe West"
+        }
       ]
     },
     {
-      "resource": "Sheep",
+      "name": "Sheep",
+      "totalAmound": 575,
       "regions": [
-        "Europe West",
-        "Europe East"
+        {
+          "amount": 25,
+          "city": "Sofia, BG",
+          "region": "Europe East"
+        },
+        {
+          "amount": 50,
+          "city": "Ljubljana, SK",
+          "region": "Europe South"
+        },
+        {
+          "amount": 150,
+          "city": "Edinburgh, UK",
+          "region": "Europe West"
+        },
+        {
+          "amount": 350,
+          "city": "Bern, CH",
+          "region": "Europe West"
+        }
       ]
     },
     {
-      "resource": "Steel",
+      "name": "Steel",
+      "totalAmound": 650,
       "regions": [
-        "USA East",
-        "Canada East"
+        {
+          "amount": 150,
+          "city": "Baton Rouge, LA",
+          "region": "USA South"
+        },
+        {
+          "amount": 150,
+          "city": "Charlottetown, PE",
+          "region": "Canada East"
+        },
+        {
+          "amount": 350,
+          "city": "Edmonton, AB",
+          "region": "Canada West"
+        }
       ]
     },
     {
-      "resource": "Strawberry",
+      "name": "Strawberry",
+      "totalAmound": 1425,
       "regions": [
-        "USA East",
-        "USA South"
+        {
+          "amount": 25,
+          "city": "Fort Stockton, TX",
+          "region": "USA South"
+        },
+        {
+          "amount": 25,
+          "city": "Yellowknife, NT",
+          "region": "Canada West"
+        },
+        {
+          "amount": 25,
+          "city": "Galway, IE",
+          "region": "Europe West"
+        },
+        {
+          "amount": 350,
+          "city": "Boston, MA",
+          "region": "USA East"
+        },
+        {
+          "amount": 1000,
+          "city": "Milano, IT",
+          "region": "Europe South"
+        }
       ]
     },
     {
-      "resource": "Tea",
+      "name": "Tea",
+      "totalAmound": 1425,
       "regions": [
-        "Europe West"
+        {
+          "amount": 25,
+          "city": "Vaduz, LT",
+          "region": "Europe West"
+        },
+        {
+          "amount": 50,
+          "city": "Southhampton, UK",
+          "region": "Europe West"
+        },
+        {
+          "amount": 350,
+          "city": "Amsterdam, NL",
+          "region": "Europe West"
+        },
+        {
+          "amount": 1000,
+          "city": "London, UK",
+          "region": "Europe West"
+        }
       ]
     },
     {
-      "resource": "Tulip",
+      "name": "Tulip",
+      "totalAmound": 1550,
       "regions": [
-        "Europe South",
-        "Europe North"
+        {
+          "amount": 150,
+          "city": "Warsaw, PL",
+          "region": "Europe North"
+        },
+        {
+          "amount": 350,
+          "city": "Andorra, AD",
+          "region": "Europe South"
+        },
+        {
+          "amount": 1000,
+          "city": "Paris, FR",
+          "region": "Europe West"
+        }
       ]
     },
     {
-      "resource": "Utility Knife",
+      "name": "Utility Knife",
+      "totalAmound": 575,
       "regions": [
-        "Europe North"
+        {
+          "amount": 25,
+          "city": "Minsk, BY",
+          "region": "Europe North"
+        },
+        {
+          "amount": 150,
+          "city": "Stockholm, SE",
+          "region": "Europe North"
+        },
+        {
+          "amount": 350,
+          "city": "Oslo, NO",
+          "region": "Europe North"
+        }
       ]
     },
     {
-      "resource": "Water",
+      "name": "Water",
+      "totalAmound": 1250,
       "regions": [
-        "Canada West",
-        "Canada East",
-        "Europe North"
+        {
+          "amount": 50,
+          "city": "Fort McMurray, AB",
+          "region": "Canada West"
+        },
+        {
+          "amount": 50,
+          "city": "Bucharest, RO",
+          "region": "Europe East"
+        },
+        {
+          "amount": 1000,
+          "city": "Las Vegas, NV",
+          "region": "USA West"
+        }
       ]
     },
     {
-      "resource": "Wheat",
+      "name": "Wheat",
+      "totalAmound": 275,
       "regions": [
-        "USA Center",
-        "Canada Center"
+        {
+          "amount": 25,
+          "city": "Edmundston, NB",
+          "region": "Canada East"
+        },
+        {
+          "amount": 50,
+          "city": "Boise, ID",
+          "region": "USA West"
+        },
+        {
+          "amount": 50,
+          "city": "Jackson, MS",
+          "region": "USA South"
+        }
       ]
     },
     {
-      "resource": "Wood",
+      "name": "Wood",
+      "totalAmound": 250,
       "regions": [
-        "USA East",
-        "Canada West"
+        {
+          "amount": 25,
+          "city": "Concord, NH",
+          "region": "USA East"
+        },
+        {
+          "amount": 25,
+          "city": "Frankfort, KY",
+          "region": "USA South"
+        },
+        {
+          "amount": 50,
+          "city": "Montgomery, AL",
+          "region": "USA South"
+        },
+        {
+          "amount": 150,
+          "city": "St. Louis, MO",
+          "region": "USA Center"
+        }
       ]
     }
   ]

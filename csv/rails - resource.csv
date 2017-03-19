@@ -1,0 +1,187 @@
+Name,Amount Needed,City,Region
+Apple,25,"Whitehorse, YT",Canada West
+Apple,25,"Yorkton, SK",Canada Center
+Apple,50,"Olympia, WA",USA West
+Apple,50,"Topeka, KS",USA South
+Apple,150,Total Amound,
+BBQ Rib,50,"Columbia, SC",USA South
+BBQ Rib,150,"Kingston, ON",Canada East
+BBQ Rib,"1,000","New York, NY",USA East
+BBQ Rib,"1,200",Total Amound,
+Bonbon,25,"Kiev, UA",Europe North
+Bonbon,150,"Valleta, MT",Europe South
+Bonbon,150,"Vienna, AT",Europe East
+Bonbon,325,Total Amound,
+Candle,50,"Helsinki, FI",Europe North
+Candle,50,"Tirana, AL",Europe South
+Candle,"1,000","Barcelona, ES",Europe South
+Candle,"1,000","Copenhagen, DK",Europe North
+Candle,"2,100",Total Amound,
+Carrot,50,"Billings, MT",USA Center
+Carrot,50,"Cheyenne, WY",USA Center
+Carrot,50,"Belfast, UK",Europe West
+Carrot,350,"Chicago, IL",USA Center
+Carrot,500,Total Amound,
+Casino Chip,25,"Skopje, MK",Europe South
+Casino Chip,50,"Bilbao, ES",Europe South
+Casino Chip,350,"Madrid, ES",Europe South
+Casino Chip,"1,000","Monaco, FR",Europe South
+Casino Chip,"1,425",Total Amound,
+Chicken,50,"Fredericton, NB",Canada East
+Chicken,150,"Denver, CO",USA West
+Chicken,150,"Oklahoma City, OK",USA South
+Chicken,150,"Brussels, BE",Europe West
+Chicken,"1,000","Philadelphia, PA",USA East
+Chicken,"1,500",Total Amound,
+Copper,50,"Bismarck, ND",USA Center
+Copper,50,"El Paso, TX",USA West
+Copper,150,"Miami, FL",USA South
+Copper,350,"St. John's, NL",Canada East
+Copper,600,Total Amound,
+Corn,25,"Dover, DE",USA East
+Corn,25,"Montpelier, VT",USA East
+Corn,50,"Hazelton, BC",Canada West
+Corn,350,"Detroit, MI",USA East
+Corn,"1,000","New Orleans, LA",USA South
+Corn,"1,450",Total Amound,
+Cow,25,"Kennewick, WA",USA West
+Cow,150,"Pittsburgh, PA",USA East
+Cow,150,"Budapest, HU",Europe East
+Cow,350,"Nashville, TN",USA South
+Cow,675,Total Amound,
+Firework,25,"The Pas, MB",Canada Center
+Firework,150,"Atlanta, GA",USA South
+Firework,350,"Calgary, AB",Canada West
+Firework,"1,000","Montreal, QC",Canada East
+Firework,"1,525",Total Amound,
+Hockey Stick,25,"Galesburg, IL",USA Center
+Hockey Stick,50,"Atlanta, GA",USA Center
+Hockey Stick,150,"Zurich, CH",Europe West
+Hockey Stick,225,Total Amound,
+Holy Water,25,"Rome, IT",Europe South
+Holy Water,25,"Tallinn, EE",Europe North
+Holy Water,50,"Cluj-Napoca, RO",Europe East
+Holy Water,100,Total Amound,
+Honey,25,"Des Moines, IA",USA Center
+Honey,25,"Harrisburg, PA",USA East
+Honey,25,"Rapid City, SD",USA Center
+Honey,25,"Riga, LV",Europe North
+Honey,100,Total Amound,
+Iron,25,"Fort Simpson, NT",Canada West
+Iron,50,"Pierre, SD",USA Center
+Iron,50,"Santa Fe, NM",USA West
+Iron,350,"Albuquerque, NM",USA West
+Iron,475,Total Amound,
+Lemon,50,"Albany, NY",USA East
+Lemon,50,"Sherbrooke, QC",Canada East
+Lemon,50,"Springfield, IL",USA Center
+Lemon,150,"Baltimore, MD",USA East
+Lemon,350,"Phoenix, AZ",USA West
+Lemon,650,Total Amound,
+Meatball,50,"Timisoara, RO",Europe East
+Meatball,150,"Porto, PT",Europe South
+Meatball,350,"Athens, GR",Europe South
+Meatball,550,Total Amound,
+Micro Processor,50,"Tucson, AZ",USA West
+Micro Processor,350,"Vancouver, BC",Canada West
+Micro Processor,"1,000","San Francisco, CA",USA West
+Micro Processor,"1,000","Toronto, ON",Canada West
+Micro Processor,"2,400",Total Amound,
+Oil,25,"Richmond, VA",USA East
+Oil,50,"Helena, MT",USA Center
+Oil,50,"Providence, RI",USA East
+Oil,150,"Halifax, NS",Canada East
+Oil,"1,000","Banff, AB",Canada West
+Oil,"1,275",Total Amound,
+Onion,25,"Chisinau, MD",Europe East
+Onion,50,"Bratislava, SK",Europe East
+Onion,150,"Zagreb, HR",Europe South
+Onion,350,"Prague, CZ",Europe East
+Onion,575,Total Amound,
+Orange,25,"Iskut, BC",Canada West
+Orange,25,"Jefferson City, MO",USA South
+Orange,50,"Hartford, CT",USA East
+Orange,150,"Sacramento, CA",USA West
+Orange,350,"Washington, DC",USA East
+Orange,600,Total Amound,
+Paper,50,"Madison, WI",USA Center
+Paper,50,"Tallahassee, FL",USA South
+Paper,150,"Raleigh, NC",USA East
+Paper,350,"Columbus, OH",USA East
+Paper,600,Total Amound,
+Parka,350,"Ottawa, ON",Canada East
+Parka,"1,000","Seattle, WA",USA West
+Parka,"1,000","Berlin, DE",Europe North
+Parka,"2,350",Total Amound,
+Pasta,50,"Luxembourg, LU",Europe West
+Pasta,50,"Naples, IT",Europe South
+Pasta,150,"Cardiff, UK",Europe West
+Pasta,250,Total Amound,
+Pig,25,"Augusta, ME",USA East
+Pig,50,"Trenton, NJ",USA East
+Pig,150,"Regina, SK",Canada Center
+Pig,150,"Wood Buffalo, AB",Canada West
+Pig,350,"Dallas, TX",USA South
+Pig,725,Total Amound,
+Pizza,25,"Toledo, OH",USA East
+Pizza,50,"Lincoln, NE",USA Center
+Pizza,150,"London, ON",Canada East
+Pizza,150,"Winnipeg, MB",Canada Center
+Pizza,350,"Austin, TX",USA South
+Pizza,"1,000","Los Angeles, CA",USA West
+Pizza,"1,725",Total Amound,
+Poutine,50,"Kamloops, BC",Canada West
+Poutine,150,"Portland, OR",USA West
+Poutine,"1,000","Houston, TX",USA South
+Poutine,"1,200",Total Amound,
+Salmon,25,"Little Rock, AK",USA South
+Salmon,50,"Charleston, WV",USA East
+Salmon,150,"Saskatoon, SK",Canada Center
+Salmon,350,"Memphis, TN",USA South
+Salmon,575,Total Amound,
+Sausage,25,"Ostrava, CZ",Europe East
+Sausage,50,"Lisbon, PT",Europe South
+Sausage,150,"Nantes, FR",Europe West
+Sausage,350,"Dublin, IE",Europe West
+Sausage,575,Total Amound,
+Sheep,25,"Sofia, BG",Europe East
+Sheep,50,"Ljubljana, SK",Europe South
+Sheep,150,"Edinburgh, UK",Europe West
+Sheep,350,"Bern, CH",Europe West
+Sheep,575,Total Amound,
+Steel,150,"Baton Rouge, LA",USA South
+Steel,150,"Charlottetown, PE",Canada East
+Steel,350,"Edmonton, AB",Canada West
+Steel,650,Total Amound,
+Strawberry,25,"Fort Stockton, TX",USA South
+Strawberry,25,"Yellowknife, NT",Canada West
+Strawberry,25,"Galway, IE",Europe West
+Strawberry,350,"Boston, MA",USA East
+Strawberry,"1,000","Milano, IT",Europe South
+Strawberry,"1,425",Total Amound,
+Tea,25,"Vaduz, LT",Europe West
+Tea,50,"Southhampton, UK",Europe West
+Tea,350,"Amsterdam, NL",Europe West
+Tea,"1,000","London, UK",Europe West
+Tea,"1,425",Total Amound,
+Tulip,150,"Warsaw, PL",Europe North
+Tulip,350,"Andorra, AD",Europe South
+Tulip,"1,000","Paris, FR",Europe West
+Tulip,"1,550",Total Amound,
+Utility Knife,25,"Minsk, BY",Europe North
+Utility Knife,150,"Stockholm, SE",Europe North
+Utility Knife,350,"Oslo, NO",Europe North
+Utility Knife,575,Total Amound,
+Water,50,"Fort McMurray, AB",Canada West
+Water,50,"Bucharest, RO",Europe East
+Water,"1,000","Las Vegas, NV",USA West
+Water,"1,250",Total Amound,
+Wheat,25,"Edmundston, NB",Canada East
+Wheat,50,"Boise, ID",USA West
+Wheat,50,"Jackson, MS",USA South
+Wheat,275,Total Amound,
+Wood,25,"Concord, NH",USA East
+Wood,25,"Frankfort, KY",USA South
+Wood,50,"Montgomery, AL",USA South
+Wood,150,"St. Louis, MO",USA Center
+Wood,250,Total Amound,

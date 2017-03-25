@@ -1,6 +1,6 @@
 {
   "game": "tiny rails",
-  "update": "2017-03-16",
+  "update": "2017-03-25",
   "version": "0.1.0",
   "info": "stations",
   "content": [
@@ -15,7 +15,9 @@
       "region": "USA East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 42.67001691,
+      "longitude": 73.81994918
     },
     {
       "city": "Montpelier",
@@ -28,7 +30,9 @@
       "region": "USA East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 44.25997154,
+      "longitude": 72.57581323
     },
     {
       "city": "Augusta",
@@ -41,7 +45,9 @@
       "region": "USA East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 44.31056276,
+      "longitude": 69.77998906
     },
     {
       "city": "Concord",
@@ -54,7 +60,9 @@
       "region": "USA East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 43.20807192,
+      "longitude": 71.53804712
     },
     {
       "city": "Boston",
@@ -67,7 +75,9 @@
       "region": "USA East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 42.32996014,
+      "longitude": 71.07001367
     },
     {
       "city": "Providence",
@@ -80,7 +90,9 @@
       "region": "USA East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 41.82110231,
+      "longitude": 71.4149797
     },
     {
       "city": "Hartford",
@@ -93,7 +105,9 @@
       "region": "USA East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 41.77002016,
+      "longitude": 72.67996708
     },
     {
       "city": "New York",
@@ -106,7 +120,9 @@
       "region": "USA East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 40.74997906,
+      "longitude": 73.98001693
     },
     {
       "city": "Trenton",
@@ -119,7 +135,9 @@
       "region": "USA East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 40.2169625,
+      "longitude": 74.74335535
     },
     {
       "city": "Philadelphia",
@@ -132,7 +150,9 @@
       "region": "USA East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 39.99997316,
+      "longitude": 75.16999597
     },
     {
       "city": "Dover",
@@ -145,7 +165,9 @@
       "region": "USA East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 39.15808657,
+      "longitude": 75.524703
     },
     {
       "city": "Baltimore",
@@ -158,7 +180,9 @@
       "region": "USA East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 39.29999005,
+      "longitude": 76.61998499
     },
     {
       "city": "Washington",
@@ -171,7 +195,9 @@
       "region": "USA East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 38.89954938,
+      "longitude": 77.00941858
     },
     {
       "city": "Richmond",
@@ -184,20 +210,24 @@
       "region": "USA East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 37.55001935,
+      "longitude": 77.449986
     },
     {
       "city": "Raleigh",
       "state": "NC",
-      "passengers": 5,
-      "upgradeCosts": "500/1,000/5,000",
+      "passengers": 15,
+      "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Paper",
       "amountDemanded": 150,
       "connectsTo": "Richmond, Charleston, Columbia",
       "region": "USA East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 35.81878135,
+      "longitude": 78.64469344
     },
     {
       "city": "Charleston",
@@ -210,7 +240,9 @@
       "region": "USA East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 38.34973798,
+      "longitude": 81.63272811
     },
     {
       "city": "Columbus",
@@ -223,7 +255,9 @@
       "region": "USA East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 39.97997438,
+      "longitude": 82.9900096
     },
     {
       "city": "Detroit",
@@ -236,7 +270,9 @@
       "region": "USA East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 42.32996014,
+      "longitude": 83.08005579
     },
     {
       "city": "Toledo",
@@ -249,7 +285,9 @@
       "region": "USA East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 41.67002626,
+      "longitude": 83.57997359
     },
     {
       "city": "Pittsburgh",
@@ -262,7 +300,9 @@
       "region": "USA East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 40.4299986,
+      "longitude": 79.99998539
     },
     {
       "city": "Harrisburg",
@@ -275,7 +315,9 @@
       "region": "USA East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 40.27359987,
+      "longitude": 76.88474919
     },
     {
       "city": "Atlanta",
@@ -288,7 +330,9 @@
       "region": "USA South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 33.83001385,
+      "longitude": 84.39994938
     },
     {
       "city": "Miami",
@@ -301,7 +345,9 @@
       "region": "USA South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 25.7876107,
+      "longitude": 80.22410608
     },
     {
       "city": "Tallahassee",
@@ -314,7 +360,9 @@
       "region": "USA South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 30.44998761,
+      "longitude": 84.28003422
     },
     {
       "city": "Montgomery",
@@ -327,7 +375,9 @@
       "region": "USA South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 32.36160219,
+      "longitude": 86.27918868
     },
     {
       "city": "Jackson",
@@ -340,7 +390,9 @@
       "region": "USA South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 32.29881533,
+      "longitude": 90.18499679
     },
     {
       "city": "Little Rock",
@@ -353,7 +405,9 @@
       "region": "USA South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 34.73608258,
+      "longitude": 92.33109318
     },
     {
       "city": "New Orleans",
@@ -366,7 +420,9 @@
       "region": "USA South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 29.99500246,
+      "longitude": 90.03996688
     },
     {
       "city": "Baton Rouge",
@@ -379,7 +435,9 @@
       "region": "USA South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 30.45794578,
+      "longitude": 91.14015812
     },
     {
       "city": "Houston",
@@ -392,7 +450,9 @@
       "region": "USA South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 29.81997438,
+      "longitude": 95.33997929
     },
     {
       "city": "Austin",
@@ -405,7 +465,9 @@
       "region": "USA South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 30.26694969,
+      "longitude": 97.74277836
     },
     {
       "city": "Fort Stockton",
@@ -418,7 +480,9 @@
       "region": "USA South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 30.89169191,
+      "longitude": 102.8849968
     },
     {
       "city": "Dallas",
@@ -431,7 +495,9 @@
       "region": "USA South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 32.82002382,
+      "longitude": 96.84001693
     },
     {
       "city": "Oklahoma City",
@@ -444,7 +510,9 @@
       "region": "USA South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 35.47004295,
+      "longitude": 97.51868351
     },
     {
       "city": "Topeka",
@@ -457,7 +525,9 @@
       "region": "USA South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 39.05000531,
+      "longitude": 95.66998499
     },
     {
       "city": "Jefferson City",
@@ -470,7 +540,9 @@
       "region": "USA South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 38.57662335,
+      "longitude": 92.17332503
     },
     {
       "city": "Memphis",
@@ -483,7 +555,9 @@
       "region": "USA South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 35.1199868,
+      "longitude": 89.99999516
     },
     {
       "city": "Frankfort",
@@ -496,7 +570,9 @@
       "region": "USA South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 38.2008065,
+      "longitude": 84.87335718
     },
     {
       "city": "Nashville",
@@ -509,7 +585,9 @@
       "region": "USA South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 36.16997438,
+      "longitude": 86.77998499
     },
     {
       "city": "Columbia",
@@ -522,7 +600,9 @@
       "region": "USA South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 34.0399752,
+      "longitude": 80.89998214
     },
     {
       "city": "Billings",
@@ -535,7 +615,9 @@
       "region": "USA Center",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 45.78830202,
+      "longitude": 108.5400004
     },
     {
       "city": "Rapid City",
@@ -548,7 +630,9 @@
       "region": "USA Center",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 44.08055096,
+      "longitude": 103.2305571
     },
     {
       "city": "Pierre",
@@ -561,7 +645,9 @@
       "region": "USA Center",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 44.36833701,
+      "longitude": 100.350552
     },
     {
       "city": "Bismarck",
@@ -574,7 +660,9 @@
       "region": "USA Center",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 46.80831728,
+      "longitude": 100.7833163
     },
     {
       "city": "Saint Paul",
@@ -587,7 +675,9 @@
       "region": "USA Center",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 44.94398663,
+      "longitude": 93.08497481
     },
     {
       "city": "Madison",
@@ -600,7 +690,9 @@
       "region": "USA Center",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 43.07301556,
+      "longitude": 89.40111699
     },
     {
       "city": "Chicago",
@@ -613,7 +705,9 @@
       "region": "USA Center",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 41.82999066,
+      "longitude": 87.75005497
     },
     {
       "city": "Indianapolis",
@@ -626,7 +720,9 @@
       "region": "USA Center",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 39.74998842,
+      "longitude": 86.17004806
     },
     {
       "city": "St Louis",
@@ -639,7 +735,9 @@
       "region": "USA Center",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 38.63501772,
+      "longitude": 90.23998051
     },
     {
       "city": "Springfield",
@@ -652,7 +750,9 @@
       "region": "USA Center",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 39.82000999,
+      "longitude": 89.65001652
     },
     {
       "city": "Galesburg",
@@ -665,7 +765,9 @@
       "region": "USA Center",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 40.94777061,
+      "longitude": 90.37108362
     },
     {
       "city": "Des Moines",
@@ -678,7 +780,9 @@
       "region": "USA Center",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 41.57998008,
+      "longitude": 93.61998092
     },
     {
       "city": "Lincoln",
@@ -691,7 +795,9 @@
       "region": "USA Center",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 40.81997479,
+      "longitude": 96.68000086
     },
     {
       "city": "Cheyenne",
@@ -704,7 +810,9 @@
       "region": "USA Center",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 41.14000694,
+      "longitude": 104.8197107
     },
     {
       "city": "Helena",
@@ -717,7 +825,9 @@
       "region": "USA Center",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 46.59274904,
+      "longitude": 112.035291
     },
     {
       "city": "Albuquerque",
@@ -730,7 +840,9 @@
       "region": "USA West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 35.10497479,
+      "longitude": 106.6413308
     },
     {
       "city": "Santa Fe",
@@ -743,7 +855,9 @@
       "region": "USA West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 35.68692893,
+      "longitude": 105.9372394
     },
     {
       "city": "Denver",
@@ -756,7 +870,9 @@
       "region": "USA West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 39.73918805,
+      "longitude": 104.984016
     },
     {
       "city": "Boise",
@@ -769,7 +885,9 @@
       "region": "USA West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 43.60859011,
+      "longitude": 116.2274899
     },
     {
       "city": "Kennewick",
@@ -782,7 +900,9 @@
       "region": "USA West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 46.21137697,
+      "longitude": 119.1360979
     },
     {
       "city": "Seattle",
@@ -795,7 +915,9 @@
       "region": "USA West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 47.57000205,
+      "longitude": 122.339985
     },
     {
       "city": "Olympia",
@@ -808,7 +930,9 @@
       "region": "USA West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 47.03804486,
+      "longitude": 122.899434
     },
     {
       "city": "Portland",
@@ -821,7 +945,9 @@
       "region": "USA West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 45.52002382,
+      "longitude": 122.6799901
     },
     {
       "city": "Sacramento",
@@ -834,7 +960,9 @@
       "region": "USA West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 38.57502138,
+      "longitude": 121.4700381
     },
     {
       "city": "San Francisco",
@@ -847,7 +975,9 @@
       "region": "USA West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 37.74000775,
+      "longitude": 122.4599777
     },
     {
       "city": "Los Angeles",
@@ -860,7 +990,9 @@
       "region": "USA West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 33.98997825,
+      "longitude": 118.1799805
     },
     {
       "city": "Las Vegas",
@@ -873,7 +1005,9 @@
       "region": "USA West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 36.20999778,
+      "longitude": 115.2200061
     },
     {
       "city": "Phoenix",
@@ -886,7 +1020,9 @@
       "region": "USA West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 33.53997988,
+      "longitude": 112.0699917
     },
     {
       "city": "Tucson",
@@ -899,7 +1035,9 @@
       "region": "USA West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 32.20499676,
+      "longitude": 110.8899862
     },
     {
       "city": "El Paso",
@@ -912,7 +1050,9 @@
       "region": "USA West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 31.77998395,
+      "longitude": 106.5099952
     },
     {
       "city": "Banff",
@@ -925,7 +1065,9 @@
       "region": "Canada West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 51.17799888,
+      "longitude": 115.5719227
     },
     {
       "city": "Calgary",
@@ -938,7 +1080,9 @@
       "region": "Canada West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 51.08299176,
+      "longitude": 114.0799982
     },
     {
       "city": "Edmonton",
@@ -951,7 +1095,9 @@
       "region": "Canada West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 53.55002464,
+      "longitude": 113.4999819
     },
     {
       "city": "Fort McMurray",
@@ -964,20 +1110,24 @@
       "region": "Canada West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 56.7333187,
+      "longitude": 111.3833153
     },
     {
       "city": "Wood Buffalo",
       "state": "AB",
       "passengers": 15,
-      "upgradeCosts": "10,000/50,000/100,000",
+      "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Pig",
       "amountDemanded": 150,
       "connectsTo": "Fort McMurray, Yellowknife",
       "region": "Canada West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 56.726667,
+      "longitude": 111.379722
     },
     {
       "city": "Yellowknife",
@@ -990,7 +1140,9 @@
       "region": "Canada West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 62.44201418,
+      "longitude": 114.3969814
     },
     {
       "city": "Fort Simpson",
@@ -1003,7 +1155,9 @@
       "region": "Canada West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 61.84998313,
+      "longitude": 121.3332764
     },
     {
       "city": "Whitehorse",
@@ -1016,7 +1170,9 @@
       "region": "Canada West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 60.71671897,
+      "longitude": 135.0499844
     },
     {
       "city": "Iskut",
@@ -1029,7 +1185,9 @@
       "region": "Canada West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 57.833333,
+      "longitude": 129.983333
     },
     {
       "city": "Hazelton",
@@ -1042,7 +1200,9 @@
       "region": "Canada West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 55.2599,
+      "longitude": 127.64547
     },
     {
       "city": "Kamloops",
@@ -1055,7 +1215,9 @@
       "region": "Canada West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 50.66666058,
+      "longitude": 120.3332858
     },
     {
       "city": "Vancouver",
@@ -1068,7 +1230,9 @@
       "region": "Canada West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 49.27341658,
+      "longitude": 123.1216442
     },
     {
       "city": "Regina",
@@ -1081,7 +1245,9 @@
       "region": "Canada Center",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 50.45003298,
+      "longitude": 104.6170099
     },
     {
       "city": "Saskatoon",
@@ -1094,7 +1260,9 @@
       "region": "Canada Center",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 52.17003135,
+      "longitude": 106.6699854
     },
     {
       "city": "The Pas",
@@ -1107,7 +1275,9 @@
       "region": "Canada Center",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 53.81662335,
+      "longitude": 101.2333147
     },
     {
       "city": "Yorkton",
@@ -1120,7 +1290,9 @@
       "region": "Canada Center",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 51.21706626,
+      "longitude": 102.4665469
     },
     {
       "city": "Winnipeg",
@@ -1133,7 +1305,9 @@
       "region": "Canada Center",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 49.88298749,
+      "longitude": 97.16599186
     },
     {
       "city": "Charlottetown",
@@ -1146,7 +1320,9 @@
       "region": "Canada East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 46.24928164,
+      "longitude": 63.13132512
     },
     {
       "city": "St. John's",
@@ -1159,7 +1335,9 @@
       "region": "Canada East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 45.26704185,
+      "longitude": 66.07667505
     },
     {
       "city": "Halifax",
@@ -1172,7 +1350,9 @@
       "region": "Canada East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 44.65002525,
+      "longitude": 63.60000452
     },
     {
       "city": "Fredericton",
@@ -1185,7 +1365,9 @@
       "region": "Canada East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 45.94999758,
+      "longitude": 66.63330774
     },
     {
       "city": "Sherbrooke",
@@ -1198,7 +1380,9 @@
       "region": "Canada East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 45.40000531,
+      "longitude": 71.89998885
     },
     {
       "city": "Kingston",
@@ -1211,7 +1395,9 @@
       "region": "Canada East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 44.23371991,
+      "longitude": 76.48330082
     },
     {
       "city": "London",
@@ -1224,7 +1410,9 @@
       "region": "Canada East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 42.9699986,
+      "longitude": 81.24998661
     },
     {
       "city": "Toronto",
@@ -1237,7 +1425,9 @@
       "region": "Canada East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 43.69997988,
+      "longitude": 79.42002079
     },
     {
       "city": "Ottawa",
@@ -1250,7 +1440,9 @@
       "region": "Canada East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 45.4166968,
+      "longitude": 75.7000153
     },
     {
       "city": "Montreal",
@@ -1263,7 +1455,9 @@
       "region": "Canada East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 45.49999921,
+      "longitude": 73.58329696
     },
     {
       "city": "Edmundston",
@@ -1276,7 +1470,9 @@
       "region": "Canada East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 47.37941937,
+      "longitude": 68.3332815
     },
     {
       "city": "Galway",
@@ -1289,7 +1485,9 @@
       "region": "Europe West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 53.272393,
+      "longitude": 9.048812298
     },
     {
       "city": "Belfast",
@@ -1302,7 +1500,9 @@
       "region": "Europe West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 54.60001223,
+      "longitude": 5.960034425
     },
     {
       "city": "Edinburgh",
@@ -1315,7 +1515,9 @@
       "region": "Europe West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 55.94832786,
+      "longitude": 3.219090618
     },
     {
       "city": "London",
@@ -1328,7 +1530,9 @@
       "region": "Europe West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 51.49999473,
+      "longitude": 0.116721844
     },
     {
       "city": "Amsterdam",
@@ -1341,7 +1545,9 @@
       "region": "Europe West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 52.34996869,
+      "longitude": 4.916640176
     },
     {
       "city": "Brussels",
@@ -1354,7 +1560,9 @@
       "region": "Europe West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 50.83331708,
+      "longitude": 4.333316608
     },
     {
       "city": "Luxembourg City",
@@ -1367,7 +1575,9 @@
       "region": "Europe West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 49.61166038,
+      "longitude": 6.130002806
     },
     {
       "city": "Vaduz",
@@ -1380,7 +1590,9 @@
       "region": "Europe West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 47.13372377,
+      "longitude": 9.516669473
     },
     {
       "city": "Zurich",
@@ -1393,7 +1605,9 @@
       "region": "Europe West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 47.37998781,
+      "longitude": 8.55001013
     },
     {
       "city": "Bern",
@@ -1406,7 +1620,9 @@
       "region": "Europe West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 46.91668276,
+      "longitude": 7.466975462
     },
     {
       "city": "Paris",
@@ -1419,7 +1635,9 @@
       "region": "Europe West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 48.86669293,
+      "longitude": 2.333335326
     },
     {
       "city": "Nantes",
@@ -1432,7 +1650,9 @@
       "region": "Europe West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 47.21038576,
+      "longitude": 1.590016929
     },
     {
       "city": "Southampton",
@@ -1445,7 +1665,9 @@
       "region": "Europe West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 50.90003135,
+      "longitude": 1.399976849
     },
     {
       "city": "Cardiff",
@@ -1458,7 +1680,9 @@
       "region": "Europe West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 51.49999473,
+      "longitude": 3.22500757
     },
     {
       "city": "Dublin",
@@ -1471,46 +1695,54 @@
       "region": "Europe West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 53.33306114,
+      "longitude": 6.248905682
     },
     {
-      "city": "Southampton",
-      "state": "UK",
-      "passengers": 15,
-      "upgradeCosts": "5,000/50,000/100,000",
-      "resourceDemanded": "Tea",
+      "city": "Andorra La Velle",
+      "state": "AD",
+      "passengers": 30,
+      "upgradeCosts": "50,000/500,000/1,000,000",
+      "resourceDemanded": "Tulip",
+      "amountDemanded": 350,
+      "connectsTo": "Milan, Bilbao",
+      "region": "Europe South",
+      "currentAmountDemanded": 0,
+      "currentResourceDemanded": false,
+      "currentLevel": 0,
+      "latitude": 42.50000144,
+      "longitude": 1.516485961
+    },
+    {
+      "city": "Bilbao",
+      "state": "ES",
+      "passengers": 10,
+      "upgradeCosts": "1,000/5,000/10,000",
+      "resourceDemanded": "Casino Chip",
       "amountDemanded": 50,
-      "connectsTo": "Cardiff, Nantes",
+      "connectsTo": "Nantes, Porto, Andorra La Vella",
       "region": "Europe South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 43.24998151,
+      "longitude": 2.929986818
     },
     {
-      "city": "Cardiff",
-      "state": "UK",
+      "city": "Porto",
+      "state": "PT",
       "passengers": 15,
       "upgradeCosts": "5,000/50,000/100,000",
-      "resourceDemanded": "Pasta",
+      "resourceDemanded": "Meatball",
       "amountDemanded": 150,
-      "connectsTo": "Galway, Southampton",
+      "connectsTo": "Bilbao, Lisbon",
       "region": "Europe South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
-    },
-    {
-      "city": "Dublin",
-      "state": "IE",
-      "passengers": 30,
-      "upgradeCosts": "50,000/500,000/1,000,000",
-      "resourceDemanded": "Sausage",
-      "amountDemanded": 350,
-      "connectsTo": "Galway, Cardiff",
-      "region": "Europe South",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 41.15000633,
+      "longitude": 8.620001263
     },
     {
       "city": "Lisbon",
@@ -1523,7 +1755,9 @@
       "region": "Europe South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 38.72272288,
+      "longitude": 9.144866305
     },
     {
       "city": "Madrid",
@@ -1536,7 +1770,9 @@
       "region": "Europe South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 40.40002626,
+      "longitude": 3.683351686
     },
     {
       "city": "Barcelona",
@@ -1549,7 +1785,9 @@
       "region": "Europe South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 41.38329958,
+      "longitude": 2.183370319
     },
     {
       "city": "Monaco",
@@ -1562,7 +1800,9 @@
       "region": "Europe South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 43.73964569,
+      "longitude": 7.406913173
     },
     {
       "city": "Rome",
@@ -1575,7 +1815,9 @@
       "region": "Europe South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 41.89595563,
+      "longitude": 12.48325842
     },
     {
       "city": "Naples",
@@ -1588,7 +1830,9 @@
       "region": "Europe South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 40.84002525,
+      "longitude": 14.24501135
     },
     {
       "city": "Valleta",
@@ -1601,7 +1845,9 @@
       "region": "Europe South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 35.89973248,
+      "longitude": 14.51471065
     },
     {
       "city": "Tirana",
@@ -1614,7 +1860,9 @@
       "region": "Europe South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 41.32754071,
+      "longitude": 19.81888301
     },
     {
       "city": "Athens",
@@ -1627,7 +1875,9 @@
       "region": "Europe South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 37.98332623,
+      "longitude": 23.73332108
     },
     {
       "city": "Skopje",
@@ -1640,7 +1890,9 @@
       "region": "Europe South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 42.00000612,
+      "longitude": 21.43346147
     },
     {
       "city": "Sarajevo",
@@ -1653,7 +1905,9 @@
       "region": "Europe South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 43.8500224,
+      "longitude": 18.38300167
     },
     {
       "city": "Zagreb",
@@ -1666,7 +1920,9 @@
       "region": "Europe South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 45.80000673,
+      "longitude": 15.99999467
     },
     {
       "city": "Ljubljana",
@@ -1679,7 +1935,9 @@
       "region": "Europe South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 46.05528831,
+      "longitude": 14.51496903
     },
     {
       "city": "San Marino",
@@ -1692,7 +1950,9 @@
       "region": "Europe South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 43.91715008,
+      "longitude": 12.46667029
     },
     {
       "city": "Milan",
@@ -1705,7 +1965,9 @@
       "region": "Europe South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 45.4699752,
+      "longitude": 9.20500891
     },
     {
       "city": "Prague",
@@ -1718,7 +1980,9 @@
       "region": "Europe East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 50.08333701,
+      "longitude": 14.46597978
     },
     {
       "city": "Vienna",
@@ -1731,7 +1995,9 @@
       "region": "Europe East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 48.20001528,
+      "longitude": 16.36663896
     },
     {
       "city": "Timisoara",
@@ -1744,7 +2010,9 @@
       "region": "Europe East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 45.75882062,
+      "longitude": 21.22344844
     },
     {
       "city": "Sofia",
@@ -1757,7 +2025,9 @@
       "region": "Europe East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 42.68334943,
+      "longitude": 23.31665401
     },
     {
       "city": "Bucharest",
@@ -1770,7 +2040,9 @@
       "region": "Europe East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 44.4333718,
+      "longitude": 26.09994665
     },
     {
       "city": "Chisinau",
@@ -1783,7 +2055,9 @@
       "region": "Europe East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 47.00502362,
+      "longitude": 28.85771114
     },
     {
       "city": "Cluj-Napoca",
@@ -1796,7 +2070,9 @@
       "region": "Europe East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 46.78842185,
+      "longitude": 23.5984456
     },
     {
       "city": "Budapest",
@@ -1809,7 +2085,9 @@
       "region": "Europe East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 47.50000633,
+      "longitude": 19.08332068
     },
     {
       "city": "Bratislava",
@@ -1822,7 +2100,9 @@
       "region": "Europe East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 48.15001833,
+      "longitude": 17.11698075
     },
     {
       "city": "Ostrava",
@@ -1835,7 +2115,9 @@
       "region": "Europe East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 49.83035504,
+      "longitude": 18.24998653
     },
     {
       "city": "Berlin",
@@ -1848,7 +2130,9 @@
       "region": "Europe North",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 52.52181866,
+      "longitude": 13.40154862
     },
     {
       "city": "Warsaw",
@@ -1861,7 +2145,9 @@
       "region": "Europe North",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 52.25000063,
+      "longitude": 20.99999955
     },
     {
       "city": "Kiev",
@@ -1874,7 +2160,9 @@
       "region": "Europe North",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 50.43336733,
+      "longitude": 30.51662797
     },
     {
       "city": "Minsk",
@@ -1887,7 +2175,9 @@
       "region": "Europe North",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 53.89997744,
+      "longitude": 27.56662716
     },
     {
       "city": "Vilnius",
@@ -1900,7 +2190,9 @@
       "region": "Europe North",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 54.68336631,
+      "longitude": 25.31663529
     },
     {
       "city": "Riga",
@@ -1913,7 +2205,9 @@
       "region": "Europe North",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 56.95002382,
+      "longitude": 24.09996537
     },
     {
       "city": "Tallinn",
@@ -1926,7 +2220,9 @@
       "region": "Europe North",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 59.43387738,
+      "longitude": 24.72804073
     },
     {
       "city": "Helsinki",
@@ -1939,7 +2235,9 @@
       "region": "Europe North",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 60.17556337,
+      "longitude": 24.93412634
     },
     {
       "city": "Stockholm",
@@ -1952,7 +2250,9 @@
       "region": "Europe North",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 59.35075995,
+      "longitude": 18.09733473
     },
     {
       "city": "Oslo",
@@ -1965,7 +2265,9 @@
       "region": "Europe North",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 59.91669029,
+      "longitude": 10.74997921
     },
     {
       "city": "Copenhagen",
@@ -1978,7 +2280,9 @@
       "region": "Europe North",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 55.67856419,
+      "longitude": 12.56348575
     }
   ]
 }

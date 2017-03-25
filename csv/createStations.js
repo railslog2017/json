@@ -22,14 +22,16 @@ let result = {
       "region": "USA East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
-      "currentLevel": 0
+      "currentLevel": 0,
+      "latitude": 42.67001691,
+      "longitude": 73.81994918
     },
     */
   ]
 };
 
 csv()
-.fromFile('./csv/stations.csv')
+.fromFile('./csv/rails - stations.csv')
 .on('json', (row) => {
 
   let tempStation = {
@@ -41,11 +43,13 @@ csv()
     amountDemanded: parseInt(row['Amount Demanded']),
     connectsTo: row['Connects To'],
     region: row['Region'],
-
     // 추가
     currentAmountDemanded: 0,
     currentResourceDemanded: false,
-    currentLevel: 0
+    currentLevel: 0,
+    //
+    latitude: parseFloat(row['latitude']),
+    longitude: parseFloat(row['longitude'])
   };
 
   stations.push(tempStation);

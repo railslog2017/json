@@ -1,0 +1,920 @@
+{
+  "game": "tiny rails",
+  "update": "2017-03-25",
+  "version": "0.1.0",
+  "info": "simple stations",
+  "content": [
+    {
+      "city": "Albany",
+      "state": "NY",
+      "connectsTo": "Kingston, Montpelier, Harrisburg",
+      "region": "USA East"
+    },
+    {
+      "city": "Montpelier",
+      "state": "VT",
+      "connectsTo": "Albany, Ottawa, Augusta",
+      "region": "USA East"
+    },
+    {
+      "city": "Augusta",
+      "state": "ME",
+      "connectsTo": "Sherbrooke, Montpelier, Halifax, Concord",
+      "region": "USA East"
+    },
+    {
+      "city": "Concord",
+      "state": "NH",
+      "connectsTo": "Augusta, Boston",
+      "region": "USA East"
+    },
+    {
+      "city": "Boston",
+      "state": "MA",
+      "connectsTo": "Concord, Providence",
+      "region": "USA East"
+    },
+    {
+      "city": "Providence",
+      "state": "RI",
+      "connectsTo": "Boston, Hartford",
+      "region": "USA East"
+    },
+    {
+      "city": "Hartford",
+      "state": "CT",
+      "connectsTo": "Providence, New York",
+      "region": "USA East"
+    },
+    {
+      "city": "New York",
+      "state": "NY",
+      "connectsTo": "Hartford, Trenton",
+      "region": "USA East"
+    },
+    {
+      "city": "Trenton",
+      "state": "NJ",
+      "connectsTo": "New York, Philadelphia",
+      "region": "USA East"
+    },
+    {
+      "city": "Philadelphia",
+      "state": "PA",
+      "connectsTo": "Trenton, Dover",
+      "region": "USA East"
+    },
+    {
+      "city": "Dover",
+      "state": "DE",
+      "connectsTo": "Philadelphia, Baltimore",
+      "region": "USA East"
+    },
+    {
+      "city": "Baltimore",
+      "state": "MD",
+      "connectsTo": "Dover, Washington, D.C.",
+      "region": "USA East"
+    },
+    {
+      "city": "Washington",
+      "state": "DC",
+      "connectsTo": "Baltimore, Richmond",
+      "region": "USA East"
+    },
+    {
+      "city": "Richmond",
+      "state": "VA",
+      "connectsTo": "Washington, D.C., Raleigh",
+      "region": "USA East"
+    },
+    {
+      "city": "Raleigh",
+      "state": "NC",
+      "connectsTo": "Richmond, Charleston, Columbia",
+      "region": "USA East"
+    },
+    {
+      "city": "Charleston",
+      "state": "WV",
+      "connectsTo": "Raleigh, Nashville, Columbus",
+      "region": "USA East"
+    },
+    {
+      "city": "Columbus",
+      "state": "OH",
+      "connectsTo": "Charleston, Frankfort, Detroit",
+      "region": "USA East"
+    },
+    {
+      "city": "Detroit",
+      "state": "MI",
+      "connectsTo": "Columbus, Indianapolis, Madison, London, Toledo",
+      "region": "USA East"
+    },
+    {
+      "city": "Toledo",
+      "state": "OH",
+      "connectsTo": "Detroit, Pittsburgh",
+      "region": "USA East"
+    },
+    {
+      "city": "Pittsburgh",
+      "state": "PA",
+      "connectsTo": "Toledo, Harrisburg",
+      "region": "USA East"
+    },
+    {
+      "city": "Harrisburg",
+      "state": "PA",
+      "connectsTo": "Pittsburgh, Albany",
+      "region": "USA East"
+    },
+    {
+      "city": "Atlanta",
+      "state": "GA",
+      "connectsTo": "Columbia, Miami",
+      "region": "USA South"
+    },
+    {
+      "city": "Miami",
+      "state": "FL",
+      "connectsTo": "Atlanta, Tallahassee",
+      "region": "USA South"
+    },
+    {
+      "city": "Tallahassee",
+      "state": "FL",
+      "connectsTo": "Miami, Montgomery",
+      "region": "USA South"
+    },
+    {
+      "city": "Montgomery",
+      "state": "AL",
+      "connectsTo": "Tallahassee, Jackson",
+      "region": "USA South"
+    },
+    {
+      "city": "Jackson",
+      "state": "MS",
+      "connectsTo": "Montgomery, Little Rock",
+      "region": "USA South"
+    },
+    {
+      "city": "Little Rock",
+      "state": "AK",
+      "connectsTo": "Jackson, New Orleans",
+      "region": "USA South"
+    },
+    {
+      "city": "New Orleans",
+      "state": "LA",
+      "connectsTo": "Little Rock, Baton Rouge",
+      "region": "USA South"
+    },
+    {
+      "city": "Baton Rouge",
+      "state": "LA",
+      "connectsTo": "New Orleans, Houston",
+      "region": "USA South"
+    },
+    {
+      "city": "Houston",
+      "state": "TX",
+      "connectsTo": "Baton Rouge, Austin",
+      "region": "USA South"
+    },
+    {
+      "city": "Austin",
+      "state": "TX",
+      "connectsTo": "Houston, Fort Stockton",
+      "region": "USA South"
+    },
+    {
+      "city": "Fort Stockton",
+      "state": "TX",
+      "connectsTo": "Austin, El Paso, Dallas",
+      "region": "USA South"
+    },
+    {
+      "city": "Dallas",
+      "state": "TX",
+      "connectsTo": "Fort Stockton, Oklahoma City",
+      "region": "USA South"
+    },
+    {
+      "city": "Oklahoma City",
+      "state": "OK",
+      "connectsTo": "Dallas, Santa Fe, Topeka",
+      "region": "USA South"
+    },
+    {
+      "city": "Topeka",
+      "state": "KS",
+      "connectsTo": "Oklahoma City, Lincoln, Springfield, Jefferson City",
+      "region": "USA South"
+    },
+    {
+      "city": "Jefferson City",
+      "state": "MO",
+      "connectsTo": "Topeka, Springfield, Memphis",
+      "region": "USA South"
+    },
+    {
+      "city": "Memphis",
+      "state": "TN",
+      "connectsTo": "Jefferson City, St. Louis, Frankfort",
+      "region": "USA South"
+    },
+    {
+      "city": "Frankfort",
+      "state": "KY",
+      "connectsTo": "Memphis, Indianapolis, Columbus, Nashville",
+      "region": "USA South"
+    },
+    {
+      "city": "Nashville",
+      "state": "TN",
+      "connectsTo": "Frankfort, Charleston, Columbia",
+      "region": "USA South"
+    },
+    {
+      "city": "Columbia",
+      "state": "SC",
+      "connectsTo": "Nashville, Raleigh, Atlanta",
+      "region": "USA South"
+    },
+    {
+      "city": "Billings",
+      "state": "MT",
+      "connectsTo": "Helena, Rapid City",
+      "region": "USA Center"
+    },
+    {
+      "city": "Rapid City",
+      "state": "SD",
+      "connectsTo": "Billings, Pierre",
+      "region": "USA Center"
+    },
+    {
+      "city": "Pierre",
+      "state": "SD",
+      "connectsTo": "Rapid City, Regina, Bismarck",
+      "region": "USA Center"
+    },
+    {
+      "city": "Bismarck",
+      "state": "ND",
+      "connectsTo": "Pierre, Saint Paul",
+      "region": "USA Center"
+    },
+    {
+      "city": "Saint Paul",
+      "state": "MN",
+      "connectsTo": "Bismarck, Winnipeg, Madison",
+      "region": "USA Center"
+    },
+    {
+      "city": "Madison",
+      "state": "WI",
+      "connectsTo": "Saint Paul, Detroit, Chicago",
+      "region": "USA Center"
+    },
+    {
+      "city": "Chicago",
+      "state": "IL",
+      "connectsTo": "Madison, Indianapolis",
+      "region": "USA Center"
+    },
+    {
+      "city": "Indianapolis",
+      "state": "IN",
+      "connectsTo": "Chicago, Detroit, Frankfort, St. Louis",
+      "region": "USA Center"
+    },
+    {
+      "city": "St Louis",
+      "state": "MO",
+      "connectsTo": "Indianapolis, Memphis, Springfield",
+      "region": "USA Center"
+    },
+    {
+      "city": "Springfield",
+      "state": "IL",
+      "connectsTo": "St. Louis, Jefferson City, Topeka, Galesburg",
+      "region": "USA Center"
+    },
+    {
+      "city": "Galesburg",
+      "state": "IL",
+      "connectsTo": "Springfield, Des Moines",
+      "region": "USA Center"
+    },
+    {
+      "city": "Des Moines",
+      "state": "IA",
+      "connectsTo": "Galesburg, Lincoln",
+      "region": "USA Center"
+    },
+    {
+      "city": "Lincoln",
+      "state": "NE",
+      "connectsTo": "Des Moines, Topeka, Cheyenne",
+      "region": "USA Center"
+    },
+    {
+      "city": "Cheyenne",
+      "state": "WY",
+      "connectsTo": "Lincoln, Denver, Helena",
+      "region": "USA Center"
+    },
+    {
+      "city": "Helena",
+      "state": "MT",
+      "connectsTo": "Cheyenne, Boise, Calgary, Billings",
+      "region": "USA Center"
+    },
+    {
+      "city": "Albuquerque",
+      "state": "NM",
+      "connectsTo": "El Paso, Santa Fe",
+      "region": "USA West"
+    },
+    {
+      "city": "Santa Fe",
+      "state": "NM",
+      "connectsTo": "Albuquerque, Denver, Oklahoma City",
+      "region": "USA West"
+    },
+    {
+      "city": "Denver",
+      "state": "CO",
+      "connectsTo": "Santa Fe, Boise, Cheyenne",
+      "region": "USA West"
+    },
+    {
+      "city": "Boise",
+      "state": "ID",
+      "connectsTo": "Denver, Kennewick, Banff, Helena",
+      "region": "USA West"
+    },
+    {
+      "city": "Kennewick",
+      "state": "WA",
+      "connectsTo": "Boise, Seattle",
+      "region": "USA West"
+    },
+    {
+      "city": "Seattle",
+      "state": "WA",
+      "connectsTo": "Kennewick, Olympia, Vancouver",
+      "region": "USA West"
+    },
+    {
+      "city": "Olympia",
+      "state": "WA",
+      "connectsTo": "Seattle, Portland",
+      "region": "USA West"
+    },
+    {
+      "city": "Portland",
+      "state": "OR",
+      "connectsTo": "Olympia, Sacramento",
+      "region": "USA West"
+    },
+    {
+      "city": "Sacramento",
+      "state": "CA",
+      "connectsTo": "Portland, San Francisco",
+      "region": "USA West"
+    },
+    {
+      "city": "San Francisco",
+      "state": "CA",
+      "connectsTo": "Sacramento, Los Angeles",
+      "region": "USA West"
+    },
+    {
+      "city": "Los Angeles",
+      "state": "CA",
+      "connectsTo": "San Francisco, Las Vegas",
+      "region": "USA West"
+    },
+    {
+      "city": "Las Vegas",
+      "state": "NV",
+      "connectsTo": "Los Angeles, Phoenix",
+      "region": "USA West"
+    },
+    {
+      "city": "Phoenix",
+      "state": "AZ",
+      "connectsTo": "Las Vegas, Tuscon",
+      "region": "USA West"
+    },
+    {
+      "city": "Tucson",
+      "state": "AZ",
+      "connectsTo": "Phoenix, El Paso",
+      "region": "USA West"
+    },
+    {
+      "city": "El Paso",
+      "state": "TX",
+      "connectsTo": "Tuscon, Albuquerque, Fort Stockton",
+      "region": "USA West"
+    },
+    {
+      "city": "Banff",
+      "state": "AB",
+      "connectsTo": "Boise, Vancouver, Calgary",
+      "region": "Canada West"
+    },
+    {
+      "city": "Calgary",
+      "state": "AB",
+      "connectsTo": "Banff, Edmonton, Saskatoon, Helena",
+      "region": "Canada West"
+    },
+    {
+      "city": "Edmonton",
+      "state": "AB",
+      "connectsTo": "Calgary, Fort McMurray",
+      "region": "Canada West"
+    },
+    {
+      "city": "Fort McMurray",
+      "state": "AB",
+      "connectsTo": "Edmonton, Wood Buffalo",
+      "region": "Canada West"
+    },
+    {
+      "city": "Wood Buffalo",
+      "state": "AB",
+      "connectsTo": "Fort McMurray, Yellowknife",
+      "region": "Canada West"
+    },
+    {
+      "city": "Yellowknife",
+      "state": "NT",
+      "connectsTo": "Wood Buffalo, Fort Simpson",
+      "region": "Canada West"
+    },
+    {
+      "city": "Fort Simpson",
+      "state": "NT",
+      "connectsTo": "Yellowknife, Whitehorse",
+      "region": "Canada West"
+    },
+    {
+      "city": "Whitehorse",
+      "state": "YT",
+      "connectsTo": "Fort Simpson, Iskut",
+      "region": "Canada West"
+    },
+    {
+      "city": "Iskut",
+      "state": "BC",
+      "connectsTo": "Whitehorse, Hazelton",
+      "region": "Canada West"
+    },
+    {
+      "city": "Hazelton",
+      "state": "BC",
+      "connectsTo": "Iskut, Kamloops",
+      "region": "Canada West"
+    },
+    {
+      "city": "Kamloops",
+      "state": "BC",
+      "connectsTo": "Hazelton, Vancouver",
+      "region": "Canada West"
+    },
+    {
+      "city": "Vancouver",
+      "state": "BC",
+      "connectsTo": "Kamloops, Banff, Seattle",
+      "region": "Canada West"
+    },
+    {
+      "city": "Regina",
+      "state": "SK",
+      "connectsTo": "Pierre, Saskatoon, Winnipeg",
+      "region": "Canada Center"
+    },
+    {
+      "city": "Saskatoon",
+      "state": "SK",
+      "connectsTo": "Regina, Calgary, The Pas",
+      "region": "Canada Center"
+    },
+    {
+      "city": "The Pas",
+      "state": "MB",
+      "connectsTo": "Saskatoon, Yorkton",
+      "region": "Canada Center"
+    },
+    {
+      "city": "Yorkton",
+      "state": "SK",
+      "connectsTo": "The Pas, Winnipeg",
+      "region": "Canada Center"
+    },
+    {
+      "city": "Winnipeg",
+      "state": "MB",
+      "connectsTo": "Yorkton, Toronto, Saint Paul, Regina",
+      "region": "Canada Center"
+    },
+    {
+      "city": "Charlottetown",
+      "state": "PE",
+      "connectsTo": "Edmundston, St. John's",
+      "region": "Canada East"
+    },
+    {
+      "city": "St. John's",
+      "state": "NL",
+      "connectsTo": "Charlottetown, Halifax",
+      "region": "Canada East"
+    },
+    {
+      "city": "Halifax",
+      "state": "NS",
+      "connectsTo": "St. John's, Augusta, Fredericton",
+      "region": "Canada East"
+    },
+    {
+      "city": "Fredericton",
+      "state": "NB",
+      "connectsTo": "Halifax, Sherbrooke",
+      "region": "Canada East"
+    },
+    {
+      "city": "Sherbrooke",
+      "state": "QC",
+      "connectsTo": "Fredericton, Augusta, Kingston",
+      "region": "Canada East"
+    },
+    {
+      "city": "Kingston",
+      "state": "ON",
+      "connectsTo": "Sherbrooke, Albany, London",
+      "region": "Canada East"
+    },
+    {
+      "city": "London",
+      "state": "ON",
+      "connectsTo": "Kingston, Detroit, Toronto",
+      "region": "Canada East"
+    },
+    {
+      "city": "Toronto",
+      "state": "ON",
+      "connectsTo": "London, Winnipeg, Ottawa",
+      "region": "Canada East"
+    },
+    {
+      "city": "Ottawa",
+      "state": "ON",
+      "connectsTo": "Toronto, Montreal, Montpelier",
+      "region": "Canada East"
+    },
+    {
+      "city": "Montreal",
+      "state": "QC",
+      "connectsTo": "Ottawa, Edmundston",
+      "region": "Canada East"
+    },
+    {
+      "city": "Edmundston",
+      "state": "NB",
+      "connectsTo": "Montreal, Charlottetown",
+      "region": "Canada East"
+    },
+    {
+      "city": "Galway",
+      "state": "IE",
+      "connectsTo": "Belfast, Dublin",
+      "region": "Europe West"
+    },
+    {
+      "city": "Belfast",
+      "state": "UK",
+      "connectsTo": "Galway, Edinburgh",
+      "region": "Europe West"
+    },
+    {
+      "city": "Edinburgh",
+      "state": "UK",
+      "connectsTo": "Belfast, London",
+      "region": "Europe West"
+    },
+    {
+      "city": "London",
+      "state": "UK",
+      "connectsTo": "Amsterdam, Edinburgh",
+      "region": "Europe West"
+    },
+    {
+      "city": "Amsterdam",
+      "state": "NL",
+      "connectsTo": "Brussels, Berlin, London",
+      "region": "Europe West"
+    },
+    {
+      "city": "Brussels",
+      "state": "BE",
+      "connectsTo": "Luxembourgh City, Amsterdam",
+      "region": "Europe West"
+    },
+    {
+      "city": "Luxembourg City",
+      "state": "LU",
+      "connectsTo": "Vaduz, Brussels, Prague, Europe West Factory",
+      "region": "Europe West"
+    },
+    {
+      "city": "Vaduz",
+      "state": "LT",
+      "connectsTo": "Zurich, Luxembourg City",
+      "region": "Europe West"
+    },
+    {
+      "city": "Zurich",
+      "state": "CH",
+      "connectsTo": "Bern, Vaduz",
+      "region": "Europe West"
+    },
+    {
+      "city": "Bern",
+      "state": "CH",
+      "connectsTo": "Paris, Zurich",
+      "region": "Europe West"
+    },
+    {
+      "city": "Paris",
+      "state": "FR",
+      "connectsTo": "Nantes, Bern, Europe West Factory",
+      "region": "Europe West"
+    },
+    {
+      "city": "Nantes",
+      "state": "FR",
+      "connectsTo": "Southampton, Paris, Bilbao",
+      "region": "Europe West"
+    },
+    {
+      "city": "Southampton",
+      "state": "UK",
+      "connectsTo": "Cardiff, Nantes",
+      "region": "Europe West"
+    },
+    {
+      "city": "Cardiff",
+      "state": "UK",
+      "connectsTo": "Galway, Southampton",
+      "region": "Europe West"
+    },
+    {
+      "city": "Dublin",
+      "state": "IE",
+      "connectsTo": "Galway, Cardiff",
+      "region": "Europe West"
+    },
+    {
+      "city": "Southampton",
+      "state": "UK",
+      "connectsTo": "Cardiff, Nantes",
+      "region": "Europe South"
+    },
+    {
+      "city": "Cardiff",
+      "state": "UK",
+      "connectsTo": "Galway, Southampton",
+      "region": "Europe South"
+    },
+    {
+      "city": "Dublin",
+      "state": "IE",
+      "connectsTo": "Galway, Cardiff",
+      "region": "Europe South"
+    },
+    {
+      "city": "Lisbon",
+      "state": "PT",
+      "connectsTo": "Porto, Madrid",
+      "region": "Europe South"
+    },
+    {
+      "city": "Madrid",
+      "state": "ES",
+      "connectsTo": "Lisbon, Barcelona",
+      "region": "Europe South"
+    },
+    {
+      "city": "Barcelona",
+      "state": "ES",
+      "connectsTo": "Madrid, Monaco",
+      "region": "Europe South"
+    },
+    {
+      "city": "Monaco",
+      "state": "FR",
+      "connectsTo": "Barcelona, Rome",
+      "region": "Europe South"
+    },
+    {
+      "city": "Rome",
+      "state": "IT",
+      "connectsTo": "Monaco, Naples, Europe South Factory",
+      "region": "Europe South"
+    },
+    {
+      "city": "Naples",
+      "state": "IT",
+      "connectsTo": "Rome, Valleta",
+      "region": "Europe South"
+    },
+    {
+      "city": "Valleta",
+      "state": "MT",
+      "connectsTo": "Naples, Tirana",
+      "region": "Europe South"
+    },
+    {
+      "city": "Tirana",
+      "state": "AL",
+      "connectsTo": "Valleta, Athens, , Europe South Factory",
+      "region": "Europe South"
+    },
+    {
+      "city": "Athens",
+      "state": "GR",
+      "connectsTo": "Tirana, Skopje",
+      "region": "Europe South"
+    },
+    {
+      "city": "Skopje",
+      "state": "MK",
+      "connectsTo": "Athens, Sarajevo, Sofia",
+      "region": "Europe South"
+    },
+    {
+      "city": "Sarajevo",
+      "state": "HB",
+      "connectsTo": "Skopje, Zagreb, Europe South Factory",
+      "region": "Europe South"
+    },
+    {
+      "city": "Zagreb",
+      "state": "HR",
+      "connectsTo": "Sarajevo, Ljubljana",
+      "region": "Europe South"
+    },
+    {
+      "city": "Ljubljana",
+      "state": "SK",
+      "connectsTo": "Zagreb, Vienna, San Marino",
+      "region": "Europe South"
+    },
+    {
+      "city": "San Marino",
+      "state": "IT",
+      "connectsTo": "Ljubljana, Milan",
+      "region": "Europe South"
+    },
+    {
+      "city": "Milan",
+      "state": "IT",
+      "connectsTo": "San Marino, Vaduz, Andorra La Vella",
+      "region": "Europe South"
+    },
+    {
+      "city": "Prague",
+      "state": "CZ",
+      "connectsTo": "Ostrava, Vienna, Luxembourgh City",
+      "region": "Europe East"
+    },
+    {
+      "city": "Vienna",
+      "state": "AT",
+      "connectsTo": "Prague, Ljubljana",
+      "region": "Europe East"
+    },
+    {
+      "city": "Timisoara",
+      "state": "RO",
+      "connectsTo": "Sofia, Vienna, Europe West Factory",
+      "region": "Europe East"
+    },
+    {
+      "city": "Sofia",
+      "state": "BG",
+      "connectsTo": "Skopje, Bucharest, Timisoara",
+      "region": "Europe East"
+    },
+    {
+      "city": "Bucharest",
+      "state": "RO",
+      "connectsTo": "Sofia, Chisinau, Europe West Factory",
+      "region": "Europe East"
+    },
+    {
+      "city": "Chisinau",
+      "state": "MD",
+      "connectsTo": "Bucharest, Cluj-Napoca",
+      "region": "Europe East"
+    },
+    {
+      "city": "Cluj-Napoca",
+      "state": "RO",
+      "connectsTo": "Chisinau, Budapest, Europe West Factory",
+      "region": "Europe East"
+    },
+    {
+      "city": "Budapest",
+      "state": "HU",
+      "connectsTo": "Cluj-Napoca, Bratislava",
+      "region": "Europe East"
+    },
+    {
+      "city": "Bratislava",
+      "state": "SK",
+      "connectsTo": "Budapest, Ostrava",
+      "region": "Europe East"
+    },
+    {
+      "city": "Ostrava",
+      "state": "CZ",
+      "connectsTo": "Bratislava, Prague, Warsaw",
+      "region": "Europe East"
+    },
+    {
+      "city": "Berlin",
+      "state": "DE",
+      "connectsTo": "Copenhagen, Warsaw, Amsterdam",
+      "region": "Europe North"
+    },
+    {
+      "city": "Warsaw",
+      "state": "PL",
+      "connectsTo": "Berlin, Kiev, Ostrava",
+      "region": "Europe North"
+    },
+    {
+      "city": "Kiev",
+      "state": "UA",
+      "connectsTo": "Chisinau, Minsk, Warsaw",
+      "region": "Europe North"
+    },
+    {
+      "city": "Minsk",
+      "state": "BY",
+      "connectsTo": "Kiev, Vilnius",
+      "region": "Europe North"
+    },
+    {
+      "city": "Vilnius",
+      "state": "LT",
+      "connectsTo": "Minsk, Riga",
+      "region": "Europe North"
+    },
+    {
+      "city": "Riga",
+      "state": "LV",
+      "connectsTo": "Vilnius, Tallinn, Europe North Factory",
+      "region": "Europe North"
+    },
+    {
+      "city": "Tallinn",
+      "state": "EE",
+      "connectsTo": "Helsinki, Riga",
+      "region": "Europe North"
+    },
+    {
+      "city": "Helsinki",
+      "state": "FI",
+      "connectsTo": "Tallinn, Stockholm",
+      "region": "Europe North"
+    },
+    {
+      "city": "Stockholm",
+      "state": "SE",
+      "connectsTo": "Helsinki, Oslo, Europe North Factory",
+      "region": "Europe North"
+    },
+    {
+      "city": "Oslo",
+      "state": "NO",
+      "connectsTo": "Stockholm, Copenhagen",
+      "region": "Europe North"
+    },
+    {
+      "city": "Copenhagen",
+      "state": "DK",
+      "connectsTo": "Oslo, Berlin, Europe North Factory",
+      "region": "Europe North"
+    }
+  ]
+}

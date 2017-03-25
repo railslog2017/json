@@ -70,7 +70,6 @@ csv()
       pushRegion(row);
     } else {
       let amount = row['Amount Needed'].replace(',', '');
-      console.log(amount);
       tempResource.totalAmound = parseInt(amount);
       tempContent.push(tempResource);
       tempResource = undefined;

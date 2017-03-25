@@ -23,12 +23,12 @@ let result = {
 };
 
 csv()
-.fromFile('./csv/regions.csv')
+.fromFile('./csv/rails - regions.csv')
 .on('json', (row) => {
 
   let tempRegion = {
     continent: row['continent'],
-    regionName: row['region'],
+    name: row['region'],
     stations: parseInt(row['Stations']),
     totalDistance: parseInt(row['total distance']),
     resourcesSold: row['Resources Sold']

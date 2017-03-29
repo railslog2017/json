@@ -44,7 +44,7 @@ let result = {
 let tempContent = [];
 let tempResource;
 csv()
-.fromFile('./csv/rails - resource.csv')
+.fromFile('./csv/rails - resources.csv')
 .on('json', (row) => {
 
   function pushRegion(region) {
@@ -66,7 +66,7 @@ csv()
 
   } else {
 
-    if (row['City'] !== 'Total Amound') {
+    if (row['City'] !== 'Total Amount') {
       pushRegion(row);
     } else {
       let amount = row['Amount Needed'].replace(',', '');
@@ -75,8 +75,6 @@ csv()
       tempResource = undefined;
     }
   }
-
-
 })
 .on('done', () => {
 

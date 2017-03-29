@@ -1,12 +1,12 @@
 {
   "game": "tiny rails",
-  "update": "2017-03-19",
+  "update": "2017-03-29",
   "version": "0.1.0",
   "info": "resources needed",
   "content": [
     {
       "name": "Apple",
-      "totalAmound": 150,
+      "totalAmound": 550,
       "regions": [
         {
           "amount": 25,
@@ -19,6 +19,16 @@
           "region": "Canada Center"
         },
         {
+          "amount": 25,
+          "city": "Santa Ana, CR",
+          "region": "Central America"
+        },
+        {
+          "amount": 25,
+          "city": "Rosarito",
+          "region": "Mexico"
+        },
+        {
           "amount": 50,
           "city": "Olympia, WA",
           "region": "USA West"
@@ -27,12 +37,48 @@
           "amount": 50,
           "city": "Topeka, KS",
           "region": "USA South"
+        },
+        {
+          "amount": 350,
+          "city": "Morelia",
+          "region": "Mexico"
+        }
+      ]
+    },
+    {
+      "name": "Banana",
+      "totalAmound": 425,
+      "regions": [
+        {
+          "amount": 25,
+          "city": "San Salvador, SV",
+          "region": "Central America"
+        },
+        {
+          "amount": 50,
+          "city": "Guadalajara",
+          "region": "Mexico"
+        },
+        {
+          "amount": 50,
+          "city": "Los Mochis",
+          "region": "Mexico"
+        },
+        {
+          "amount": 150,
+          "city": "Ponce, PR",
+          "region": "Caribbean"
+        },
+        {
+          "amount": 150,
+          "city": "Mexicali",
+          "region": "Mexico"
         }
       ]
     },
     {
       "name": "BBQ Rib",
-      "totalAmound": 1200,
+      "totalAmound": 1900,
       "regions": [
         {
           "amount": 50,
@@ -43,6 +89,16 @@
           "amount": 150,
           "city": "Kingston, ON",
           "region": "Canada East"
+        },
+        {
+          "amount": 350,
+          "city": "Tepic",
+          "region": "Mexico"
+        },
+        {
+          "amount": 350,
+          "city": "San Juan, PR",
+          "region": "Caribbean"
         },
         {
           "amount": 1000,
@@ -74,12 +130,22 @@
     },
     {
       "name": "Candle",
-      "totalAmound": 2100,
+      "totalAmound": 2175,
       "regions": [
+        {
+          "amount": 25,
+          "city": "Taxco",
+          "region": "Mexico"
+        },
         {
           "amount": 50,
           "city": "Helsinki, FI",
           "region": "Europe North"
+        },
+        {
+          "amount": 50,
+          "city": "Santiago De Los Caballeros, CD",
+          "region": "Caribbean"
         },
         {
           "amount": 50,
@@ -100,7 +166,7 @@
     },
     {
       "name": "Carrot",
-      "totalAmound": 500,
+      "totalAmound": 650,
       "regions": [
         {
           "amount": 50,
@@ -118,6 +184,11 @@
           "region": "Europe West"
         },
         {
+          "amount": 150,
+          "city": "Xalapa",
+          "region": "Mexico"
+        },
+        {
           "amount": 350,
           "city": "Chicago, IL",
           "region": "USA Center"
@@ -126,7 +197,7 @@
     },
     {
       "name": "Casino Chip",
-      "totalAmound": 1425,
+      "totalAmound": 1575,
       "regions": [
         {
           "amount": 25,
@@ -137,6 +208,11 @@
           "amount": 50,
           "city": "Bilbao, ES",
           "region": "Europe South"
+        },
+        {
+          "amount": 150,
+          "city": "Tegucigalpa, HN",
+          "region": "Central America"
         },
         {
           "amount": 350,
@@ -152,7 +228,7 @@
     },
     {
       "name": "Chicken",
-      "totalAmound": 1500,
+      "totalAmound": 2500,
       "regions": [
         {
           "amount": 50,
@@ -178,12 +254,48 @@
           "amount": 1000,
           "city": "Philadelphia, PA",
           "region": "USA East"
+        },
+        {
+          "amount": 1000,
+          "city": "Monterrey",
+          "region": "Mexico"
+        }
+      ]
+    },
+    {
+      "name": "Coffee Beans",
+      "totalAmound": 2525,
+      "regions": [
+        {
+          "amount": 25,
+          "city": "Belmopan, BZ",
+          "region": "Central America"
+        },
+        {
+          "amount": 150,
+          "city": "Villahermosa",
+          "region": "Mexico"
+        },
+        {
+          "amount": 350,
+          "city": "Merida",
+          "region": "Mexico"
+        },
+        {
+          "amount": 1000,
+          "city": "Mexico City",
+          "region": "Mexico"
+        },
+        {
+          "amount": 1000,
+          "city": "Tijuana",
+          "region": "Mexico"
         }
       ]
     },
     {
       "name": "Copper",
-      "totalAmound": 600,
+      "totalAmound": 1100,
       "regions": [
         {
           "amount": 50,
@@ -199,6 +311,16 @@
           "amount": 150,
           "city": "Miami, FL",
           "region": "USA South"
+        },
+        {
+          "amount": 150,
+          "city": "Ciudad Victoria",
+          "region": "Mexico"
+        },
+        {
+          "amount": 150,
+          "city": "Hermosillo",
+          "region": "Mexico"
         },
         {
           "amount": 350,
@@ -240,7 +362,7 @@
     },
     {
       "name": "Cow",
-      "totalAmound": 675,
+      "totalAmound": 825,
       "regions": [
         {
           "amount": 25,
@@ -258,6 +380,11 @@
           "region": "Europe East"
         },
         {
+          "amount": 150,
+          "city": "Monclova",
+          "region": "Mexico"
+        },
+        {
           "amount": 350,
           "city": "Nashville, TN",
           "region": "USA South"
@@ -266,7 +393,7 @@
     },
     {
       "name": "Firework",
-      "totalAmound": 1525,
+      "totalAmound": 1875,
       "regions": [
         {
           "amount": 25,
@@ -284,6 +411,11 @@
           "region": "Canada West"
         },
         {
+          "amount": 350,
+          "city": "Kingston, JM",
+          "region": "Caribbean"
+        },
+        {
           "amount": 1000,
           "city": "Montreal, QC",
           "region": "Canada East"
@@ -292,7 +424,7 @@
     },
     {
       "name": "Hockey Stick",
-      "totalAmound": 225,
+      "totalAmound": 1575,
       "regions": [
         {
           "amount": 25,
@@ -301,24 +433,39 @@
         },
         {
           "amount": 50,
-          "city": "Atlanta, GA",
+          "city": "Saint Paul, MN",
           "region": "USA Center"
         },
         {
           "amount": 150,
           "city": "Zurich, CH",
           "region": "Europe West"
+        },
+        {
+          "amount": 350,
+          "city": "Tuxtla Gutierrez",
+          "region": "Mexico"
+        },
+        {
+          "amount": 1000,
+          "city": "Guatemala, BZ",
+          "region": "Central America"
         }
       ]
     },
     {
       "name": "Holy Water",
-      "totalAmound": 100,
+      "totalAmound": 175,
       "regions": [
         {
           "amount": 25,
           "city": "Rome, IT",
           "region": "Europe South"
+        },
+        {
+          "amount": 25,
+          "city": "Santiago, PA",
+          "region": "Central America"
         },
         {
           "amount": 25,
@@ -329,12 +476,17 @@
           "amount": 50,
           "city": "Cluj-Napoca, RO",
           "region": "Europe East"
+        },
+        {
+          "amount": 50,
+          "city": "Chetunal",
+          "region": "Mexico"
         }
       ]
     },
     {
       "name": "Honey",
-      "totalAmound": 100,
+      "totalAmound": 125,
       "regions": [
         {
           "amount": 25,
@@ -355,12 +507,17 @@
           "amount": 25,
           "city": "Riga, LV",
           "region": "Europe North"
+        },
+        {
+          "amount": 25,
+          "city": "Santo Domingo, CD",
+          "region": "Caribbean"
         }
       ]
     },
     {
       "name": "Iron",
-      "totalAmound": 475,
+      "totalAmound": 825,
       "regions": [
         {
           "amount": 25,
@@ -381,6 +538,11 @@
           "amount": 350,
           "city": "Albuquerque, NM",
           "region": "USA West"
+        },
+        {
+          "amount": 350,
+          "city": "Culiacan",
+          "region": "Mexico"
         }
       ]
     },
@@ -417,7 +579,7 @@
     },
     {
       "name": "Meatball",
-      "totalAmound": 550,
+      "totalAmound": 900,
       "regions": [
         {
           "amount": 50,
@@ -433,17 +595,32 @@
           "amount": 350,
           "city": "Athens, GR",
           "region": "Europe South"
+        },
+        {
+          "amount": 350,
+          "city": "Campeche",
+          "region": "Mexico"
         }
       ]
     },
     {
       "name": "Micro Processor",
-      "totalAmound": 2400,
+      "totalAmound": 2600,
       "regions": [
+        {
+          "amount": 50,
+          "city": "Montego Bay, JM",
+          "region": "Caribbean"
+        },
         {
           "amount": 50,
           "city": "Tucson, AZ",
           "region": "USA West"
+        },
+        {
+          "amount": 150,
+          "city": "Colina",
+          "region": "Mexico"
         },
         {
           "amount": 350,
@@ -495,7 +672,7 @@
     },
     {
       "name": "Onion",
-      "totalAmound": 575,
+      "totalAmound": 1575,
       "regions": [
         {
           "amount": 25,
@@ -516,6 +693,11 @@
           "amount": 350,
           "city": "Prague, CZ",
           "region": "Europe East"
+        },
+        {
+          "amount": 1000,
+          "city": "Durango",
+          "region": "Mexico"
         }
       ]
     },
@@ -552,7 +734,7 @@
     },
     {
       "name": "Paper",
-      "totalAmound": 600,
+      "totalAmound": 950,
       "regions": [
         {
           "amount": 50,
@@ -573,6 +755,11 @@
           "amount": 350,
           "city": "Columbus, OH",
           "region": "USA East"
+        },
+        {
+          "amount": 350,
+          "city": "Acapulco",
+          "region": "Mexico"
         }
       ]
     },
@@ -599,7 +786,7 @@
     },
     {
       "name": "Pasta",
-      "totalAmound": 250,
+      "totalAmound": 2250,
       "regions": [
         {
           "amount": 50,
@@ -615,6 +802,42 @@
           "amount": 150,
           "city": "Cardiff, UK",
           "region": "Europe West"
+        },
+        {
+          "amount": 1000,
+          "city": "Panama, PA",
+          "region": "Central America"
+        },
+        {
+          "amount": 1000,
+          "city": "Cancun",
+          "region": "Mexico"
+        }
+      ]
+    },
+    {
+      "name": "Peanut",
+      "totalAmound": 1400,
+      "regions": [
+        {
+          "amount": 25,
+          "city": "Guasave",
+          "region": "Mexico"
+        },
+        {
+          "amount": 25,
+          "city": "San Luis Potosi",
+          "region": "Mexico"
+        },
+        {
+          "amount": 350,
+          "city": "La Paz",
+          "region": "Mexico"
+        },
+        {
+          "amount": 1000,
+          "city": "The Bahamas",
+          "region": "Caribbean"
         }
       ]
     },
@@ -687,7 +910,7 @@
     },
     {
       "name": "Poutine",
-      "totalAmound": 1200,
+      "totalAmound": 2400,
       "regions": [
         {
           "amount": 50,
@@ -695,9 +918,24 @@
           "region": "Canada West"
         },
         {
+          "amount": 50,
+          "city": "Punta Cana, CD",
+          "region": "Caribbean"
+        },
+        {
           "amount": 150,
           "city": "Portland, OR",
           "region": "USA West"
+        },
+        {
+          "amount": 150,
+          "city": "Ciudad Obregon",
+          "region": "Mexico"
+        },
+        {
+          "amount": 1000,
+          "city": "Ciudad Juarez",
+          "region": "Mexico"
         },
         {
           "amount": 1000,
@@ -708,7 +946,7 @@
     },
     {
       "name": "Salmon",
-      "totalAmound": 575,
+      "totalAmound": 1575,
       "regions": [
         {
           "amount": 25,
@@ -729,12 +967,17 @@
           "amount": 350,
           "city": "Memphis, TN",
           "region": "USA South"
+        },
+        {
+          "amount": 1000,
+          "city": "Chihuahua",
+          "region": "Mexico"
         }
       ]
     },
     {
       "name": "Sausage",
-      "totalAmound": 575,
+      "totalAmound": 625,
       "regions": [
         {
           "amount": 25,
@@ -745,6 +988,11 @@
           "amount": 50,
           "city": "Lisbon, PT",
           "region": "Europe South"
+        },
+        {
+          "amount": 50,
+          "city": "La Ceiba, HN",
+          "region": "Central America"
         },
         {
           "amount": 150,
@@ -760,7 +1008,7 @@
     },
     {
       "name": "Sheep",
-      "totalAmound": 575,
+      "totalAmound": 1575,
       "regions": [
         {
           "amount": 25,
@@ -781,12 +1029,17 @@
           "amount": 350,
           "city": "Bern, CH",
           "region": "Europe West"
+        },
+        {
+          "amount": 1000,
+          "city": "Oaxaca",
+          "region": "Mexico"
         }
       ]
     },
     {
       "name": "Steel",
-      "totalAmound": 650,
+      "totalAmound": 1150,
       "regions": [
         {
           "amount": 150,
@@ -799,15 +1052,25 @@
           "region": "Canada East"
         },
         {
+          "amount": 150,
+          "city": "Havana, CU",
+          "region": "Caribbean"
+        },
+        {
           "amount": 350,
           "city": "Edmonton, AB",
           "region": "Canada West"
+        },
+        {
+          "amount": 350,
+          "city": "Mazatlan",
+          "region": "Mexico"
         }
       ]
     },
     {
       "name": "Strawberry",
-      "totalAmound": 1425,
+      "totalAmound": 1775,
       "regions": [
         {
           "amount": 25,
@@ -830,6 +1093,11 @@
           "region": "USA East"
         },
         {
+          "amount": 350,
+          "city": "Santa Clara, CU",
+          "region": "Caribbean"
+        },
+        {
           "amount": 1000,
           "city": "Milano, IT",
           "region": "Europe South"
@@ -838,12 +1106,17 @@
     },
     {
       "name": "Tea",
-      "totalAmound": 1425,
+      "totalAmound": 1450,
       "regions": [
         {
           "amount": 25,
           "city": "Vaduz, LT",
           "region": "Europe West"
+        },
+        {
+          "amount": 25,
+          "city": "San Pedro Sula, HN",
+          "region": "Central America"
         },
         {
           "amount": 50,
@@ -863,13 +1136,54 @@
       ]
     },
     {
-      "name": "Tulip",
-      "totalAmound": 1550,
+      "name": "Tomato",
+      "totalAmound": 1475,
       "regions": [
+        {
+          "amount": 25,
+          "city": "Bluefields, NI",
+          "region": "Central America"
+        },
+        {
+          "amount": 50,
+          "city": "Camaguey, CU",
+          "region": "Caribbean"
+        },
+        {
+          "amount": 50,
+          "city": "Puerto Canezas, NI",
+          "region": "Central America"
+        },
+        {
+          "amount": 350,
+          "city": "Saltillo",
+          "region": "Mexico"
+        },
+        {
+          "amount": 1000,
+          "city": "San Jose, CR",
+          "region": "Central America"
+        }
+      ]
+    },
+    {
+      "name": "Tulip",
+      "totalAmound": 1700,
+      "regions": [
+        {
+          "amount": 50,
+          "city": "Sarajevo, HB",
+          "region": "Europe South"
+        },
         {
           "amount": 150,
           "city": "Warsaw, PL",
           "region": "Europe North"
+        },
+        {
+          "amount": 150,
+          "city": "Cabo San Lucas",
+          "region": "Mexico"
         },
         {
           "amount": 350,
@@ -885,11 +1199,21 @@
     },
     {
       "name": "Utility Knife",
-      "totalAmound": 575,
+      "totalAmound": 600,
       "regions": [
         {
           "amount": 25,
           "city": "Minsk, BY",
+          "region": "Europe North"
+        },
+        {
+          "amount": 25,
+          "city": "Managua, NI",
+          "region": "Central America"
+        },
+        {
+          "amount": 50,
+          "city": "Vilnius, LT",
           "region": "Europe North"
         },
         {
@@ -906,7 +1230,7 @@
     },
     {
       "name": "Water",
-      "totalAmound": 1250,
+      "totalAmound": 1400,
       "regions": [
         {
           "amount": 50,
@@ -919,6 +1243,16 @@
           "region": "Europe East"
         },
         {
+          "amount": 150,
+          "city": "San Marino, IT",
+          "region": "Europe South"
+        },
+        {
+          "amount": 150,
+          "city": "Santiago de Cuba, CU",
+          "region": "Caribbean"
+        },
+        {
           "amount": 1000,
           "city": "Las Vegas, NV",
           "region": "USA West"
@@ -927,7 +1261,7 @@
     },
     {
       "name": "Wheat",
-      "totalAmound": 275,
+      "totalAmound": 325,
       "regions": [
         {
           "amount": 25,
@@ -943,12 +1277,22 @@
           "amount": 50,
           "city": "Jackson, MS",
           "region": "USA South"
+        },
+        {
+          "amount": 50,
+          "city": "Port-au-Prince, HT",
+          "region": "Caribbean"
+        },
+        {
+          "amount": 150,
+          "city": "Indianapolis, IN",
+          "region": "USA Center"
         }
       ]
     },
     {
       "name": "Wood",
-      "totalAmound": 250,
+      "totalAmound": 400,
       "regions": [
         {
           "amount": 25,
@@ -964,6 +1308,11 @@
           "amount": 50,
           "city": "Montgomery, AL",
           "region": "USA South"
+        },
+        {
+          "amount": 150,
+          "city": "Port-de-Paix, HT",
+          "region": "Caribbean"
         },
         {
           "amount": 150,

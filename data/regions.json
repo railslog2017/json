@@ -1,6 +1,6 @@
 {
   "game": "tiny rails",
-  "update": "2017-03-25",
+  "update": "2017-03-29",
   "version": "0.1.0",
   "info": "regions",
   "content": [
@@ -8,78 +8,99 @@
       "continent": "North America",
       "name": "USA East",
       "stations": 21,
-      "totalDistance": 11054,
+      "totalDistance": 11041,
       "resourcesSold": "Honey, Paper, Pizza, Salmon, Steel, Strawberry, Wood, Onion"
     },
     {
       "continent": "North America",
       "name": "USA South",
       "stations": 19,
-      "totalDistance": 13928,
+      "totalDistance": 15353,
       "resourcesSold": "BBQ Rib, Corn, Lemon, Oil, Orange, Pig, Strawberry"
     },
     {
       "continent": "North America",
       "name": "USA Center",
       "stations": 15,
-      "totalDistance": 13997,
+      "totalDistance": 13999,
       "resourcesSold": "Apple, Carrot, Corn, Cow, Firework, Iron, Wheat"
     },
     {
       "continent": "North America",
       "name": "USA West",
       "stations": 15,
-      "totalDistance": 13167,
+      "totalDistance": 14580,
       "resourcesSold": "Chicken, Copper, Honey, Iron, Lemon, Micro Processor, Orange"
     },
     {
       "continent": "North America",
       "name": "Canada West",
       "stations": 12,
-      "totalDistance": 16922,
+      "totalDistance": 16927,
       "resourcesSold": "Chicken, Copper, Paper, Parka, Oil, Water, Wood"
     },
     {
       "continent": "North America",
       "name": "Canada Center",
       "stations": 5,
-      "totalDistance": 6672,
+      "totalDistance": 6666,
       "resourcesSold": "Apple, Carrot, Corn, Cow, Hockey Stick, Honey, Wheat"
     },
     {
       "continent": "North America",
       "name": "Canada East",
       "stations": 11,
-      "totalDistance": 13458,
+      "totalDistance": 13466,
       "resourcesSold": "Chicken, Cow, Pig, Poutine, Salmon, Steel, Water"
     },
     {
       "continent": "Europe",
       "name": "Europe West",
       "stations": 15,
-      "totalDistance": 12670,
+      "totalDistance": 12696,
       "resourcesSold": "Bonbon, Meatball, Lemon, Sausage, Sheep, Tea"
     },
     {
       "continent": "Europe",
       "name": "Europe South",
       "stations": 18,
-      "totalDistance": 20020,
+      "totalDistance": 19963,
       "resourcesSold": "Bonbon, Casino Chip, Holy Water, Lemon, Pasta, Tulip"
     },
     {
       "continent": "Europe",
       "name": "Europe East",
       "stations": 10,
-      "totalDistance": 9651,
+      "totalDistance": 9630,
       "resourcesSold": "Holy Water, Sheep, Candle, Sausage, Carrot, Meatball, Onion"
     },
     {
       "continent": "Europe",
       "name": "Europe North",
       "stations": 11,
-      "totalDistance": 15594,
+      "totalDistance": 15657,
       "resourcesSold": "Bonbon, Utility Knife, Water, Meatball, Sausage, Tulip"
+    },
+    {
+      "continent": "Latin America",
+      "name": "Mexico",
+      "stations": 34,
+      "totalDistance": 25043,
+      "resourcesSold": "Banana, Chicken, Coffee Bean, Corn, Sheep, Tomato"
+    },
+    {
+      "continent": "Latin America",
+      "name": "Caribbean",
+      "stations": 14,
+      "totalDistance": 7376,
+      "resourcesSold": "Candle, Pig, Orange, Banana"
+    },
+    {
+      "continent": "Latin America",
+      "name": "Central America",
+      "stations": 13,
+      "totalDistance": 7613,
+      "resourcesSold": "Coffee Beans, Banana, Copper, Peanut, Pig"
     }
   ]
 }

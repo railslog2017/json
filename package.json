@@ -6,9 +6,9 @@
   "license": "MIT",
   "scripts": {
     "dev": "python -m SimpleHTTPServer",
+    "createRe": "node ./csv/createRegions.js",
     "createSt": "node ./csv/createStations.js",
-    "createRs": "node ./csv/createResources.js",
-    "createRe": "node ./csv/createRegions.js"
+    "createRs": "node ./csv/createResources.js"
   },
   "devDependencies": {
     "csvtojson": "^1.1.4",

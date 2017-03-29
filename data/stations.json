@@ -2709,7 +2709,7 @@
       "state": "MX",
       "passengers": 30,
       "upgradeCosts": "50,000/500,000/1,000,000",
-      "resourceDemanded": "Hockey Sticks",
+      "resourceDemanded": "Hockey Stick",
       "amountDemanded": 350,
       "connectsTo": "Oaxaca, Chetumal",
       "region": "Mexico",

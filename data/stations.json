@@ -176,7 +176,7 @@
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Lemon",
       "amountDemanded": 150,
-      "connectsTo": "Dover, Washington, D.C.",
+      "connectsTo": "Dover, Washington",
       "region": "USA East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
@@ -206,7 +206,7 @@
       "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Oil",
       "amountDemanded": 25,
-      "connectsTo": "Washington, D.C., Raleigh",
+      "connectsTo": "Washington, Raleigh",
       "region": "USA East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
@@ -341,7 +341,7 @@
       "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Copper",
       "amountDemanded": 150,
-      "connectsTo": "Atlanta, Tallahassee",
+      "connectsTo": "Atlanta, Tallahassee, The Bahamas, Havana",
       "region": "USA South",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
@@ -725,7 +725,7 @@
       "longitude": -86.17004806
     },
     {
-      "city": "St Louis",
+      "city": "St. Louis",
       "state": "MO",
       "passengers": 15,
       "upgradeCosts": "5,000/50,000/100,000",
@@ -986,7 +986,7 @@
       "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Pizza",
       "amountDemanded": 1000,
-      "connectsTo": "San Francisco, Las Vegas",
+      "connectsTo": "San Francisco, Las Vegas, Tijuana",
       "region": "USA West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
@@ -1016,7 +1016,7 @@
       "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Lemon",
       "amountDemanded": 350,
-      "connectsTo": "Las Vegas, Tuscon",
+      "connectsTo": "Las Vegas, Tucson",
       "region": "USA West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
@@ -1046,7 +1046,7 @@
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Copper",
       "amountDemanded": 50,
-      "connectsTo": "Tuscon, Albuquerque, Fort Stockton",
+      "connectsTo": "Tucson, Albuquerque, Fort Stockton, Ciudad Juarez",
       "region": "USA West",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
@@ -1391,7 +1391,7 @@
       "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "BBQ Rib",
       "amountDemanded": 150,
-      "connectsTo": "Sherbrooke, Albany, London",
+      "connectsTo": "Sherbrooke, Albany, Toronto",
       "region": "Canada East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
@@ -1406,7 +1406,7 @@
       "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Pizza",
       "amountDemanded": 150,
-      "connectsTo": "Kingston, Detroit, Toronto",
+      "connectsTo": "Detroit, Toronto",
       "region": "Canada East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
@@ -1421,7 +1421,7 @@
       "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Micro Processor",
       "amountDemanded": 1000,
-      "connectsTo": "London, Winnipeg, Ottawa",
+      "connectsTo": "London, Winnipeg, Ottawa, Kingston",
       "region": "Canada East",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
@@ -2296,8 +2296,8 @@
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 22.89275617,
+      "longitude": -109.9045164
     },
     {
       "city": "La Paz",
@@ -2311,8 +2311,8 @@
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 24.13995933,
+      "longitude": -110.3199952
     },
     {
       "city": "Rosarito",
@@ -2326,8 +2326,8 @@
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 28.6364039,
+      "longitude": -114.0213997
     },
     {
       "city": "Tijuana",
@@ -2341,8 +2341,8 @@
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 32.50001752,
+      "longitude": -117.079996
     },
     {
       "city": "Mexicali",
@@ -2356,8 +2356,8 @@
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 32.64998252,
+      "longitude": -115.4800161
     },
     {
       "city": "Hermosillo",
@@ -2371,8 +2371,8 @@
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 29.09888145,
+      "longitude": -110.954065
     },
     {
       "city": "Ciudad Obregon",
@@ -2386,8 +2386,8 @@
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 27.46660382,
+      "longitude": -109.9249805
     },
     {
       "city": "Los Mochis",
@@ -2401,8 +2401,8 @@
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 25.78998781,
+      "longitude": -108.9999982
     },
     {
       "city": "Guasave",
@@ -2416,8 +2416,8 @@
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 25.57049217,
+      "longitude": -108.4699789
     },
     {
       "city": "Culiacan",
@@ -2431,8 +2431,8 @@
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 24.82999473,
+      "longitude": -107.3799679
     },
     {
       "city": "Mazatlan",
@@ -2446,8 +2446,8 @@
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 23.22110069,
+      "longitude": -106.4200007
     },
     {
       "city": "Tepic",
@@ -2461,8 +2461,8 @@
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 21.50539146,
+      "longitude": -104.8799913
     },
     {
       "city": "Durango",
@@ -2476,8 +2476,8 @@
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 24.03110292,
+      "longitude": -104.67003
     },
     {
       "city": "Saltillo",
@@ -2491,8 +2491,8 @@
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 25.41995872,
+      "longitude": -101.0049823
     },
     {
       "city": "Monclova",
@@ -2506,8 +2506,8 @@
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 26.89999758,
+      "longitude": -101.4199958
     },
     {
       "city": "Chihuahua",
@@ -2521,8 +2521,8 @@
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 28.64498151,
+      "longitude": -106.0849823
     },
     {
       "city": "Ciudad Juarez",
@@ -2536,8 +2536,8 @@
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 31.69037701,
+      "longitude": -106.4900481
     },
     {
       "city": "Monterrey",
@@ -2551,8 +2551,8 @@
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 25.66999514,
+      "longitude": -100.3299848
     },
     {
       "city": "Ciudad Victoria",
@@ -2566,8 +2566,8 @@
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 23.71995913,
+      "longitude": -99.12998051
     },
     {
       "city": "San Luis Potosi",
@@ -2581,8 +2581,8 @@
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 22.16997622,
+      "longitude": -100.9999956
     },
     {
       "city": "Guadalajara",
@@ -2596,8 +2596,8 @@
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 20.67001609,
+      "longitude": -103.3300342
     },
     {
       "city": "Colima",
@@ -2611,8 +2611,8 @@
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 19.22997479,
+      "longitude": -103.7200104
     },
     {
       "city": "Morelia",
@@ -2626,8 +2626,8 @@
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 19.73338076,
+      "longitude": -101.189493
     },
     {
       "city": "Xalapa",
@@ -2641,8 +2641,8 @@
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 19.52998232,
+      "longitude": -96.91998621
     },
     {
       "city": "Mexico City",
@@ -2656,8 +2656,8 @@
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 19.44244244,
+      "longitude": -99.1309882
     },
     {
       "city": "Taxco",
@@ -2671,8 +2671,8 @@
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 18.57037681,
+      "longitude": -99.6199506
     },
     {
       "city": "Oaxaca",
@@ -2686,8 +2686,8 @@
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 17.08268984,
+      "longitude": -96.66994979
     },
     {
       "city": "Acapulco",
@@ -2701,8 +2701,8 @@
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 16.84999086,
+      "longitude": -99.91597905
     },
     {
       "city": "Tuxtla Gutierrez",
@@ -2716,8 +2716,8 @@
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 16.74999697,
+      "longitude": -93.1500096
     },
     {
       "city": "Chetumal",
@@ -2731,8 +2731,8 @@
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 18.50001935,
+      "longitude": -88.29999557
     },
     {
       "city": "Cancun",
@@ -2746,8 +2746,8 @@
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 21.16995974,
+      "longitude": -86.83000777
     },
     {
       "city": "Merida",
@@ -2761,8 +2761,8 @@
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 20.96663881,
+      "longitude": -89.61663355
     },
     {
       "city": "Campeche",
@@ -2776,8 +2776,8 @@
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 19.82998985,
+      "longitude": -90.49999048
     },
     {
       "city": "Villahermosa",
@@ -2785,419 +2785,419 @@
       "passengers": 15,
       "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Coffee Beans",
-      "amountDemanded": 50,
+      "amountDemanded": 150,
       "connectsTo": "Campeche, Mexico City",
       "region": "Mexico",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 17.99997235,
+      "longitude": -92.89997319
     },
     {
       "city": "The Bahamas",
       "state": "-",
       "passengers": 50,
-      "upgradeCosts": "",
+      "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Peanuts",
       "amountDemanded": 1000,
-      "connectsTo": "",
+      "connectsTo": "Miami",
       "region": "Caribbean",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 25.08339012,
+      "longitude": -77.35004378
     },
     {
       "city": "Havana",
       "state": "CU",
       "passengers": 15,
-      "upgradeCosts": "",
+      "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Steel",
       "amountDemanded": 150,
-      "connectsTo": "",
+      "connectsTo": "Miami, Santa Clara",
       "region": "Caribbean",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 23.13195884,
+      "longitude": -82.36418217
     },
     {
       "city": "Santa Clara",
       "state": "CU",
       "passengers": 30,
-      "upgradeCosts": "",
+      "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Strawberry",
       "amountDemanded": 350,
-      "connectsTo": "",
+      "connectsTo": "Havana, Camaguey",
       "region": "Caribbean",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 22.40001385,
+      "longitude": -79.9666541
     },
     {
       "city": "Camaguey",
       "state": "CU",
       "passengers": 10,
-      "upgradeCosts": "",
+      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Tomato",
       "amountDemanded": 50,
-      "connectsTo": "",
+      "connectsTo": "Santa Clara, Santiago de Cuba",
       "region": "Caribbean",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 21.38082542,
+      "longitude": -77.91693425
     },
     {
       "city": "Santiago de Cuba",
       "state": "CU",
       "passengers": 15,
-      "upgradeCosts": "",
+      "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Water",
       "amountDemanded": 150,
-      "connectsTo": "",
+      "connectsTo": "Camaguey, Moontogo Bay, Port-de-Paix",
       "region": "Caribbean",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 20.0250167,
+      "longitude": -75.82132573
     },
     {
       "city": "Montego Bay",
       "state": "JM",
       "passengers": 10,
-      "upgradeCosts": "",
+      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Micro Processor",
       "amountDemanded": 50,
-      "connectsTo": "",
+      "connectsTo": "Kingston, Santiago de Cuba",
       "region": "Caribbean",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 18.46668805,
+      "longitude": -77.91667586
     },
     {
-      "city": "Kiingston",
+      "city": "Kingston",
       "state": "JM",
       "passengers": 30,
-      "upgradeCosts": "",
+      "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Firework",
       "amountDemanded": 350,
-      "connectsTo": "",
+      "connectsTo": "Port-au-Prince, Montego Bay",
       "region": "Caribbean",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 17.97707662,
+      "longitude": -76.76743371
     },
     {
       "city": "Port-au-Prince",
       "state": "HT",
       "passengers": 10,
-      "upgradeCosts": "",
+      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Wheat",
       "amountDemanded": 50,
-      "connectsTo": "",
+      "connectsTo": "Santo Domingo, Port-de-Paix, Kingston, Caribbean Factory",
       "region": "Caribbean",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 18.5410246,
+      "longitude": -72.33603459
     },
     {
       "city": "Santo Domingo",
       "state": "CD",
       "passengers": 5,
-      "upgradeCosts": "",
+      "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Honey",
       "amountDemanded": 25,
-      "connectsTo": "",
+      "connectsTo": "Santiago De Los Caballeros, Port-au-Prince",
       "region": "Caribbean",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 18.47007285,
+      "longitude": -69.90008508
     },
     {
       "city": "Punta Cana",
       "state": "CD",
       "passengers": 10,
-      "upgradeCosts": "",
+      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Poutine",
       "amountDemanded": 50,
-      "connectsTo": "",
+      "connectsTo": "Santiago De Los Caballeros, Ponce, San Juan",
       "region": "Caribbean",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 18.6400839,
+      "longitude": -68.6120799
     },
     {
       "city": "Ponce",
       "state": "PR",
       "passengers": 15,
-      "upgradeCosts": "",
+      "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Banana",
       "amountDemanded": 150,
-      "connectsTo": "",
+      "connectsTo": "San Juan, Punta Cana",
       "region": "Caribbean",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 18.00038576,
+      "longitude": -66.61664209
     },
     {
       "city": "San Juan",
       "state": "PR",
       "passengers": 30,
-      "upgradeCosts": "",
+      "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "BBQ Rib",
       "amountDemanded": 350,
-      "connectsTo": "",
+      "connectsTo": "Ponce, Punta Cana",
       "region": "Caribbean",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 18.44002301,
+      "longitude": -66.12997929
     },
     {
-      "city": "Santigo de Los Cablleros",
+      "city": "Santigo de Los Caballeros",
       "state": "CD",
       "passengers": 10,
-      "upgradeCosts": "",
+      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Candle",
       "amountDemanded": 50,
-      "connectsTo": "",
+      "connectsTo": "Port-de-Paix, Santo Domingo, Punta Cana",
       "region": "Caribbean",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 19.4398417,
+      "longitude": -70.7080427
     },
     {
       "city": "Port-de-Paix",
       "state": "HT",
       "passengers": 15,
-      "upgradeCosts": "",
+      "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Wood",
       "amountDemanded": 150,
-      "connectsTo": "",
+      "connectsTo": "Santiago de Cuba, Port-au-Prince, Santiago De Los Caballeros, Caribbean Factory",
       "region": "Caribbean",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 19.93176008,
+      "longitude": -72.82948452
     },
     {
       "city": "Belmopan",
       "state": "BZ",
       "passengers": 5,
-      "upgradeCosts": "",
+      "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Coffee Beans",
       "amountDemanded": 25,
-      "connectsTo": "",
+      "connectsTo": "Chetumal, Guatemala",
       "region": "Central America",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 17.25203351,
+      "longitude": -88.767073
     },
     {
       "city": "Guatemala",
       "state": "BZ",
       "passengers": 50,
-      "upgradeCosts": "",
+      "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Hockey Stick",
       "amountDemanded": 1000,
-      "connectsTo": "",
+      "connectsTo": "Tuxla Gutierrez, Belmopan, San Pedro Sula, Santa Ana",
       "region": "Central America",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 14.62113466,
+      "longitude": -90.52696558
     },
     {
       "city": "Santa Ana",
       "state": "CR",
       "passengers": 5,
-      "upgradeCosts": "",
+      "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Apple",
       "amountDemanded": 25,
-      "connectsTo": "",
+      "connectsTo": "Guatemala, San Salvador",
       "region": "Central America",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 13.9946096,
+      "longitude": -89.55976363
     },
     {
       "city": "San Salvador",
       "state": "SV",
       "passengers": 5,
-      "upgradeCosts": "",
+      "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Banana",
       "amountDemanded": 25,
-      "connectsTo": "",
+      "connectsTo": "Santa Ana, Tegucigalpa",
       "region": "Central America",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 13.71000165,
+      "longitude": -89.20304122
     },
     {
       "city": "Tegucigalpa",
       "state": "HN",
       "passengers": 15,
-      "upgradeCosts": "",
+      "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Casino Chip",
       "amountDemanded": 150,
-      "connectsTo": "",
+      "connectsTo": "San Salvador, San Pedro Sula, Puerto Canezas, Managua, Central America Factory",
       "region": "Central America",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 14.1020449,
+      "longitude": -87.21752934
     },
     {
       "city": "Managua",
       "state": "NI",
       "passengers": 5,
-      "upgradeCosts": "",
+      "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Utility Knife",
       "amountDemanded": 25,
-      "connectsTo": "",
+      "connectsTo": "Tegucigalpa, San Jose",
       "region": "Central America",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 12.15301658,
+      "longitude": -86.26849166
     },
     {
       "city": "San Pedro Sula",
       "state": "HN",
       "passengers": 5,
-      "upgradeCosts": "",
+      "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Tea",
       "amountDemanded": 25,
-      "connectsTo": "",
+      "connectsTo": "Guatemala, La Ceiba, Tegucigalpa",
       "region": "Central America",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 15.50002159,
+      "longitude": -88.02998621
     },
     {
       "city": "La Ceiba",
       "state": "HN",
       "passengers": 10,
-      "upgradeCosts": "",
+      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Sausage",
       "amountDemanded": 50,
-      "connectsTo": "",
+      "connectsTo": "San Pedro Sula",
       "region": "Central America",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 15.7631063,
+      "longitude": -86.79698653
     },
     {
       "city": "Puerto Canezas",
       "state": "NI",
       "passengers": 10,
-      "upgradeCosts": "",
+      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Tomato",
       "amountDemanded": 50,
-      "connectsTo": "",
+      "connectsTo": "Tegucigalpa, Bluefields, Central America Factory",
       "region": "Central America",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 14.03334108,
+      "longitude": -83.38337061
     },
     {
       "city": "Bluefields",
       "state": "NI",
       "passengers": 5,
-      "upgradeCosts": "",
+      "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Tomato",
       "amountDemanded": 25,
-      "connectsTo": "",
+      "connectsTo": "Puerto Canezas, San Jose",
       "region": "Central America",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 11.99997683,
+      "longitude": -83.76494938
     },
     {
       "city": "San Jose",
       "state": "CR",
       "passengers": 50,
-      "upgradeCosts": "",
+      "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Tomato",
       "amountDemanded": 1000,
-      "connectsTo": "",
+      "connectsTo": "Managua, Bluefields, Santiago",
       "region": "Central America",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 9.93501243,
+      "longitude": -84.08405135
     },
     {
       "city": "Santiago",
       "state": "PA",
       "passengers": 5,
-      "upgradeCosts": "",
+      "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Holy Water",
       "amountDemanded": 25,
-      "connectsTo": "",
+      "connectsTo": "San Jose, Panama",
       "region": "Central America",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 8.100369892,
+      "longitude": -80.98333622
     },
     {
       "city": "Panama",
       "state": "PA",
       "passengers": 50,
-      "upgradeCosts": "",
+      "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Pasta",
       "amountDemanded": 1000,
-      "connectsTo": "",
+      "connectsTo": "Santiago",
       "region": "Central America",
       "currentAmountDemanded": 0,
       "currentResourceDemanded": false,
       "currentLevel": 0,
-      "latitude": null,
-      "longitude": null
+      "latitude": 8.96801719,
+      "longitude": -79.53303715
     }
   ]
 }

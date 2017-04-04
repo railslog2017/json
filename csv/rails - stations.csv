@@ -10,9 +10,9 @@ New York,NY,50,"500,000/1,000,000/2,000,000",BBQ Rib,1000,"Hartford, Trenton",US
 Trenton,NJ,10,"1,000/5,000/10,000",Pig,50,"New York, Philadelphia",USA East,40.2169625,-74.74335535
 Philadelphia,PA,50,"500,000/1,000,000/2,000,000",Chicken,1000,"Trenton, Dover",USA East,39.99997316,-75.16999597
 Dover,DE,5,"500/1,000/5,000",Corn,25,"Philadelphia, Baltimore",USA East,39.15808657,-75.524703
-Baltimore,MD,10,"1,000/5,000/10,000",Lemon,150,"Dover, Washington, D.C.",USA East,39.29999005,-76.61998499
+Baltimore,MD,10,"1,000/5,000/10,000",Lemon,150,"Dover, Washington",USA East,39.29999005,-76.61998499
 Washington,DC,30,"50,000/500,000/1,000,000",Orange,350,"Baltimore, Richmond",USA East,38.89954938,-77.00941858
-Richmond,VA,5,"500/1,000/5,000",Oil,25,"Washington, D.C., Raleigh",USA East,37.55001935,-77.449986
+Richmond,VA,5,"500/1,000/5,000",Oil,25,"Washington, Raleigh",USA East,37.55001935,-77.449986
 Raleigh,NC,15,"5,000/50,000/100,000",Paper,150,"Richmond, Charleston, Columbia",USA East,35.81878135,-78.64469344
 Charleston,WV,10,"1,000/5,000/10,000",Salmon,50,"Raleigh, Nashville, Columbus",USA East,38.34973798,-81.63272811
 Columbus,OH,30,"50,000/500,000/1,000,000",Paper,350,"Charleston, Frankfort, Detroit",USA East,39.97997438,-82.9900096
@@ -21,7 +21,7 @@ Toledo,OH,5,"500/1,000/5,000",Pizza,25,"Detroit, Pittsburgh",USA East,41.6700262
 Pittsburgh,PA,15,"5,000/50,000/100,000",Cow,150,"Toledo, Harrisburg",USA East,40.4299986,-79.99998539
 Harrisburg,PA,5,"500/1,000/5,000",Honey,25,"Pittsburgh, Albany",USA East,40.27359987,-76.88474919
 Atlanta,GA,15,"5,000/50,000/100,000",Firework,150,"Columbia, Miami",USA South,33.83001385,-84.39994938
-Miami,FL,15,"5,000/50,000/100,000",Copper,150,"Atlanta, Tallahassee",USA South,25.7876107,-80.22410608
+Miami,FL,15,"5,000/50,000/100,000",Copper,150,"Atlanta, Tallahassee, The Bahamas, Havana",USA South,25.7876107,-80.22410608
 Tallahassee,FL,10,"1,000/5,000/10,000",Paper,50,"Miami, Montgomery",USA South,30.44998761,-84.28003422
 Montgomery,AL,10,"1,000/5,000/10,000",Wood,50,"Tallahassee, Jackson",USA South,32.36160219,-86.27918868
 Jackson,MS,10,"1,000/5,000/10,000",Wheat,50,"Montgomery, Little Rock",USA South,32.29881533,-90.18499679
@@ -47,7 +47,7 @@ Saint Paul,MN,10,"1,000/5,000/10,000",Hockey Stick,50,"Bismarck, Winnipeg, Madis
 Madison,WI,10,"1,000/5,000/10,000",Paper,50,"Saint Paul, Detroit, Chicago",USA Center,43.07301556,-89.40111699
 Chicago,IL,30,"50,000/500,000/1,000,000",Carrot,350,"Madison, Indianapolis",USA Center,41.82999066,-87.75005497
 Indianapolis,IN,15,"5,000/50,000/100,000",Wheat,150,"Chicago, Detroit, Frankfort, St. Louis",USA Center,39.74998842,-86.17004806
-St Louis,MO,15,"5,000/50,000/100,000",Wood,150,"Indianapolis, Memphis, Springfield",USA Center,38.63501772,-90.23998051
+St. Louis,MO,15,"5,000/50,000/100,000",Wood,150,"Indianapolis, Memphis, Springfield",USA Center,38.63501772,-90.23998051
 Springfield,IL,10,"1,000/5,000/10,000",Lemon,50,"St. Louis, Jefferson City, Topeka, Galesburg",USA Center,39.82000999,-89.65001652
 Galesburg,IL,5,"500/1,000/5,000",Hockey Stick,25,"Springfield, Des Moines",USA Center,40.94777061,-90.37108362
 Des Moines,IA,5,"500/1,000/5,000",Honey,25,"Galesburg, Lincoln",USA Center,41.57998008,-93.61998092
@@ -64,11 +64,11 @@ Olympia,WA,10,"1,000/5,000/10,000",Apple,50,"Seattle, Portland",USA West,47.0380
 Portland,OR,15,"5,000/50,000/100,000",Poutine,150,"Olympia, Sacramento",USA West,45.52002382,-122.6799901
 Sacramento,CA,15,"5,000/50,000/100,000",Orange,150,"Portland, San Francisco",USA West,38.57502138,-121.4700381
 San Francisco,CA,50,"500,000/1,000,000/2,000,000",Micro Processor,1000,"Sacramento, Los Angeles",USA West,37.74000775,-122.4599777
-Los Angeles,CA,50,"500,000/1,000,000/2,000,000",Pizza,1000,"San Francisco, Las Vegas",USA West,33.98997825,-118.1799805
+Los Angeles,CA,50,"500,000/1,000,000/2,000,000",Pizza,1000,"San Francisco, Las Vegas, Tijuana",USA West,33.98997825,-118.1799805
 Las Vegas,NV,50,"500,000/1,000,000/2,000,000",Water,1000,"Los Angeles, Phoenix",USA West,36.20999778,-115.2200061
-Phoenix,AZ,30,"50,000/500,000/1,000,000",Lemon,350,"Las Vegas, Tuscon",USA West,33.53997988,-112.0699917
+Phoenix,AZ,30,"50,000/500,000/1,000,000",Lemon,350,"Las Vegas, Tucson",USA West,33.53997988,-112.0699917
 Tucson,AZ,10,"1,000/5,000/10,000",Micro Processor,50,"Phoenix, El Paso",USA West,32.20499676,-110.8899862
-El Paso,TX,10,"1,000/5,000/10,000",Copper,50,"Tuscon, Albuquerque, Fort Stockton",USA West,31.77998395,-106.5099952
+El Paso,TX,10,"1,000/5,000/10,000",Copper,50,"Tucson, Albuquerque, Fort Stockton, Ciudad Juarez",USA West,31.77998395,-106.5099952
 Banff,AB,50,"500,000/1,000,000/2,000,000",Oil,1000,"Boise, Vancouver, Calgary",Canada West,51.17799888,-115.5719227
 Calgary,AB,30,"50,000/500,000/1,000,000",Firework,350,"Banff, Edmonton, Saskatoon, Helena",Canada West,51.08299176,-114.0799982
 Edmonton,AB,30,"50,000/500,000/1,000,000",Steel,350,"Calgary, Fort McMurray",Canada West,53.55002464,-113.4999819
@@ -91,9 +91,9 @@ St. John's,NL,30,"50,000/500,000/1,000,000",Copper,350,"Charlottetown, Halifax",
 Halifax,NS,15,"5,000/50,000/100,000",Oil,150,"St. John's, Augusta, Fredericton",Canada East,44.65002525,-63.60000452
 Fredericton,NB,10,"1,000/5,000/10,000",Chicken,50,"Halifax, Sherbrooke",Canada East,45.94999758,-66.63330774
 Sherbrooke,QC,10,"1,000/5,000/10,000",Lemon,50,"Fredericton, Augusta, Kingston",Canada East,45.40000531,-71.89998885
-Kingston,ON,15,"5,000/50,000/100,000",BBQ Rib,150,"Sherbrooke, Albany, London",Canada East,44.23371991,-76.48330082
-London,ON,15,"5,000/50,000/100,000",Pizza,150,"Kingston, Detroit, Toronto",Canada East,42.9699986,-81.24998661
-Toronto,ON,50,"500,000/1,000,000/2,000,000",Micro Processor,1000,"London, Winnipeg, Ottawa",Canada East,43.69997988,-79.42002079
+Kingston,ON,15,"5,000/50,000/100,000",BBQ Rib,150,"Sherbrooke, Albany, Toronto",Canada East,44.23371991,-76.48330082
+London,ON,15,"5,000/50,000/100,000",Pizza,150,"Detroit, Toronto",Canada East,42.9699986,-81.24998661
+Toronto,ON,50,"500,000/1,000,000/2,000,000",Micro Processor,1000,"London, Winnipeg, Ottawa, Kingston",Canada East,43.69997988,-79.42002079
 Ottawa,ON,30,"50,000/500,000/1,000,000",Parka,350,"Toronto, Montreal, Montpelier",Canada East,45.4166968,-75.7000153
 Montreal,QC,50,"500,000/1,000,000/2,000,000",Firework,1000,"Ottawa, Edmundston",Canada East,45.49999921,-73.58329696
 Edmundston,NB,5,"500/1,000/5,000",Wheat,25,"Montreal, Charlottetown",Canada East,47.37941937,-68.3332815
@@ -151,64 +151,64 @@ Helsinki,FI,10,"1,000/5,000/10,000",Candle,50,"Tallinn, Stockholm",Europe North,
 Stockholm,SE,15,"5,000/50,000/100,000",Utility Knife,150,"Helsinki, Oslo, Europe North Factory",Europe North,59.35075995,18.09733473
 Oslo,NO,30,"50,000/500,000/1,000,000",Utility Knife,350,"Stockholm, Copenhagen",Europe North,59.91669029,10.74997921
 Copenhagen,DK,50,"500,000/1,000,000/2,000,000",Candle,1000,"Oslo, Berlin, Europe North Factory",Europe North,55.67856419,12.56348575
-Cabo San Lucas,MX,15,"5,000/50,000/100,000",Tulip,150,La Paz,Mexico,,
-La Paz,MX,30,"50,000/500,000/1,000,000",Peanut,350,"Cabo San Lucas, Rosarito",Mexico,,
-Rosarito,MX,5,"500/1,000/5,000",Apple,25,"La Paz, Tijuana",Mexico,,
-Tijuana,MX,50,"500,000/1,000,000/2,000,000",Coffee Beans,1000,"Los Angeles,, Rosarito, Mexicali",Mexico,,
-Mexicali,MX,15,"5,000/50,000/100,000",Banana,150,"Tijuana, Ciudad Juarez, Hermosillo",Mexico,,
-Hermosillo,MX,30,"50,000/500,000/1,000,000",Copper,350,"Mexicali, Ciudad Obregon",Mexico,,
-Ciudad Obregon,MX,15,"5,000/50,000/100,000",Poutine,150,"Hermosillo, Chihuahua, Los Mochis",Mexico,,
-Los Mochis,MX,10,"1,000/5,000/10,000",Banana,50,"Ciudad Obregon, Guasave",Mexico,,
-Guasave,MX,5,"500/1,000/5,000",Peanuts,25,"Los Mochis, Culiacan",Mexico,,
-Culiacan,MX,30,"50,000/500,000/1,000,000",Iron,350,"Guasave, Mazatlan",Mexico,,
-Mazatlan,MX,30,"50,000/500,000/1,000,000",Steel,350,"Culiacan, Tepic",Mexico,,
-Tepic,MX,30,"50,000/500,000/1,000,000",BBQ Rib,350,"Mazatlan, Colima, San Luis Potosi, Durango",Mexico,,
-Durango,MX,50,"500,000/1,000,000/2,000,000",Onion,1000,"Tepic, Saltillo",Mexico,,
-Saltillo,MX,30,"50,000/500,000/1,000,000",Tomato,350,"Durango, Monterrey, Monclova",Mexico,,
-Monclova,MX,15,"5,000/50,000/100,000",Cow,150,"Saltillo, Chihuahua",Mexico,,
-Chihuahua,MX,50,"500,000/1,000,000/2,000,000",Salmon,1000,"Monclova, Ciudad Obregon, Ciudad Juarez",Mexico,,
-Ciudad Juarez,MX,50,"500,000/1,000,000/2,000,000",Poutine,1000,"Mexicali, El Paso, Chihuahua",Mexico,,
-Monterrey,MX,50,"500,000/1,000,000/2,000,000",Chicken,1000,"Saltillo, Ciudad Victoria",Mexico,,
-Ciudad Victoria,MX,15,"50,000/500,000/1,000,000",Copper,150,"Monterrey, San Luis Potosi, Xalapa",Mexico,,
-San Luis Potosi,MX,5,"500/1,000/5,000",Peanuts,25,"Tepic, Ciudad Victoria, Guadalajara",Mexico,,
-Guadalajara,MX,10,"1,000/5,000/10,000",Banana,50,"San Luis Potosi, Morelia",Mexico,,
-Colima,MX,15,"5,000/50,000/100,000",Micro Processor,150,"Tepic, Morelia, Acapulco",Mexico,,
-Morelia,MX,30,"50,000/500,000/1,000,000",Apple,350,"Guadalajara, Colima, Mexico City",Mexico,,
-Xalapa,MX,15,"5,000/50,000/100,000",Carrot,150,"Ciudad Victoria, Mexico City",Mexico,,
-Mexico City,MX,50,"500,000/1,000,000/2,000,000",Coffee Beans,1000,"Xalapa, Morelia, Taxco, Villahermosa",Mexico,,
-Taxco,MX,5,"500/1,000/5,000",Candle,25,"Mexico City, Oaxaca",Mexico,,
-Oaxaca,MX,50,"500,000/1,000,000/2,000,000",Sheep,1000,"Taxco, Acapulco, Tuxtla Gutierrez",Mexico,,
-Acapulco,MX,30,"50,000/500,000/1,000,000",Paper,350,"Colima, Oaxaca",Mexico,,
-Tuxtla Gutierrez,MX,30,"50,000/500,000/1,000,000",Hockey Stick,350,"Oaxaca, Chetumal",Mexico,,
-Chetumal,MX,10,"1,000/5,000/10,000",Holy Water,50,"Tuxtla Gutierrez, Cancun",Mexico,,
-Cancun,MX,50,"500,000/1,000,000/2,000,000",Pasta,1000,"Chetumal, Merida",Mexico,,
-Merida,MX,30,"50,000/500,000/1,000,000",Coffee Beans,350,"Cancun, Campeche",Mexico,,
-Campeche,MX,30,"50,000/500,000/1,000,000",Meatball,350,"Merida, Villahermosa",Mexico,,
-Villahermosa,MX,15,"5,000/50,000/100,000",Coffee Beans,50,"Campeche, Mexico City",Mexico,,
-The Bahamas,-,50,,Peanuts,1000,,Caribbean,,
-Havana,CU,15,,Steel,150,,Caribbean,,
-Santa Clara,CU,30,,Strawberry,350,,Caribbean,,
-Camaguey,CU,10,,Tomato,50,,Caribbean,,
-Santiago de Cuba,CU,15,,Water,150,,Caribbean,,
-Montego Bay,JM,10,,Micro Processor,50,,Caribbean,,
-Kiingston,JM,30,,Firework,350,,Caribbean,,
-Port-au-Prince,HT,10,,Wheat,50,,Caribbean,,
-Santo Domingo,CD,5,,Honey,25,,Caribbean,,
-Punta Cana,CD,10,,Poutine,50,,Caribbean,,
-Ponce,PR,15,,Banana,150,,Caribbean,,
-San Juan,PR,30,,BBQ Rib,350,,Caribbean,,
-Santigo de Los Cablleros,CD,10,,Candle,50,,Caribbean,,
-Port-de-Paix,HT,15,,Wood,150,,Caribbean,,
-Belmopan,BZ,5,,Coffee Beans,25,,Central America,,
-Guatemala,BZ,50,,Hockey Stick,1000,,Central America,,
-Santa Ana,CR,5,,Apple,25,,Central America,,
-San Salvador,SV,5,,Banana,25,,Central America,,
-Tegucigalpa,HN,15,,Casino Chip,150,,Central America,,
-Managua,NI,5,,Utility Knife,25,,Central America,,
-San Pedro Sula,HN,5,,Tea,25,,Central America,,
-La Ceiba,HN,10,,Sausage,50,,Central America,,
-Puerto Canezas,NI,10,,Tomato,50,,Central America,,
-Bluefields,NI,5,,Tomato,25,,Central America,,
-San Jose,CR,50,,Tomato,1000,,Central America,,
-Santiago,PA,5,,Holy Water,25,,Central America,,
-Panama,PA,50,,Pasta,1000,,Central America,,
+Cabo San Lucas,MX,15,"5,000/50,000/100,000",Tulip,150,La Paz,Mexico,22.89275617,-109.9045164
+La Paz,MX,30,"50,000/500,000/1,000,000",Peanut,350,"Cabo San Lucas, Rosarito",Mexico,24.13995933,-110.3199952
+Rosarito,MX,5,"500/1,000/5,000",Apple,25,"La Paz, Tijuana",Mexico,28.6364039,-114.0213997
+Tijuana,MX,50,"500,000/1,000,000/2,000,000",Coffee Beans,1000,"Los Angeles,, Rosarito, Mexicali",Mexico,32.50001752,-117.079996
+Mexicali,MX,15,"5,000/50,000/100,000",Banana,150,"Tijuana, Ciudad Juarez, Hermosillo",Mexico,32.64998252,-115.4800161
+Hermosillo,MX,30,"50,000/500,000/1,000,000",Copper,350,"Mexicali, Ciudad Obregon",Mexico,29.09888145,-110.954065
+Ciudad Obregon,MX,15,"5,000/50,000/100,000",Poutine,150,"Hermosillo, Chihuahua, Los Mochis",Mexico,27.46660382,-109.9249805
+Los Mochis,MX,10,"1,000/5,000/10,000",Banana,50,"Ciudad Obregon, Guasave",Mexico,25.78998781,-108.9999982
+Guasave,MX,5,"500/1,000/5,000",Peanuts,25,"Los Mochis, Culiacan",Mexico,25.57049217,-108.4699789
+Culiacan,MX,30,"50,000/500,000/1,000,000",Iron,350,"Guasave, Mazatlan",Mexico,24.82999473,-107.3799679
+Mazatlan,MX,30,"50,000/500,000/1,000,000",Steel,350,"Culiacan, Tepic",Mexico,23.22110069,-106.4200007
+Tepic,MX,30,"50,000/500,000/1,000,000",BBQ Rib,350,"Mazatlan, Colima, San Luis Potosi, Durango",Mexico,21.50539146,-104.8799913
+Durango,MX,50,"500,000/1,000,000/2,000,000",Onion,1000,"Tepic, Saltillo",Mexico,24.03110292,-104.67003
+Saltillo,MX,30,"50,000/500,000/1,000,000",Tomato,350,"Durango, Monterrey, Monclova",Mexico,25.41995872,-101.0049823
+Monclova,MX,15,"5,000/50,000/100,000",Cow,150,"Saltillo, Chihuahua",Mexico,26.89999758,-101.4199958
+Chihuahua,MX,50,"500,000/1,000,000/2,000,000",Salmon,1000,"Monclova, Ciudad Obregon, Ciudad Juarez",Mexico,28.64498151,-106.0849823
+Ciudad Juarez,MX,50,"500,000/1,000,000/2,000,000",Poutine,1000,"Mexicali, El Paso, Chihuahua",Mexico,31.69037701,-106.4900481
+Monterrey,MX,50,"500,000/1,000,000/2,000,000",Chicken,1000,"Saltillo, Ciudad Victoria",Mexico,25.66999514,-100.3299848
+Ciudad Victoria,MX,15,"50,000/500,000/1,000,000",Copper,150,"Monterrey, San Luis Potosi, Xalapa",Mexico,23.71995913,-99.12998051
+San Luis Potosi,MX,5,"500/1,000/5,000",Peanuts,25,"Tepic, Ciudad Victoria, Guadalajara",Mexico,22.16997622,-100.9999956
+Guadalajara,MX,10,"1,000/5,000/10,000",Banana,50,"San Luis Potosi, Morelia",Mexico,20.67001609,-103.3300342
+Colima,MX,15,"5,000/50,000/100,000",Micro Processor,150,"Tepic, Morelia, Acapulco",Mexico,19.22997479,-103.7200104
+Morelia,MX,30,"50,000/500,000/1,000,000",Apple,350,"Guadalajara, Colima, Mexico City",Mexico,19.73338076,-101.189493
+Xalapa,MX,15,"5,000/50,000/100,000",Carrot,150,"Ciudad Victoria, Mexico City",Mexico,19.52998232,-96.91998621
+Mexico City,MX,50,"500,000/1,000,000/2,000,000",Coffee Beans,1000,"Xalapa, Morelia, Taxco, Villahermosa",Mexico,19.44244244,-99.1309882
+Taxco,MX,5,"500/1,000/5,000",Candle,25,"Mexico City, Oaxaca",Mexico,18.57037681,-99.6199506
+Oaxaca,MX,50,"500,000/1,000,000/2,000,000",Sheep,1000,"Taxco, Acapulco, Tuxtla Gutierrez",Mexico,17.08268984,-96.66994979
+Acapulco,MX,30,"50,000/500,000/1,000,000",Paper,350,"Colima, Oaxaca",Mexico,16.84999086,-99.91597905
+Tuxtla Gutierrez,MX,30,"50,000/500,000/1,000,000",Hockey Stick,350,"Oaxaca, Chetumal",Mexico,16.74999697,-93.1500096
+Chetumal,MX,10,"1,000/5,000/10,000",Holy Water,50,"Tuxtla Gutierrez, Cancun",Mexico,18.50001935,-88.29999557
+Cancun,MX,50,"500,000/1,000,000/2,000,000",Pasta,1000,"Chetumal, Merida",Mexico,21.16995974,-86.83000777
+Merida,MX,30,"50,000/500,000/1,000,000",Coffee Beans,350,"Cancun, Campeche",Mexico,20.96663881,-89.61663355
+Campeche,MX,30,"50,000/500,000/1,000,000",Meatball,350,"Merida, Villahermosa",Mexico,19.82998985,-90.49999048
+Villahermosa,MX,15,"5,000/50,000/100,000",Coffee Beans,150,"Campeche, Mexico City",Mexico,17.99997235,-92.89997319
+The Bahamas,-,50,"500,000/1,000,000/2,000,000",Peanuts,1000,Miami,Caribbean,25.08339012,-77.35004378
+Havana,CU,15,"5,000/50,000/100,000",Steel,150,"Miami, Santa Clara",Caribbean,23.13195884,-82.36418217
+Santa Clara,CU,30,"50,000/500,000/1,000,000",Strawberry,350,"Havana, Camaguey",Caribbean,22.40001385,-79.9666541
+Camaguey,CU,10,"1,000/5,000/10,000",Tomato,50,"Santa Clara, Santiago de Cuba",Caribbean,21.38082542,-77.91693425
+Santiago de Cuba,CU,15,"5,000/50,000/100,000",Water,150,"Camaguey, Moontogo Bay, Port-de-Paix",Caribbean,20.0250167,-75.82132573
+Montego Bay,JM,10,"1,000/5,000/10,000",Micro Processor,50,"Kingston, Santiago de Cuba",Caribbean,18.46668805,-77.91667586
+Kingston,JM,30,"50,000/500,000/1,000,000",Firework,350,"Port-au-Prince, Montego Bay",Caribbean,17.97707662,-76.76743371
+Port-au-Prince,HT,10,"1,000/5,000/10,000",Wheat,50,"Santo Domingo, Port-de-Paix, Kingston, Caribbean Factory",Caribbean,18.5410246,-72.33603459
+Santo Domingo,CD,5,"500/1,000/5,000",Honey,25,"Santiago De Los Caballeros, Port-au-Prince",Caribbean,18.47007285,-69.90008508
+Punta Cana,CD,10,"1,000/5,000/10,000",Poutine,50,"Santiago De Los Caballeros, Ponce, San Juan",Caribbean,18.6400839,-68.6120799
+Ponce,PR,15,"5,000/50,000/100,000",Banana,150,"San Juan, Punta Cana",Caribbean,18.00038576,-66.61664209
+San Juan,PR,30,"50,000/500,000/1,000,000",BBQ Rib,350,"Ponce, Punta Cana",Caribbean,18.44002301,-66.12997929
+Santigo de Los Caballeros,CD,10,"1,000/5,000/10,000",Candle,50,"Port-de-Paix, Santo Domingo, Punta Cana",Caribbean,19.4398417,-70.7080427
+Port-de-Paix,HT,15,"5,000/50,000/100,000",Wood,150,"Santiago de Cuba, Port-au-Prince, Santiago De Los Caballeros, Caribbean Factory",Caribbean,19.93176008,-72.82948452
+Belmopan,BZ,5,"500/1,000/5,000",Coffee Beans,25,"Chetumal, Guatemala",Central America,17.25203351,-88.767073
+Guatemala,BZ,50,"500,000/1,000,000/2,000,000",Hockey Stick,1000,"Tuxla Gutierrez, Belmopan, San Pedro Sula, Santa Ana",Central America,14.62113466,-90.52696558
+Santa Ana,CR,5,"500/1,000/5,000",Apple,25,"Guatemala, San Salvador",Central America,13.9946096,-89.55976363
+San Salvador,SV,5,"500/1,000/5,000",Banana,25,"Santa Ana, Tegucigalpa",Central America,13.71000165,-89.20304122
+Tegucigalpa,HN,15,"5,000/50,000/100,000",Casino Chip,150,"San Salvador, San Pedro Sula, Puerto Canezas, Managua, Central America Factory",Central America,14.1020449,-87.21752934
+Managua,NI,5,"500/1,000/5,000",Utility Knife,25,"Tegucigalpa, San Jose",Central America,12.15301658,-86.26849166
+San Pedro Sula,HN,5,"500/1,000/5,000",Tea,25,"Guatemala, La Ceiba, Tegucigalpa",Central America,15.50002159,-88.02998621
+La Ceiba,HN,10,"1,000/5,000/10,000",Sausage,50,San Pedro Sula,Central America,15.7631063,-86.79698653
+Puerto Canezas,NI,10,"1,000/5,000/10,000",Tomato,50,"Tegucigalpa, Bluefields, Central America Factory",Central America,14.03334108,-83.38337061
+Bluefields,NI,5,"500/1,000/5,000",Tomato,25,"Puerto Canezas, San Jose",Central America,11.99997683,-83.76494938
+San Jose,CR,50,"500,000/1,000,000/2,000,000",Tomato,1000,"Managua, Bluefields, Santiago",Central America,9.93501243,-84.08405135
+Santiago,PA,5,"500/1,000/5,000",Holy Water,25,"San Jose, Panama",Central America,8.100369892,-80.98333622
+Panama,PA,50,"500,000/1,000,000/2,000,000",Pasta,1000,Santiago,Central America,8.96801719,-79.53303715

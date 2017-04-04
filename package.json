@@ -8,7 +8,10 @@
     "dev": "python -m SimpleHTTPServer",
     "createReg": "node ./csv/createRegions.js",
     "createSta": "node ./csv/createStations.js",
-    "createRes": "node ./csv/createResources.js"
+    "createRes": "node ./csv/createResources.js",
+    "st0": "node ./stations/0_simpleCities.js",
+    "st1": "node ./stations/1_simpleStations.js",
+    "st2": "node ./stations/2_selectedCities.js"
   },
   "devDependencies": {
     "csvtojson": "^1.1.4",

@@ -29,7 +29,7 @@ let result = {
 };
 
 csv()
-.fromFile('./stations/stations.csv')
+.fromFile('./csv/rails - stations.csv')
 .on('json', (row) => {
 
   let tempStation = {
@@ -45,7 +45,7 @@ csv()
 
   result.content = stations;
 
-  jsonfile.writeFile('./data/simpleStations.json', result, {spaces: 2}, function(err) {
+  jsonfile.writeFile('./stations/1_simpleStations.json', result, {spaces: 2}, function(err) {
     console.error(err)
   });
 

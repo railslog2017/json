@@ -763,6 +763,311 @@
     "city": "Kobenhavn",
     "lat": 55.67856419,
     "lng": 12.56348575
+  },
+  {
+    "city": "Cabo San Lucas",
+    "lat": 22.89275617,
+    "lng": -109.9045164
+  },
+  {
+    "city": "La Paz",
+    "lat": 24.13995933,
+    "lng": -110.3199952
+  },
+  {
+    "city": "Rosarito",
+    "lat": 28.6364039,
+    "lng": -114.0213997
+  },
+  {
+    "city": "Tijuana",
+    "lat": 32.50001752,
+    "lng": -117.079996
+  },
+  {
+    "city": "Mexicali",
+    "lat": 32.64998252,
+    "lng": -115.4800161
+  },
+  {
+    "city": "Hermosillo",
+    "lat": 29.09888145,
+    "lng": -110.954065
+  },
+  {
+    "city": "Ciudad Obregon",
+    "lat": 27.46660382,
+    "lng": -109.9249805
+  },
+  {
+    "city": "Los Mochis",
+    "lat": 25.78998781,
+    "lng": -108.9999982
+  },
+  {
+    "city": "Guasave",
+    "lat": 25.57049217,
+    "lng": -108.4699789
+  },
+  {
+    "city": "Culiacan",
+    "lat": 24.82999473,
+    "lng": -107.3799679
+  },
+  {
+    "city": "Mazatlan",
+    "lat": 23.22110069,
+    "lng": -106.4200007
+  },
+  {
+    "city": "Tepic",
+    "lat": 21.50539146,
+    "lng": -104.8799913
+  },
+  {
+    "city": "Durango",
+    "lat": 24.03110292,
+    "lng": -104.67003
+  },
+  {
+    "city": "Saltillo",
+    "lat": 25.41995872,
+    "lng": -101.0049823
+  },
+  {
+    "city": "Monclova",
+    "lat": 26.89999758,
+    "lng": -101.4199958
+  },
+  {
+    "city": "Chihuahua",
+    "lat": 28.64498151,
+    "lng": -106.0849823
+  },
+  {
+    "city": "Ciudad Juarez",
+    "lat": 31.69037701,
+    "lng": -106.4900481
+  },
+  {
+    "city": "Monterrey",
+    "lat": 25.66999514,
+    "lng": -100.3299848
+  },
+  {
+    "city": "Ciudad Victoria",
+    "lat": 23.71995913,
+    "lng": -99.12998051
+  },
+  {
+    "city": "San Luis Potosi",
+    "lat": 22.16997622,
+    "lng": -100.9999956
+  },
+  {
+    "city": "Guadalajara",
+    "lat": 20.67001609,
+    "lng": -103.3300342
+  },
+  {
+    "city": "Colima",
+    "lat": 19.22997479,
+    "lng": -103.7200104
+  },
+  {
+    "city": "Morelia",
+    "lat": 19.73338076,
+    "lng": -101.189493
+  },
+  {
+    "city": "Xalapa",
+    "lat": 19.52998232,
+    "lng": -96.91998621
+  },
+  {
+    "city": "Mexico City",
+    "lat": 19.44244244,
+    "lng": -99.1309882
+  },
+  {
+    "city": "Taxco",
+    "lat": 18.57037681,
+    "lng": -99.6199506
+  },
+  {
+    "city": "Oaxaca",
+    "lat": 17.08268984,
+    "lng": -96.66994979
+  },
+  {
+    "city": "Acapulco",
+    "lat": 16.84999086,
+    "lng": -99.91597905
+  },
+  {
+    "city": "Tuxtla Gutierrez",
+    "lat": 16.74999697,
+    "lng": -93.1500096
+  },
+  {
+    "city": "Chetumal",
+    "lat": 18.50001935,
+    "lng": -88.29999557
+  },
+  {
+    "city": "Cancun",
+    "lat": 21.16995974,
+    "lng": -86.83000777
+  },
+  {
+    "city": "Merida",
+    "lat": 20.96663881,
+    "lng": -89.61663355
+  },
+  {
+    "city": "Campeche",
+    "lat": 19.82998985,
+    "lng": -90.49999048
+  },
+  {
+    "city": "Villahermosa",
+    "lat": 17.99997235,
+    "lng": -92.89997319
+  },
+  {
+    "city": "The Bahamas",
+    "lat": 25.08339012,
+    "lng": -77.35004378
+  },
+  {
+    "city": "Havana",
+    "lat": 23.13195884,
+    "lng": -82.36418217
+  },
+  {
+    "city": "Santa Clara",
+    "lat": 22.40001385,
+    "lng": -79.9666541
+  },
+  {
+    "city": "Camaguey",
+    "lat": 21.38082542,
+    "lng": -77.91693425
+  },
+  {
+    "city": "Santiago de Cuba",
+    "lat": 20.0250167,
+    "lng": -75.82132573
+  },
+  {
+    "city": "Montego Bay",
+    "lat": 18.46668805,
+    "lng": -77.91667586
+  },
+  {
+    "city": "Kiingston",
+    "lat": 17.97707662,
+    "lng": -76.76743371
+  },
+  {
+    "city": "Port-au-Prince",
+    "lat": 18.5410246,
+    "lng": -72.33603459
+  },
+  {
+    "city": "Santo Domingo",
+    "lat": 18.47007285,
+    "lng": -69.90008508
+  },
+  {
+    "city": "Punta Cana",
+    "lat": 18.6400839,
+    "lng": -68.6120799
+  },
+  {
+    "city": "Ponce",
+    "lat": 18.00038576,
+    "lng": -66.61664209
+  },
+  {
+    "city": "San Juan",
+    "lat": 18.44002301,
+    "lng": -66.12997929
+  },
+  {
+    "city": "Santigo de Los Cablleros",
+    "lat": 19.4398417,
+    "lng": -70.7080427
+  },
+  {
+    "city": "Port-de-Paix",
+    "lat": 19.93176008,
+    "lng": -72.82948452
+  },
+  {
+    "city": "Belmopan",
+    "lat": 17.25203351,
+    "lng": -88.767073
+  },
+  {
+    "city": "Guatemala",
+    "lat": 14.62113466,
+    "lng": -90.52696558
+  },
+  {
+      "city": "Santa Ana",
+    "lat": 13.9946096,
+    "lng": -89.55976363
+  },
+  {
+    "city": "San Salvador",
+    "lat": 13.71000165,
+    "lng": -89.20304122
+  },
+  {
+    "city": "Tegucigalpa",
+    "lat": 14.1020449,
+    "lng": -87.21752934
+  },
+  {
+    "city": "Managua",
+    "lat": 12.15301658,
+    "lng": -86.26849166
+  },
+  {
+    "city": "San Pedro Sula",
+    "lat": 15.50002159,
+    "lng": -88.02998621
+  },
+  {
+    "city": "La Ceiba",
+    "lat": 15.7631063,
+    "lng": -86.79698653
+  },
+  {
+    "city": "Puerto Canezas",
+    "lat": 14.03334108,
+    "lng": -83.38337061
+  },
+  {
+    "city": "Bluefields",
+    "lat": 11.99997683,
+    "lng": -83.76494938
+  },
+  {
+    "city": "San Jose",
+    "lat": 9.93501243,
+    "lng": -84.08405135
+  },
+  {
+    "city": "Santiago",
+    "lat": 8.100369892,
+    "lng": -80.98333622
+  },
+  {
+    "city": "Panama",
+    "lat": 8.96801719,
+    "lng": -79.53303715
   }
 ]
 }

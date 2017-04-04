@@ -1,6 +1,6 @@
 {
   "game": "tiny rails",
-  "update": "2017-03-25",
+  "update": "2017-04-04",
   "version": "0.1.0",
   "info": "simple stations",
   "content": [
@@ -73,7 +73,7 @@
     {
       "city": "Baltimore",
       "state": "MD",
-      "connectsTo": "Dover, Washington, D.C.",
+      "connectsTo": "Dover, Washington",
       "region": "USA East"
     },
     {
@@ -85,7 +85,7 @@
     {
       "city": "Richmond",
       "state": "VA",
-      "connectsTo": "Washington, D.C., Raleigh",
+      "connectsTo": "Washington, Raleigh",
       "region": "USA East"
     },
     {
@@ -293,7 +293,7 @@
       "region": "USA Center"
     },
     {
-      "city": "St Louis",
+      "city": "St. Louis",
       "state": "MO",
       "connectsTo": "Indianapolis, Memphis, Springfield",
       "region": "USA Center"
@@ -397,7 +397,7 @@
     {
       "city": "Los Angeles",
       "state": "CA",
-      "connectsTo": "San Francisco, Las Vegas",
+      "connectsTo": "San Francisco, Las Vegas, Tijuana",
       "region": "USA West"
     },
     {
@@ -409,7 +409,7 @@
     {
       "city": "Phoenix",
       "state": "AZ",
-      "connectsTo": "Las Vegas, Tuscon",
+      "connectsTo": "Las Vegas, Tucson",
       "region": "USA West"
     },
     {
@@ -421,7 +421,7 @@
     {
       "city": "El Paso",
       "state": "TX",
-      "connectsTo": "Tuscon, Albuquerque, Fort Stockton",
+      "connectsTo": "Tucson, Albuquerque, Fort Stockton, Ciudad Juarez",
       "region": "USA West"
     },
     {
@@ -683,21 +683,21 @@
       "region": "Europe West"
     },
     {
-      "city": "Southampton",
-      "state": "UK",
-      "connectsTo": "Cardiff, Nantes",
+      "city": "Andorra La Velle",
+      "state": "AD",
+      "connectsTo": "Milan, Bilbao",
       "region": "Europe South"
     },
     {
-      "city": "Cardiff",
-      "state": "UK",
-      "connectsTo": "Galway, Southampton",
+      "city": "Bilbao",
+      "state": "ES",
+      "connectsTo": "Nantes, Porto, Andorra La Vella",
       "region": "Europe South"
     },
     {
-      "city": "Dublin",
-      "state": "IE",
-      "connectsTo": "Galway, Cardiff",
+      "city": "Porto",
+      "state": "PT",
+      "connectsTo": "Bilbao, Lisbon",
       "region": "Europe South"
     },
     {
@@ -915,6 +915,372 @@
       "state": "DK",
       "connectsTo": "Oslo, Berlin, Europe North Factory",
       "region": "Europe North"
+    },
+    {
+      "city": "Cabo San Lucas",
+      "state": "MX",
+      "connectsTo": "La Paz",
+      "region": "Mexico"
+    },
+    {
+      "city": "La Paz",
+      "state": "MX",
+      "connectsTo": "Cabo San Lucas, Rosarito",
+      "region": "Mexico"
+    },
+    {
+      "city": "Rosarito",
+      "state": "MX",
+      "connectsTo": "La Paz, Tijuana",
+      "region": "Mexico"
+    },
+    {
+      "city": "Tijuana",
+      "state": "MX",
+      "connectsTo": "Los Angeles,, Rosarito, Mexicali",
+      "region": "Mexico"
+    },
+    {
+      "city": "Mexicali",
+      "state": "MX",
+      "connectsTo": "Tijuana, Ciudad Juarez, Hermosillo",
+      "region": "Mexico"
+    },
+    {
+      "city": "Hermosillo",
+      "state": "MX",
+      "connectsTo": "Mexicali, Ciudad Obregon",
+      "region": "Mexico"
+    },
+    {
+      "city": "Ciudad Obregon",
+      "state": "MX",
+      "connectsTo": "Hermosillo, Chihuahua, Los Mochis",
+      "region": "Mexico"
+    },
+    {
+      "city": "Los Mochis",
+      "state": "MX",
+      "connectsTo": "Ciudad Obregon, Guasave",
+      "region": "Mexico"
+    },
+    {
+      "city": "Guasave",
+      "state": "MX",
+      "connectsTo": "Los Mochis, Culiacan",
+      "region": "Mexico"
+    },
+    {
+      "city": "Culiacan",
+      "state": "MX",
+      "connectsTo": "Guasave, Mazatlan",
+      "region": "Mexico"
+    },
+    {
+      "city": "Mazatlan",
+      "state": "MX",
+      "connectsTo": "Culiacan, Tepic",
+      "region": "Mexico"
+    },
+    {
+      "city": "Tepic",
+      "state": "MX",
+      "connectsTo": "Mazatlan, Colima, San Luis Potosi, Durango",
+      "region": "Mexico"
+    },
+    {
+      "city": "Durango",
+      "state": "MX",
+      "connectsTo": "Tepic, Saltillo",
+      "region": "Mexico"
+    },
+    {
+      "city": "Saltillo",
+      "state": "MX",
+      "connectsTo": "Durango, Monterrey, Monclova",
+      "region": "Mexico"
+    },
+    {
+      "city": "Monclova",
+      "state": "MX",
+      "connectsTo": "Saltillo, Chihuahua",
+      "region": "Mexico"
+    },
+    {
+      "city": "Chihuahua",
+      "state": "MX",
+      "connectsTo": "Monclova, Ciudad Obregon, Ciudad Juarez",
+      "region": "Mexico"
+    },
+    {
+      "city": "Ciudad Juarez",
+      "state": "MX",
+      "connectsTo": "Mexicali, El Paso, Chihuahua",
+      "region": "Mexico"
+    },
+    {
+      "city": "Monterrey",
+      "state": "MX",
+      "connectsTo": "Saltillo, Ciudad Victoria",
+      "region": "Mexico"
+    },
+    {
+      "city": "Ciudad Victoria",
+      "state": "MX",
+      "connectsTo": "Monterrey, San Luis Potosi, Xalapa",
+      "region": "Mexico"
+    },
+    {
+      "city": "San Luis Potosi",
+      "state": "MX",
+      "connectsTo": "Tepic, Ciudad Victoria, Guadalajara",
+      "region": "Mexico"
+    },
+    {
+      "city": "Guadalajara",
+      "state": "MX",
+      "connectsTo": "San Luis Potosi, Morelia",
+      "region": "Mexico"
+    },
+    {
+      "city": "Colima",
+      "state": "MX",
+      "connectsTo": "Tepic, Morelia, Acapulco",
+      "region": "Mexico"
+    },
+    {
+      "city": "Morelia",
+      "state": "MX",
+      "connectsTo": "Guadalajara, Colima, Mexico City",
+      "region": "Mexico"
+    },
+    {
+      "city": "Xalapa",
+      "state": "MX",
+      "connectsTo": "Ciudad Victoria, Mexico City",
+      "region": "Mexico"
+    },
+    {
+      "city": "Mexico City",
+      "state": "MX",
+      "connectsTo": "Xalapa, Morelia, Taxco, Villahermosa",
+      "region": "Mexico"
+    },
+    {
+      "city": "Taxco",
+      "state": "MX",
+      "connectsTo": "Mexico City, Oaxaca",
+      "region": "Mexico"
+    },
+    {
+      "city": "Oaxaca",
+      "state": "MX",
+      "connectsTo": "Taxco, Acapulco, Tuxtla Gutierrez",
+      "region": "Mexico"
+    },
+    {
+      "city": "Acapulco",
+      "state": "MX",
+      "connectsTo": "Colima, Oaxaca",
+      "region": "Mexico"
+    },
+    {
+      "city": "Tuxtla Gutierrez",
+      "state": "MX",
+      "connectsTo": "Oaxaca, Chetumal",
+      "region": "Mexico"
+    },
+    {
+      "city": "Chetumal",
+      "state": "MX",
+      "connectsTo": "Tuxtla Gutierrez, Cancun",
+      "region": "Mexico"
+    },
+    {
+      "city": "Cancun",
+      "state": "MX",
+      "connectsTo": "Chetumal, Merida",
+      "region": "Mexico"
+    },
+    {
+      "city": "Merida",
+      "state": "MX",
+      "connectsTo": "Cancun, Campeche",
+      "region": "Mexico"
+    },
+    {
+      "city": "Campeche",
+      "state": "MX",
+      "connectsTo": "Merida, Villahermosa",
+      "region": "Mexico"
+    },
+    {
+      "city": "Villahermosa",
+      "state": "MX",
+      "connectsTo": "Campeche, Mexico City",
+      "region": "Mexico"
+    },
+    {
+      "city": "The Bahamas",
+      "state": "-",
+      "connectsTo": "",
+      "region": "Caribbean"
+    },
+    {
+      "city": "Havana",
+      "state": "CU",
+      "connectsTo": "",
+      "region": "Caribbean"
+    },
+    {
+      "city": "Santa Clara",
+      "state": "CU",
+      "connectsTo": "",
+      "region": "Caribbean"
+    },
+    {
+      "city": "Camaguey",
+      "state": "CU",
+      "connectsTo": "",
+      "region": "Caribbean"
+    },
+    {
+      "city": "Santiago de Cuba",
+      "state": "CU",
+      "connectsTo": "",
+      "region": "Caribbean"
+    },
+    {
+      "city": "Montego Bay",
+      "state": "JM",
+      "connectsTo": "",
+      "region": "Caribbean"
+    },
+    {
+      "city": "Kiingston",
+      "state": "JM",
+      "connectsTo": "",
+      "region": "Caribbean"
+    },
+    {
+      "city": "Port-au-Prince",
+      "state": "HT",
+      "connectsTo": "",
+      "region": "Caribbean"
+    },
+    {
+      "city": "Santo Domingo",
+      "state": "CD",
+      "connectsTo": "",
+      "region": "Caribbean"
+    },
+    {
+      "city": "Punta Cana",
+      "state": "CD",
+      "connectsTo": "",
+      "region": "Caribbean"
+    },
+    {
+      "city": "Ponce",
+      "state": "PR",
+      "connectsTo": "",
+      "region": "Caribbean"
+    },
+    {
+      "city": "San Juan",
+      "state": "PR",
+      "connectsTo": "",
+      "region": "Caribbean"
+    },
+    {
+      "city": "Santigo de Los Cablleros",
+      "state": "CD",
+      "connectsTo": "",
+      "region": "Caribbean"
+    },
+    {
+      "city": "Port-de-Paix",
+      "state": "HT",
+      "connectsTo": "",
+      "region": "Caribbean"
+    },
+    {
+      "city": "Belmopan",
+      "state": "BZ",
+      "connectsTo": "",
+      "region": "Central America"
+    },
+    {
+      "city": "Guatemala",
+      "state": "BZ",
+      "connectsTo": "",
+      "region": "Central America"
+    },
+    {
+      "city": "Santa Ana",
+      "state": "CR",
+      "connectsTo": "",
+      "region": "Central America"
+    },
+    {
+      "city": "San Salvador",
+      "state": "SV",
+      "connectsTo": "",
+      "region": "Central America"
+    },
+    {
+      "city": "Tegucigalpa",
+      "state": "HN",
+      "connectsTo": "",
+      "region": "Central America"
+    },
+    {
+      "city": "Managua",
+      "state": "NI",
+      "connectsTo": "",
+      "region": "Central America"
+    },
+    {
+      "city": "San Pedro Sula",
+      "state": "HN",
+      "connectsTo": "",
+      "region": "Central America"
+    },
+    {
+      "city": "La Ceiba",
+      "state": "HN",
+      "connectsTo": "",
+      "region": "Central America"
+    },
+    {
+      "city": "Puerto Canezas",
+      "state": "NI",
+      "connectsTo": "",
+      "region": "Central America"
+    },
+    {
+      "city": "Bluefields",
+      "state": "NI",
+      "connectsTo": "",
+      "region": "Central America"
+    },
+    {
+      "city": "San Jose",
+      "state": "CR",
+      "connectsTo": "",
+      "region": "Central America"
+    },
+    {
+      "city": "Santiago",
+      "state": "PA",
+      "connectsTo": "",
+      "region": "Central America"
+    },
+    {
+      "city": "Panama",
+      "state": "PA",
+      "connectsTo": "",
+      "region": "Central America"
     }
   ]
 }

@@ -40,6 +40,7 @@ Frankfort,KY,5,"500/1,000/5,000",Wood,25,"Memphis, Indianapolis, Columbus, Nashv
 Nashville,TN,30,"50,000/500,000/1,000,000",Cow,350,"Frankfort, Charleston, Columbia",USA South,36.16997438,-86.77998499
 Columbia,SC,10,"1,000/5,000/10,000",BBQ Rib,50,"Nashville, Raleigh, Atlanta",USA South,34.0399752,-80.89998214
 Billings,MT,10,"1,000/5,000/10,000",Carrot,50,"Helena, Rapid City",USA Center,45.78830202,-108.5400004
+Denver,CO,15,"5,000/50,000/100,000",Chicken,150,"Santa Fe, Boise, Cheyenne",USA Center,39.73918805,-104.984016
 Rapid City,SD,5,"500/1,000/5,000",Honey,25,"Billings, Pierre",USA Center,44.08055096,-103.2305571
 Pierre,SD,10,"1,000/5,000/10,000",Iron,50,"Rapid City, Regina, Bismarck",USA Center,44.36833701,-100.350552
 Bismarck,ND,10,"1,000/5,000/10,000",Copper,50,"Pierre, Saint Paul",USA Center,46.80831728,-100.7833163
@@ -56,7 +57,6 @@ Cheyenne,WY,10,"1,000/5,000/10,000",Carrot,50,"Lincoln, Denver, Helena",USA Cent
 Helena,MT,10,"1,000/5,000/10,000",Oil,50,"Cheyenne, Boise, Calgary, Billings",USA Center,46.59274904,-112.035291
 Albuquerque,NM,30,"50,000/500,000/1,000,000",Iron,350,"El Paso, Santa Fe",USA West,35.10497479,-106.6413308
 Santa Fe,NM,10,"1,000/5,000/10,000",Iron,50,"Albuquerque, Denver, Oklahoma City",USA West,35.68692893,-105.9372394
-Denver,CO,15,"5,000/50,000/100,000",Chicken,150,"Santa Fe, Boise, Cheyenne",USA West,39.73918805,-104.984016
 Boise,ID,10,"1,000/5,000/10,000",Wheat,50,"Denver, Kennewick, Banff, Helena",USA West,43.60859011,-116.2274899
 Kennewick,WA,5,"500/1,000/5,000",Cow,25,"Boise, Seattle",USA West,46.21137697,-119.1360979
 Seattle,WA,50,"500,000/1,000,000/2,000,000",Parka,1000,"Kennewick, Olympia, Vancouver",USA West,47.57000205,-122.339985

@@ -1,6 +1,6 @@
 {
   "game": "tiny rails",
-  "update": "2017-04-04",
+  "update": "2017-04-05",
   "version": "0.1.0",
   "info": "stations",
   "content": [
@@ -620,6 +620,21 @@
       "longitude": -108.5400004
     },
     {
+      "city": "Denver",
+      "state": "CO",
+      "passengers": 15,
+      "upgradeCosts": "5,000/50,000/100,000",
+      "resourceDemanded": "Chicken",
+      "amountDemanded": 150,
+      "connectsTo": "Santa Fe, Boise, Cheyenne",
+      "region": "USA Center",
+      "currentAmountDemanded": 0,
+      "currentResourceDemanded": false,
+      "currentLevel": 0,
+      "latitude": 39.73918805,
+      "longitude": -104.984016
+    },
+    {
       "city": "Rapid City",
       "state": "SD",
       "passengers": 5,
@@ -858,21 +873,6 @@
       "currentLevel": 0,
       "latitude": 35.68692893,
       "longitude": -105.9372394
-    },
-    {
-      "city": "Denver",
-      "state": "CO",
-      "passengers": 15,
-      "upgradeCosts": "5,000/50,000/100,000",
-      "resourceDemanded": "Chicken",
-      "amountDemanded": 150,
-      "connectsTo": "Santa Fe, Boise, Cheyenne",
-      "region": "USA West",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 39.73918805,
-      "longitude": -104.984016
     },
     {
       "city": "Boise",

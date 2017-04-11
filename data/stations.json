@@ -1,12 +1,11 @@
 {
   "game": "tiny rails",
-  "update": "2017-04-05",
+  "update": "2017-04-11",
   "version": "0.1.0",
   "info": "stations",
   "content": [
     {
-      "city": "Albany",
-      "state": "NY",
+      "city": "Albany, NY",
       "passengers": 10,
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Lemon",
@@ -20,8 +19,7 @@
       "longitude": -73.81994918
     },
     {
-      "city": "Montpelier",
-      "state": "VT",
+      "city": "Montpelier, VT",
       "passengers": 5,
       "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Corn",
@@ -35,8 +33,7 @@
       "longitude": -72.57581323
     },
     {
-      "city": "Augusta",
-      "state": "ME",
+      "city": "Augusta, ME",
       "passengers": 5,
       "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Pig",
@@ -50,8 +47,7 @@
       "longitude": -69.77998906
     },
     {
-      "city": "Concord",
-      "state": "NH",
+      "city": "Concord, NH",
       "passengers": 5,
       "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Wood",
@@ -65,8 +61,7 @@
       "longitude": -71.53804712
     },
     {
-      "city": "Boston",
-      "state": "MA",
+      "city": "Boston, MA",
       "passengers": 30,
       "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Strawberry",
@@ -80,8 +75,7 @@
       "longitude": -71.07001367
     },
     {
-      "city": "Providence",
-      "state": "RI",
+      "city": "Providence, RI",
       "passengers": 10,
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Oil",
@@ -95,8 +89,7 @@
       "longitude": -71.4149797
     },
     {
-      "city": "Hartford",
-      "state": "CT",
+      "city": "Hartford, CT",
       "passengers": 10,
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Orange",
@@ -110,8 +103,7 @@
       "longitude": -72.67996708
     },
     {
-      "city": "New York",
-      "state": "NY",
+      "city": "New York, NY",
       "passengers": 50,
       "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "BBQ Rib",
@@ -125,8 +117,7 @@
       "longitude": -73.98001693
     },
     {
-      "city": "Trenton",
-      "state": "NJ",
+      "city": "Trenton, NJ",
       "passengers": 10,
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Pig",
@@ -140,8 +131,7 @@
       "longitude": -74.74335535
     },
     {
-      "city": "Philadelphia",
-      "state": "PA",
+      "city": "Philadelphia, PA",
       "passengers": 50,
       "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Chicken",
@@ -155,8 +145,7 @@
       "longitude": -75.16999597
     },
     {
-      "city": "Dover",
-      "state": "DE",
+      "city": "Dover, DE",
       "passengers": 5,
       "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Corn",
@@ -170,8 +159,7 @@
       "longitude": -75.524703
     },
     {
-      "city": "Baltimore",
-      "state": "MD",
+      "city": "Baltimore, MD",
       "passengers": 10,
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Lemon",
@@ -185,8 +173,7 @@
       "longitude": -76.61998499
     },
     {
-      "city": "Washington",
-      "state": "DC",
+      "city": "Washington, DC",
       "passengers": 30,
       "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Orange",
@@ -200,8 +187,7 @@
       "longitude": -77.00941858
     },
     {
-      "city": "Richmond",
-      "state": "VA",
+      "city": "Richmond, VA",
       "passengers": 5,
       "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Oil",
@@ -215,8 +201,7 @@
       "longitude": -77.449986
     },
     {
-      "city": "Raleigh",
-      "state": "NC",
+      "city": "Raleigh, NC",
       "passengers": 15,
       "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Paper",
@@ -230,8 +215,7 @@
       "longitude": -78.64469344
     },
     {
-      "city": "Charleston",
-      "state": "WV",
+      "city": "Charleston, WV",
       "passengers": 10,
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Salmon",
@@ -245,8 +229,7 @@
       "longitude": -81.63272811
     },
     {
-      "city": "Columbus",
-      "state": "OH",
+      "city": "Columbus, OH",
       "passengers": 30,
       "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Paper",
@@ -260,8 +243,7 @@
       "longitude": -82.9900096
     },
     {
-      "city": "Detroit",
-      "state": "MI",
+      "city": "Detroit, MI",
       "passengers": 30,
       "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Corn",
@@ -275,8 +257,7 @@
       "longitude": -83.08005579
     },
     {
-      "city": "Toledo",
-      "state": "OH",
+      "city": "Toledo, OH",
       "passengers": 5,
       "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Pizza",
@@ -290,8 +271,7 @@
       "longitude": -83.57997359
     },
     {
-      "city": "Pittsburgh",
-      "state": "PA",
+      "city": "Pittsburgh, PA",
       "passengers": 15,
       "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Cow",
@@ -305,8 +285,7 @@
       "longitude": -79.99998539
     },
     {
-      "city": "Harrisburg",
-      "state": "PA",
+      "city": "Harrisburg, PA",
       "passengers": 5,
       "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Honey",
@@ -320,8 +299,7 @@
       "longitude": -76.88474919
     },
     {
-      "city": "Atlanta",
-      "state": "GA",
+      "city": "Atlanta, GA",
       "passengers": 15,
       "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Firework",
@@ -335,8 +313,7 @@
       "longitude": -84.39994938
     },
     {
-      "city": "Miami",
-      "state": "FL",
+      "city": "Miami, FL",
       "passengers": 15,
       "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Copper",
@@ -350,8 +327,7 @@
       "longitude": -80.22410608
     },
     {
-      "city": "Tallahassee",
-      "state": "FL",
+      "city": "Tallahassee, FL",
       "passengers": 10,
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Paper",
@@ -365,8 +341,7 @@
       "longitude": -84.28003422
     },
     {
-      "city": "Montgomery",
-      "state": "AL",
+      "city": "Montgomery, AL",
       "passengers": 10,
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Wood",
@@ -380,8 +355,7 @@
       "longitude": -86.27918868
     },
     {
-      "city": "Jackson",
-      "state": "MS",
+      "city": "Jackson, MS",
       "passengers": 10,
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Wheat",
@@ -395,8 +369,7 @@
       "longitude": -90.18499679
     },
     {
-      "city": "Little Rock",
-      "state": "AK",
+      "city": "Little Rock, AK",
       "passengers": 5,
       "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Salmon",
@@ -410,8 +383,7 @@
       "longitude": -92.33109318
     },
     {
-      "city": "New Orleans",
-      "state": "LA",
+      "city": "New Orleans, LA",
       "passengers": 50,
       "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Corn",
@@ -425,8 +397,7 @@
       "longitude": -90.03996688
     },
     {
-      "city": "Baton Rouge",
-      "state": "LA",
+      "city": "Baton Rouge, LA",
       "passengers": 15,
       "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Steel",
@@ -440,8 +411,7 @@
       "longitude": -91.14015812
     },
     {
-      "city": "Houston",
-      "state": "TX",
+      "city": "Houston, TX",
       "passengers": 50,
       "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Poutine",
@@ -455,8 +425,7 @@
       "longitude": -95.33997929
     },
     {
-      "city": "Austin",
-      "state": "TX",
+      "city": "Austin, TX",
       "passengers": 30,
       "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Pizza",
@@ -470,8 +439,7 @@
       "longitude": -97.74277836
     },
     {
-      "city": "Fort Stockton",
-      "state": "TX",
+      "city": "Fort Stockton, TX",
       "passengers": 5,
       "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Strawberry",
@@ -485,8 +453,7 @@
       "longitude": -102.8849968
     },
     {
-      "city": "Dallas",
-      "state": "TX",
+      "city": "Dallas, TX",
       "passengers": 30,
       "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Pig",
@@ -500,8 +467,7 @@
       "longitude": -96.84001693
     },
     {
-      "city": "Oklahoma City",
-      "state": "OK",
+      "city": "Oklahoma City, OK",
       "passengers": 15,
       "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Chicken",
@@ -515,8 +481,7 @@
       "longitude": -97.51868351
     },
     {
-      "city": "Topeka",
-      "state": "KS",
+      "city": "Topeka, KS",
       "passengers": 10,
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Apple",
@@ -530,8 +495,7 @@
       "longitude": -95.66998499
     },
     {
-      "city": "Jefferson City",
-      "state": "MO",
+      "city": "Jefferson City, MO",
       "passengers": 5,
       "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Orange",
@@ -545,8 +509,7 @@
       "longitude": -92.17332503
     },
     {
-      "city": "Memphis",
-      "state": "TN",
+      "city": "Memphis, TN",
       "passengers": 30,
       "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Salmon",
@@ -560,8 +523,7 @@
       "longitude": -89.99999516
     },
     {
-      "city": "Frankfort",
-      "state": "KY",
+      "city": "Frankfort, KY",
       "passengers": 5,
       "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Wood",
@@ -575,8 +537,7 @@
       "longitude": -84.87335718
     },
     {
-      "city": "Nashville",
-      "state": "TN",
+      "city": "Nashville, TN",
       "passengers": 30,
       "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Cow",
@@ -590,8 +551,7 @@
       "longitude": -86.77998499
     },
     {
-      "city": "Columbia",
-      "state": "SC",
+      "city": "Columbia, SC",
       "passengers": 10,
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "BBQ Rib",
@@ -605,8 +565,7 @@
       "longitude": -80.89998214
     },
     {
-      "city": "Billings",
-      "state": "MT",
+      "city": "Billings, MT",
       "passengers": 10,
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Carrot",
@@ -620,23 +579,7 @@
       "longitude": -108.5400004
     },
     {
-      "city": "Denver",
-      "state": "CO",
-      "passengers": 15,
-      "upgradeCosts": "5,000/50,000/100,000",
-      "resourceDemanded": "Chicken",
-      "amountDemanded": 150,
-      "connectsTo": "Santa Fe, Boise, Cheyenne",
-      "region": "USA Center",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 39.73918805,
-      "longitude": -104.984016
-    },
-    {
-      "city": "Rapid City",
-      "state": "SD",
+      "city": "Rapid City, SD",
       "passengers": 5,
       "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Honey",
@@ -650,8 +593,7 @@
       "longitude": -103.2305571
     },
     {
-      "city": "Pierre",
-      "state": "SD",
+      "city": "Pierre, SD",
       "passengers": 10,
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Iron",
@@ -665,8 +607,7 @@
       "longitude": -100.350552
     },
     {
-      "city": "Bismarck",
-      "state": "ND",
+      "city": "Bismarck, ND",
       "passengers": 10,
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Copper",
@@ -680,8 +621,7 @@
       "longitude": -100.7833163
     },
     {
-      "city": "Saint Paul",
-      "state": "MN",
+      "city": "Saint Paul, MN",
       "passengers": 10,
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Hockey Stick",
@@ -695,8 +635,7 @@
       "longitude": -93.08497481
     },
     {
-      "city": "Madison",
-      "state": "WI",
+      "city": "Madison, WI",
       "passengers": 10,
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Paper",
@@ -710,8 +649,7 @@
       "longitude": -89.40111699
     },
     {
-      "city": "Chicago",
-      "state": "IL",
+      "city": "Chicago, IL",
       "passengers": 30,
       "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Carrot",
@@ -725,8 +663,7 @@
       "longitude": -87.75005497
     },
     {
-      "city": "Indianapolis",
-      "state": "IN",
+      "city": "Indianapolis, IN",
       "passengers": 15,
       "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Wheat",
@@ -740,8 +677,7 @@
       "longitude": -86.17004806
     },
     {
-      "city": "St. Louis",
-      "state": "MO",
+      "city": "St. Louis, MO",
       "passengers": 15,
       "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Wood",
@@ -755,8 +691,7 @@
       "longitude": -90.23998051
     },
     {
-      "city": "Springfield",
-      "state": "IL",
+      "city": "Springfield, IL",
       "passengers": 10,
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Lemon",
@@ -770,8 +705,7 @@
       "longitude": -89.65001652
     },
     {
-      "city": "Galesburg",
-      "state": "IL",
+      "city": "Galesburg, IL",
       "passengers": 5,
       "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Hockey Stick",
@@ -785,8 +719,7 @@
       "longitude": -90.37108362
     },
     {
-      "city": "Des Moines",
-      "state": "IA",
+      "city": "Des Moines, IA",
       "passengers": 5,
       "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Honey",
@@ -800,8 +733,7 @@
       "longitude": -93.61998092
     },
     {
-      "city": "Lincoln",
-      "state": "NE",
+      "city": "Lincoln, NE",
       "passengers": 10,
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Pizza",
@@ -815,8 +747,7 @@
       "longitude": -96.68000086
     },
     {
-      "city": "Cheyenne",
-      "state": "WY",
+      "city": "Cheyenne, WY",
       "passengers": 10,
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Carrot",
@@ -830,8 +761,7 @@
       "longitude": -104.8197107
     },
     {
-      "city": "Helena",
-      "state": "MT",
+      "city": "Helena, MT",
       "passengers": 10,
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Oil",
@@ -845,8 +775,7 @@
       "longitude": -112.035291
     },
     {
-      "city": "Albuquerque",
-      "state": "NM",
+      "city": "Albuquerque, NM",
       "passengers": 30,
       "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Iron",
@@ -860,8 +789,7 @@
       "longitude": -106.6413308
     },
     {
-      "city": "Santa Fe",
-      "state": "NM",
+      "city": "Santa Fe, NM",
       "passengers": 10,
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Iron",
@@ -875,8 +803,21 @@
       "longitude": -105.9372394
     },
     {
-      "city": "Boise",
-      "state": "ID",
+      "city": "Denver, CO",
+      "passengers": 15,
+      "upgradeCosts": "5,000/50,000/100,000",
+      "resourceDemanded": "Chicken",
+      "amountDemanded": 150,
+      "connectsTo": "Santa Fe, Boise, Cheyenne",
+      "region": "USA West",
+      "currentAmountDemanded": 0,
+      "currentResourceDemanded": false,
+      "currentLevel": 0,
+      "latitude": 39.73918805,
+      "longitude": -104.984016
+    },
+    {
+      "city": "Boise, ID",
       "passengers": 10,
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Wheat",
@@ -890,8 +831,7 @@
       "longitude": -116.2274899
     },
     {
-      "city": "Kennewick",
-      "state": "WA",
+      "city": "Kennewick, WA",
       "passengers": 5,
       "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Cow",
@@ -905,8 +845,7 @@
       "longitude": -119.1360979
     },
     {
-      "city": "Seattle",
-      "state": "WA",
+      "city": "Seattle, WA",
       "passengers": 50,
       "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Parka",
@@ -920,8 +859,7 @@
       "longitude": -122.339985
     },
     {
-      "city": "Olympia",
-      "state": "WA",
+      "city": "Olympia, WA",
       "passengers": 10,
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Apple",
@@ -935,8 +873,7 @@
       "longitude": -122.899434
     },
     {
-      "city": "Portland",
-      "state": "OR",
+      "city": "Portland, OR",
       "passengers": 15,
       "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Poutine",
@@ -950,8 +887,7 @@
       "longitude": -122.6799901
     },
     {
-      "city": "Sacramento",
-      "state": "CA",
+      "city": "Sacramento, CA",
       "passengers": 15,
       "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Orange",
@@ -965,8 +901,7 @@
       "longitude": -121.4700381
     },
     {
-      "city": "San Francisco",
-      "state": "CA",
+      "city": "San Francisco, CA",
       "passengers": 50,
       "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Micro Processor",
@@ -980,8 +915,7 @@
       "longitude": -122.4599777
     },
     {
-      "city": "Los Angeles",
-      "state": "CA",
+      "city": "Los Angeles, CA",
       "passengers": 50,
       "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Pizza",
@@ -995,8 +929,7 @@
       "longitude": -118.1799805
     },
     {
-      "city": "Las Vegas",
-      "state": "NV",
+      "city": "Las Vegas, NV",
       "passengers": 50,
       "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Water",
@@ -1010,8 +943,7 @@
       "longitude": -115.2200061
     },
     {
-      "city": "Phoenix",
-      "state": "AZ",
+      "city": "Phoenix, AZ",
       "passengers": 30,
       "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Lemon",
@@ -1025,8 +957,7 @@
       "longitude": -112.0699917
     },
     {
-      "city": "Tucson",
-      "state": "AZ",
+      "city": "Tucson, AZ",
       "passengers": 10,
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Micro Processor",
@@ -1040,8 +971,7 @@
       "longitude": -110.8899862
     },
     {
-      "city": "El Paso",
-      "state": "TX",
+      "city": "El Paso, TX",
       "passengers": 10,
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Copper",
@@ -1055,8 +985,7 @@
       "longitude": -106.5099952
     },
     {
-      "city": "Banff",
-      "state": "AB",
+      "city": "Banff, AB",
       "passengers": 50,
       "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Oil",
@@ -1070,8 +999,7 @@
       "longitude": -115.5719227
     },
     {
-      "city": "Calgary",
-      "state": "AB",
+      "city": "Calgary, AB",
       "passengers": 30,
       "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Firework",
@@ -1085,8 +1013,7 @@
       "longitude": -114.0799982
     },
     {
-      "city": "Edmonton",
-      "state": "AB",
+      "city": "Edmonton, AB",
       "passengers": 30,
       "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Steel",
@@ -1100,8 +1027,7 @@
       "longitude": -113.4999819
     },
     {
-      "city": "Fort McMurray",
-      "state": "AB",
+      "city": "Fort McMurray, AB",
       "passengers": 10,
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Water",
@@ -1115,8 +1041,7 @@
       "longitude": -111.3833153
     },
     {
-      "city": "Wood Buffalo",
-      "state": "AB",
+      "city": "Wood Buffalo, AB",
       "passengers": 15,
       "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Pig",
@@ -1130,8 +1055,7 @@
       "longitude": -111.379722
     },
     {
-      "city": "Yellowknife",
-      "state": "NT",
+      "city": "Yellowknife, NT",
       "passengers": 5,
       "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Strawberry",
@@ -1145,8 +1069,7 @@
       "longitude": -114.3969814
     },
     {
-      "city": "Fort Simpson",
-      "state": "NT",
+      "city": "Fort Simpson, NT",
       "passengers": 5,
       "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Iron",
@@ -1160,8 +1083,7 @@
       "longitude": -121.3332764
     },
     {
-      "city": "Whitehorse",
-      "state": "YT",
+      "city": "Whitehorse, YT",
       "passengers": 5,
       "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Apple",
@@ -1175,8 +1097,7 @@
       "longitude": -135.0499844
     },
     {
-      "city": "Iskut",
-      "state": "BC",
+      "city": "Iskut, BC",
       "passengers": 5,
       "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Orange",
@@ -1190,8 +1111,7 @@
       "longitude": -129.983333
     },
     {
-      "city": "Hazelton",
-      "state": "BC",
+      "city": "Hazelton, BC",
       "passengers": 10,
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Corn",
@@ -1205,8 +1125,7 @@
       "longitude": -127.64547
     },
     {
-      "city": "Kamloops",
-      "state": "BC",
+      "city": "Kamloops, BC",
       "passengers": 10,
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Poutine",
@@ -1220,8 +1139,7 @@
       "longitude": -120.3332858
     },
     {
-      "city": "Vancouver",
-      "state": "BC",
+      "city": "Vancouver, BC",
       "passengers": 30,
       "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Micro Processor",
@@ -1235,8 +1153,7 @@
       "longitude": -123.1216442
     },
     {
-      "city": "Regina",
-      "state": "SK",
+      "city": "Regina, SK",
       "passengers": 15,
       "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Pig",
@@ -1250,8 +1167,7 @@
       "longitude": -104.6170099
     },
     {
-      "city": "Saskatoon",
-      "state": "SK",
+      "city": "Saskatoon, SK",
       "passengers": 15,
       "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Salmon",
@@ -1265,8 +1181,7 @@
       "longitude": -106.6699854
     },
     {
-      "city": "The Pas",
-      "state": "MB",
+      "city": "The Pas, MB",
       "passengers": 5,
       "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Firework",
@@ -1280,8 +1195,7 @@
       "longitude": -101.2333147
     },
     {
-      "city": "Yorkton",
-      "state": "SK",
+      "city": "Yorkton, SK",
       "passengers": 5,
       "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Apple",
@@ -1295,8 +1209,7 @@
       "longitude": -102.4665469
     },
     {
-      "city": "Winnipeg",
-      "state": "MB",
+      "city": "Winnipeg, MB",
       "passengers": 15,
       "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Pizza",
@@ -1310,8 +1223,7 @@
       "longitude": -97.16599186
     },
     {
-      "city": "Charlottetown",
-      "state": "PE",
+      "city": "Charlottetown, PE",
       "passengers": 15,
       "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Steel",
@@ -1325,8 +1237,7 @@
       "longitude": -63.13132512
     },
     {
-      "city": "St. John's",
-      "state": "NL",
+      "city": "St. John's, NL",
       "passengers": 30,
       "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Copper",
@@ -1340,8 +1251,7 @@
       "longitude": -66.07667505
     },
     {
-      "city": "Halifax",
-      "state": "NS",
+      "city": "Halifax, NS",
       "passengers": 15,
       "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Oil",
@@ -1355,8 +1265,7 @@
       "longitude": -63.60000452
     },
     {
-      "city": "Fredericton",
-      "state": "NB",
+      "city": "Fredericton, NB",
       "passengers": 10,
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Chicken",
@@ -1370,8 +1279,7 @@
       "longitude": -66.63330774
     },
     {
-      "city": "Sherbrooke",
-      "state": "QC",
+      "city": "Sherbrooke, QC",
       "passengers": 10,
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Lemon",
@@ -1385,8 +1293,7 @@
       "longitude": -71.89998885
     },
     {
-      "city": "Kingston",
-      "state": "ON",
+      "city": "Kingston, ON",
       "passengers": 15,
       "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "BBQ Rib",
@@ -1400,8 +1307,7 @@
       "longitude": -76.48330082
     },
     {
-      "city": "London",
-      "state": "ON",
+      "city": "London, ON",
       "passengers": 15,
       "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Pizza",
@@ -1415,8 +1321,7 @@
       "longitude": -81.24998661
     },
     {
-      "city": "Toronto",
-      "state": "ON",
+      "city": "Toronto, ON",
       "passengers": 50,
       "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Micro Processor",
@@ -1430,8 +1335,7 @@
       "longitude": -79.42002079
     },
     {
-      "city": "Ottawa",
-      "state": "ON",
+      "city": "Ottawa, ON",
       "passengers": 30,
       "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Parka",
@@ -1445,8 +1349,7 @@
       "longitude": -75.7000153
     },
     {
-      "city": "Montreal",
-      "state": "QC",
+      "city": "Montreal, QC",
       "passengers": 50,
       "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Firework",
@@ -1460,8 +1363,7 @@
       "longitude": -73.58329696
     },
     {
-      "city": "Edmundston",
-      "state": "NB",
+      "city": "Edmundston, NB",
       "passengers": 5,
       "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Wheat",
@@ -1475,8 +1377,7 @@
       "longitude": -68.3332815
     },
     {
-      "city": "Galway",
-      "state": "IE",
+      "city": "Galway, IE",
       "passengers": 5,
       "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Strawberry",
@@ -1490,8 +1391,7 @@
       "longitude": -9.048812298
     },
     {
-      "city": "Belfast",
-      "state": "UK",
+      "city": "Belfast, UK",
       "passengers": 10,
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Carrot",
@@ -1505,8 +1405,7 @@
       "longitude": -5.960034425
     },
     {
-      "city": "Edinburgh",
-      "state": "UK",
+      "city": "Edinburgh, UK",
       "passengers": 15,
       "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Sheep",
@@ -1520,8 +1419,7 @@
       "longitude": -3.219090618
     },
     {
-      "city": "London",
-      "state": "UK",
+      "city": "London, UK",
       "passengers": 50,
       "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Tea",
@@ -1535,8 +1433,7 @@
       "longitude": -0.116721844
     },
     {
-      "city": "Amsterdam",
-      "state": "NL",
+      "city": "Amsterdam, NL",
       "passengers": 30,
       "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Tea",
@@ -1550,8 +1447,7 @@
       "longitude": 4.916640176
     },
     {
-      "city": "Brussels",
-      "state": "BE",
+      "city": "Brussels, BE",
       "passengers": 15,
       "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Chicken",
@@ -1565,8 +1461,7 @@
       "longitude": 4.333316608
     },
     {
-      "city": "Luxembourg City",
-      "state": "LU",
+      "city": "Luxembourg City, LU",
       "passengers": 10,
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Pasta",
@@ -1580,8 +1475,7 @@
       "longitude": 6.130002806
     },
     {
-      "city": "Vaduz",
-      "state": "LT",
+      "city": "Vaduz, LT",
       "passengers": 5,
       "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Tea",
@@ -1595,8 +1489,7 @@
       "longitude": 9.516669473
     },
     {
-      "city": "Zurich",
-      "state": "CH",
+      "city": "Zurich, CH",
       "passengers": 15,
       "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Hockey Stick",
@@ -1610,8 +1503,7 @@
       "longitude": 8.55001013
     },
     {
-      "city": "Bern",
-      "state": "CH",
+      "city": "Bern, CH",
       "passengers": 30,
       "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Sheep",
@@ -1625,8 +1517,7 @@
       "longitude": 7.466975462
     },
     {
-      "city": "Paris",
-      "state": "FR",
+      "city": "Paris, FR",
       "passengers": 50,
       "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Tulip",
@@ -1640,8 +1531,7 @@
       "longitude": 2.333335326
     },
     {
-      "city": "Nantes",
-      "state": "FR",
+      "city": "Nantes, FR",
       "passengers": 15,
       "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Sausage",
@@ -1655,8 +1545,7 @@
       "longitude": -1.590016929
     },
     {
-      "city": "Southampton",
-      "state": "UK",
+      "city": "Southampton, UK",
       "passengers": 15,
       "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Tea",
@@ -1670,8 +1559,7 @@
       "longitude": -1.399976849
     },
     {
-      "city": "Cardiff",
-      "state": "UK",
+      "city": "Cardiff, UK",
       "passengers": 15,
       "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Pasta",
@@ -1685,8 +1573,7 @@
       "longitude": -3.22500757
     },
     {
-      "city": "Dublin",
-      "state": "IE",
+      "city": "Dublin, IE",
       "passengers": 30,
       "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Sausage",
@@ -1700,8 +1587,7 @@
       "longitude": -6.248905682
     },
     {
-      "city": "Andorra La Velle",
-      "state": "AD",
+      "city": "Andorra La Velle, AD",
       "passengers": 30,
       "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Tulip",
@@ -1715,8 +1601,7 @@
       "longitude": 1.516485961
     },
     {
-      "city": "Bilbao",
-      "state": "ES",
+      "city": "Bilbao, ES",
       "passengers": 10,
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Casino Chip",
@@ -1730,8 +1615,7 @@
       "longitude": -2.929986818
     },
     {
-      "city": "Porto",
-      "state": "PT",
+      "city": "Porto, PT",
       "passengers": 15,
       "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Meatball",
@@ -1745,8 +1629,7 @@
       "longitude": -8.620001263
     },
     {
-      "city": "Lisbon",
-      "state": "PT",
+      "city": "Lisbon, PT",
       "passengers": 10,
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Sausage",
@@ -1760,8 +1643,7 @@
       "longitude": -9.144866305
     },
     {
-      "city": "Madrid",
-      "state": "ES",
+      "city": "Madrid, ES",
       "passengers": 30,
       "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Casino Chip",
@@ -1775,8 +1657,7 @@
       "longitude": -3.683351686
     },
     {
-      "city": "Barcelona",
-      "state": "ES",
+      "city": "Barcelona, ES",
       "passengers": 50,
       "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Candle",
@@ -1790,8 +1671,7 @@
       "longitude": 2.183370319
     },
     {
-      "city": "Monaco",
-      "state": "FR",
+      "city": "Monaco, FR",
       "passengers": 50,
       "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Casino Chip",
@@ -1805,8 +1685,7 @@
       "longitude": 7.406913173
     },
     {
-      "city": "Rome",
-      "state": "IT",
+      "city": "Rome, IT",
       "passengers": 5,
       "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Holy Water",
@@ -1820,8 +1699,7 @@
       "longitude": 12.48325842
     },
     {
-      "city": "Naples",
-      "state": "IT",
+      "city": "Naples, IT",
       "passengers": 10,
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Pasta",
@@ -1835,8 +1713,7 @@
       "longitude": 14.24501135
     },
     {
-      "city": "Valleta",
-      "state": "MT",
+      "city": "Valleta, MT",
       "passengers": 15,
       "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Bonbon",
@@ -1850,8 +1727,7 @@
       "longitude": 14.51471065
     },
     {
-      "city": "Tirana",
-      "state": "AL",
+      "city": "Tirana, AL",
       "passengers": 10,
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Candle",
@@ -1865,8 +1741,7 @@
       "longitude": 19.81888301
     },
     {
-      "city": "Athens",
-      "state": "GR",
+      "city": "Athens, GR",
       "passengers": 30,
       "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Meatball",
@@ -1880,8 +1755,7 @@
       "longitude": 23.73332108
     },
     {
-      "city": "Skopje",
-      "state": "MK",
+      "city": "Skopje, MK",
       "passengers": 5,
       "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Casino Chip",
@@ -1895,8 +1769,7 @@
       "longitude": 21.43346147
     },
     {
-      "city": "Sarajevo",
-      "state": "HB",
+      "city": "Sarajevo, HB",
       "passengers": 10,
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Tulip",
@@ -1910,8 +1783,7 @@
       "longitude": 18.38300167
     },
     {
-      "city": "Zagreb",
-      "state": "HR",
+      "city": "Zagreb, HR",
       "passengers": 15,
       "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Onion",
@@ -1925,8 +1797,7 @@
       "longitude": 15.99999467
     },
     {
-      "city": "Ljubljana",
-      "state": "SK",
+      "city": "Ljubljana, SK",
       "passengers": 10,
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Sheep",
@@ -1940,8 +1811,7 @@
       "longitude": 14.51496903
     },
     {
-      "city": "San Marino",
-      "state": "IT",
+      "city": "San Marino, IT",
       "passengers": 15,
       "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Water",
@@ -1955,8 +1825,7 @@
       "longitude": 12.46667029
     },
     {
-      "city": "Milan",
-      "state": "IT",
+      "city": "Milan, IT",
       "passengers": 50,
       "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Strawberry",
@@ -1970,8 +1839,7 @@
       "longitude": 9.20500891
     },
     {
-      "city": "Prague",
-      "state": "CZ",
+      "city": "Prague, CZ",
       "passengers": 30,
       "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Onion",
@@ -1985,8 +1853,7 @@
       "longitude": 14.46597978
     },
     {
-      "city": "Vienna",
-      "state": "AT",
+      "city": "Vienna, AT",
       "passengers": 15,
       "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Bonbon",
@@ -2000,8 +1867,7 @@
       "longitude": 16.36663896
     },
     {
-      "city": "Timisoara",
-      "state": "RO",
+      "city": "Timisoara, RO",
       "passengers": 10,
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Meatball",
@@ -2015,8 +1881,7 @@
       "longitude": 21.22344844
     },
     {
-      "city": "Sofia",
-      "state": "BG",
+      "city": "Sofia, BG",
       "passengers": 5,
       "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Sheep",
@@ -2030,8 +1895,7 @@
       "longitude": 23.31665401
     },
     {
-      "city": "Bucharest",
-      "state": "RO",
+      "city": "Bucharest, RO",
       "passengers": 10,
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Water",
@@ -2045,8 +1909,7 @@
       "longitude": 26.09994665
     },
     {
-      "city": "Chisinau",
-      "state": "MD",
+      "city": "Chisinau, MD",
       "passengers": 5,
       "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Onion",
@@ -2060,8 +1923,7 @@
       "longitude": 28.85771114
     },
     {
-      "city": "Cluj-Napoca",
-      "state": "RO",
+      "city": "Cluj-Napoca, RO",
       "passengers": 10,
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Holy Water",
@@ -2075,8 +1937,7 @@
       "longitude": 23.5984456
     },
     {
-      "city": "Budapest",
-      "state": "HU",
+      "city": "Budapest, HU",
       "passengers": 15,
       "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Cow",
@@ -2090,8 +1951,7 @@
       "longitude": 19.08332068
     },
     {
-      "city": "Bratislava",
-      "state": "SK",
+      "city": "Bratislava, SK",
       "passengers": 10,
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Onion",
@@ -2105,8 +1965,7 @@
       "longitude": 17.11698075
     },
     {
-      "city": "Ostrava",
-      "state": "CZ",
+      "city": "Ostrava, CZ",
       "passengers": 5,
       "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Sausage",
@@ -2120,8 +1979,7 @@
       "longitude": 18.24998653
     },
     {
-      "city": "Berlin",
-      "state": "DE",
+      "city": "Berlin, DE",
       "passengers": 50,
       "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Parka",
@@ -2135,8 +1993,7 @@
       "longitude": 13.40154862
     },
     {
-      "city": "Warsaw",
-      "state": "PL",
+      "city": "Warsaw, PL",
       "passengers": 15,
       "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Tulip",
@@ -2150,8 +2007,7 @@
       "longitude": 20.99999955
     },
     {
-      "city": "Kiev",
-      "state": "UA",
+      "city": "Kiev, UA",
       "passengers": 5,
       "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Bonbon",
@@ -2165,8 +2021,7 @@
       "longitude": 30.51662797
     },
     {
-      "city": "Minsk",
-      "state": "BY",
+      "city": "Minsk, BY",
       "passengers": 5,
       "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Utility Knife",
@@ -2180,8 +2035,7 @@
       "longitude": 27.56662716
     },
     {
-      "city": "Vilnius",
-      "state": "LT",
+      "city": "Vilnius, LT",
       "passengers": 10,
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Utility Knife",
@@ -2195,8 +2049,7 @@
       "longitude": 25.31663529
     },
     {
-      "city": "Riga",
-      "state": "LV",
+      "city": "Riga, LV",
       "passengers": 5,
       "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Honey",
@@ -2210,8 +2063,7 @@
       "longitude": 24.09996537
     },
     {
-      "city": "Tallinn",
-      "state": "EE",
+      "city": "Tallinn, EE",
       "passengers": 5,
       "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Holy Water",
@@ -2225,8 +2077,7 @@
       "longitude": 24.72804073
     },
     {
-      "city": "Helsinki",
-      "state": "FI",
+      "city": "Helsinki, FI",
       "passengers": 10,
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Candle",
@@ -2240,8 +2091,7 @@
       "longitude": 24.93412634
     },
     {
-      "city": "Stockholm",
-      "state": "SE",
+      "city": "Stockholm, SE",
       "passengers": 15,
       "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Utility Knife",
@@ -2255,8 +2105,7 @@
       "longitude": 18.09733473
     },
     {
-      "city": "Oslo",
-      "state": "NO",
+      "city": "Oslo, NO",
       "passengers": 30,
       "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Utility Knife",
@@ -2270,8 +2119,7 @@
       "longitude": 10.74997921
     },
     {
-      "city": "Copenhagen",
-      "state": "DK",
+      "city": "Copenhagen, DK",
       "passengers": 50,
       "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Candle",
@@ -2285,8 +2133,7 @@
       "longitude": 12.56348575
     },
     {
-      "city": "Cabo San Lucas",
-      "state": "MX",
+      "city": "Cabo San Lucas, MX",
       "passengers": 15,
       "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Tulip",
@@ -2300,8 +2147,7 @@
       "longitude": -109.9045164
     },
     {
-      "city": "La Paz",
-      "state": "MX",
+      "city": "La Paz, MX",
       "passengers": 30,
       "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Peanut",
@@ -2315,8 +2161,7 @@
       "longitude": -110.3199952
     },
     {
-      "city": "Rosarito",
-      "state": "MX",
+      "city": "Rosarito, MX",
       "passengers": 5,
       "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Apple",
@@ -2330,8 +2175,7 @@
       "longitude": -114.0213997
     },
     {
-      "city": "Tijuana",
-      "state": "MX",
+      "city": "Tijuana, MX",
       "passengers": 50,
       "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Coffee Beans",
@@ -2345,8 +2189,7 @@
       "longitude": -117.079996
     },
     {
-      "city": "Mexicali",
-      "state": "MX",
+      "city": "Mexicali, MX",
       "passengers": 15,
       "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Banana",
@@ -2360,8 +2203,7 @@
       "longitude": -115.4800161
     },
     {
-      "city": "Hermosillo",
-      "state": "MX",
+      "city": "Hermosillo, MX",
       "passengers": 30,
       "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Copper",
@@ -2375,8 +2217,7 @@
       "longitude": -110.954065
     },
     {
-      "city": "Ciudad Obregon",
-      "state": "MX",
+      "city": "Ciudad Obregon, MX",
       "passengers": 15,
       "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Poutine",
@@ -2390,8 +2231,7 @@
       "longitude": -109.9249805
     },
     {
-      "city": "Los Mochis",
-      "state": "MX",
+      "city": "Los Mochis, MX",
       "passengers": 10,
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Banana",
@@ -2405,11 +2245,10 @@
       "longitude": -108.9999982
     },
     {
-      "city": "Guasave",
-      "state": "MX",
+      "city": "Guasave, MX",
       "passengers": 5,
       "upgradeCosts": "500/1,000/5,000",
-      "resourceDemanded": "Peanuts",
+      "resourceDemanded": "Peanut",
       "amountDemanded": 25,
       "connectsTo": "Los Mochis, Culiacan",
       "region": "Mexico",
@@ -2420,8 +2259,7 @@
       "longitude": -108.4699789
     },
     {
-      "city": "Culiacan",
-      "state": "MX",
+      "city": "Culiacan, MX",
       "passengers": 30,
       "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Iron",
@@ -2435,8 +2273,7 @@
       "longitude": -107.3799679
     },
     {
-      "city": "Mazatlan",
-      "state": "MX",
+      "city": "Mazatlan, MX",
       "passengers": 30,
       "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Steel",
@@ -2450,8 +2287,7 @@
       "longitude": -106.4200007
     },
     {
-      "city": "Tepic",
-      "state": "MX",
+      "city": "Tepic, MX",
       "passengers": 30,
       "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "BBQ Rib",
@@ -2465,8 +2301,7 @@
       "longitude": -104.8799913
     },
     {
-      "city": "Durango",
-      "state": "MX",
+      "city": "Durango, MX",
       "passengers": 50,
       "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Onion",
@@ -2480,8 +2315,7 @@
       "longitude": -104.67003
     },
     {
-      "city": "Saltillo",
-      "state": "MX",
+      "city": "Saltillo, MX",
       "passengers": 30,
       "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Tomato",
@@ -2495,8 +2329,7 @@
       "longitude": -101.0049823
     },
     {
-      "city": "Monclova",
-      "state": "MX",
+      "city": "Monclova, MX",
       "passengers": 15,
       "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Cow",
@@ -2510,8 +2343,7 @@
       "longitude": -101.4199958
     },
     {
-      "city": "Chihuahua",
-      "state": "MX",
+      "city": "Chihuahua, MX",
       "passengers": 50,
       "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Salmon",
@@ -2525,8 +2357,7 @@
       "longitude": -106.0849823
     },
     {
-      "city": "Ciudad Juarez",
-      "state": "MX",
+      "city": "Ciudad Juarez, MX",
       "passengers": 50,
       "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Poutine",
@@ -2540,8 +2371,7 @@
       "longitude": -106.4900481
     },
     {
-      "city": "Monterrey",
-      "state": "MX",
+      "city": "Monterrey, MX",
       "passengers": 50,
       "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Chicken",
@@ -2555,8 +2385,7 @@
       "longitude": -100.3299848
     },
     {
-      "city": "Ciudad Victoria",
-      "state": "MX",
+      "city": "Ciudad Victoria, MX",
       "passengers": 15,
       "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Copper",
@@ -2570,11 +2399,10 @@
       "longitude": -99.12998051
     },
     {
-      "city": "San Luis Potosi",
-      "state": "MX",
+      "city": "San Luis Potosi, MX",
       "passengers": 5,
       "upgradeCosts": "500/1,000/5,000",
-      "resourceDemanded": "Peanuts",
+      "resourceDemanded": "Peanut",
       "amountDemanded": 25,
       "connectsTo": "Tepic, Ciudad Victoria, Guadalajara",
       "region": "Mexico",
@@ -2585,8 +2413,7 @@
       "longitude": -100.9999956
     },
     {
-      "city": "Guadalajara",
-      "state": "MX",
+      "city": "Guadalajara, MX",
       "passengers": 10,
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Banana",
@@ -2600,8 +2427,7 @@
       "longitude": -103.3300342
     },
     {
-      "city": "Colima",
-      "state": "MX",
+      "city": "Colima, MX",
       "passengers": 15,
       "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Micro Processor",
@@ -2615,8 +2441,7 @@
       "longitude": -103.7200104
     },
     {
-      "city": "Morelia",
-      "state": "MX",
+      "city": "Morelia, MX",
       "passengers": 30,
       "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Apple",
@@ -2630,8 +2455,7 @@
       "longitude": -101.189493
     },
     {
-      "city": "Xalapa",
-      "state": "MX",
+      "city": "Xalapa, MX",
       "passengers": 15,
       "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Carrot",
@@ -2645,8 +2469,7 @@
       "longitude": -96.91998621
     },
     {
-      "city": "Mexico City",
-      "state": "MX",
+      "city": "Mexico City, MX",
       "passengers": 50,
       "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Coffee Beans",
@@ -2660,8 +2483,7 @@
       "longitude": -99.1309882
     },
     {
-      "city": "Taxco",
-      "state": "MX",
+      "city": "Taxco, MX",
       "passengers": 5,
       "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Candle",
@@ -2675,8 +2497,7 @@
       "longitude": -99.6199506
     },
     {
-      "city": "Oaxaca",
-      "state": "MX",
+      "city": "Oaxaca, MX",
       "passengers": 50,
       "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Sheep",
@@ -2690,8 +2511,7 @@
       "longitude": -96.66994979
     },
     {
-      "city": "Acapulco",
-      "state": "MX",
+      "city": "Acapulco, MX",
       "passengers": 30,
       "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Paper",
@@ -2705,8 +2525,7 @@
       "longitude": -99.91597905
     },
     {
-      "city": "Tuxtla Gutierrez",
-      "state": "MX",
+      "city": "Tuxtla Gutierrez, MX",
       "passengers": 30,
       "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Hockey Stick",
@@ -2720,8 +2539,7 @@
       "longitude": -93.1500096
     },
     {
-      "city": "Chetumal",
-      "state": "MX",
+      "city": "Chetumal, MX",
       "passengers": 10,
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Holy Water",
@@ -2735,8 +2553,7 @@
       "longitude": -88.29999557
     },
     {
-      "city": "Cancun",
-      "state": "MX",
+      "city": "Cancun, MX",
       "passengers": 50,
       "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Pasta",
@@ -2750,8 +2567,7 @@
       "longitude": -86.83000777
     },
     {
-      "city": "Merida",
-      "state": "MX",
+      "city": "Merida, MX",
       "passengers": 30,
       "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Coffee Beans",
@@ -2765,8 +2581,7 @@
       "longitude": -89.61663355
     },
     {
-      "city": "Campeche",
-      "state": "MX",
+      "city": "Campeche, MX",
       "passengers": 30,
       "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Meatball",
@@ -2780,8 +2595,7 @@
       "longitude": -90.49999048
     },
     {
-      "city": "Villahermosa",
-      "state": "MX",
+      "city": "Villahermosa, MX",
       "passengers": 15,
       "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Coffee Beans",
@@ -2796,10 +2610,9 @@
     },
     {
       "city": "The Bahamas",
-      "state": "-",
       "passengers": 50,
       "upgradeCosts": "500,000/1,000,000/2,000,000",
-      "resourceDemanded": "Peanuts",
+      "resourceDemanded": "Peanut",
       "amountDemanded": 1000,
       "connectsTo": "Miami",
       "region": "Caribbean",
@@ -2810,8 +2623,7 @@
       "longitude": -77.35004378
     },
     {
-      "city": "Havana",
-      "state": "CU",
+      "city": "Havana, CU",
       "passengers": 15,
       "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Steel",
@@ -2825,8 +2637,7 @@
       "longitude": -82.36418217
     },
     {
-      "city": "Santa Clara",
-      "state": "CU",
+      "city": "Santa Clara, CU",
       "passengers": 30,
       "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Strawberry",
@@ -2840,8 +2651,7 @@
       "longitude": -79.9666541
     },
     {
-      "city": "Camaguey",
-      "state": "CU",
+      "city": "Camaguey, CU",
       "passengers": 10,
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Tomato",
@@ -2855,8 +2665,7 @@
       "longitude": -77.91693425
     },
     {
-      "city": "Santiago de Cuba",
-      "state": "CU",
+      "city": "Santiago de Cuba, CU",
       "passengers": 15,
       "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Water",
@@ -2870,8 +2679,7 @@
       "longitude": -75.82132573
     },
     {
-      "city": "Montego Bay",
-      "state": "JM",
+      "city": "Montego Bay, JM",
       "passengers": 10,
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Micro Processor",
@@ -2885,8 +2693,7 @@
       "longitude": -77.91667586
     },
     {
-      "city": "Kingston",
-      "state": "JM",
+      "city": "Kingston, JM",
       "passengers": 30,
       "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Firework",
@@ -2900,8 +2707,7 @@
       "longitude": -76.76743371
     },
     {
-      "city": "Port-au-Prince",
-      "state": "HT",
+      "city": "Port-au-Prince, HT",
       "passengers": 10,
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Wheat",
@@ -2915,8 +2721,7 @@
       "longitude": -72.33603459
     },
     {
-      "city": "Santo Domingo",
-      "state": "CD",
+      "city": "Santo Domingo, CD",
       "passengers": 5,
       "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Honey",
@@ -2930,8 +2735,7 @@
       "longitude": -69.90008508
     },
     {
-      "city": "Punta Cana",
-      "state": "CD",
+      "city": "Punta Cana, CD",
       "passengers": 10,
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Poutine",
@@ -2945,8 +2749,7 @@
       "longitude": -68.6120799
     },
     {
-      "city": "Ponce",
-      "state": "PR",
+      "city": "Ponce, PR",
       "passengers": 15,
       "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Banana",
@@ -2960,8 +2763,7 @@
       "longitude": -66.61664209
     },
     {
-      "city": "San Juan",
-      "state": "PR",
+      "city": "San Juan, PR",
       "passengers": 30,
       "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "BBQ Rib",
@@ -2975,8 +2777,7 @@
       "longitude": -66.12997929
     },
     {
-      "city": "Santigo de Los Caballeros",
-      "state": "CD",
+      "city": "Santigo de Los Caballeros, CD",
       "passengers": 10,
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Candle",
@@ -2990,8 +2791,7 @@
       "longitude": -70.7080427
     },
     {
-      "city": "Port-de-Paix",
-      "state": "HT",
+      "city": "Port-de-Paix, HT",
       "passengers": 15,
       "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Wood",
@@ -3005,8 +2805,7 @@
       "longitude": -72.82948452
     },
     {
-      "city": "Belmopan",
-      "state": "BZ",
+      "city": "Belmopan, BZ",
       "passengers": 5,
       "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Coffee Beans",
@@ -3020,8 +2819,7 @@
       "longitude": -88.767073
     },
     {
-      "city": "Guatemala",
-      "state": "BZ",
+      "city": "Guatemala, BZ",
       "passengers": 50,
       "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Hockey Stick",
@@ -3035,8 +2833,7 @@
       "longitude": -90.52696558
     },
     {
-      "city": "Santa Ana",
-      "state": "CR",
+      "city": "Santa Ana, CR",
       "passengers": 5,
       "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Apple",
@@ -3050,8 +2847,7 @@
       "longitude": -89.55976363
     },
     {
-      "city": "San Salvador",
-      "state": "SV",
+      "city": "San Salvador, SV",
       "passengers": 5,
       "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Banana",
@@ -3065,8 +2861,7 @@
       "longitude": -89.20304122
     },
     {
-      "city": "Tegucigalpa",
-      "state": "HN",
+      "city": "Tegucigalpa, HN",
       "passengers": 15,
       "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Casino Chip",
@@ -3080,8 +2875,7 @@
       "longitude": -87.21752934
     },
     {
-      "city": "Managua",
-      "state": "NI",
+      "city": "Managua, NI",
       "passengers": 5,
       "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Utility Knife",
@@ -3095,8 +2889,7 @@
       "longitude": -86.26849166
     },
     {
-      "city": "San Pedro Sula",
-      "state": "HN",
+      "city": "San Pedro Sula, HN",
       "passengers": 5,
       "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Tea",
@@ -3110,8 +2903,7 @@
       "longitude": -88.02998621
     },
     {
-      "city": "La Ceiba",
-      "state": "HN",
+      "city": "La Ceiba, HN",
       "passengers": 10,
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Sausage",
@@ -3125,8 +2917,7 @@
       "longitude": -86.79698653
     },
     {
-      "city": "Puerto Canezas",
-      "state": "NI",
+      "city": "Puerto Canezas, NI",
       "passengers": 10,
       "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Tomato",
@@ -3140,8 +2931,7 @@
       "longitude": -83.38337061
     },
     {
-      "city": "Bluefields",
-      "state": "NI",
+      "city": "Bluefields, NI",
       "passengers": 5,
       "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Tomato",
@@ -3155,8 +2945,7 @@
       "longitude": -83.76494938
     },
     {
-      "city": "San Jose",
-      "state": "CR",
+      "city": "San Jose, CR",
       "passengers": 50,
       "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Tomato",
@@ -3170,8 +2959,7 @@
       "longitude": -84.08405135
     },
     {
-      "city": "Santiago",
-      "state": "PA",
+      "city": "Santiago, PA",
       "passengers": 5,
       "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Holy Water",
@@ -3185,8 +2973,7 @@
       "longitude": -80.98333622
     },
     {
-      "city": "Panama",
-      "state": "PA",
+      "city": "Panama, PA",
       "passengers": 50,
       "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Pasta",

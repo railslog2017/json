@@ -35,8 +35,7 @@ csv()
 .on('json', (row) => {
 
   let tempStation = {
-    city: row['City'],
-    state: row['State'],
+    city: row['City'] + ( row['State'] ? ', ' + row['State'] : '') ,
     passengers: parseInt(row['Passengers']),
     upgradeCosts: row['Upgrade Costs'],
     resourceDemanded: row['Resource Demanded'],

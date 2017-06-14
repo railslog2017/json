@@ -1,2990 +1,1748 @@
 {
   "game": "tiny rails",
-  "update": "2017-04-11",
+  "update": "2017-06-14",
   "version": "0.1.0",
   "info": "stations",
   "content": [
     {
       "city": "Albany, NY",
-      "passengers": 10,
-      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Lemon",
       "amountDemanded": 50,
-      "connectsTo": "Kingston, Montpelier, Harrisburg",
-      "region": "USA East",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 42.67001691,
-      "longitude": -73.81994918
+      "region": "USA East"
     },
     {
       "city": "Montpelier, VT",
-      "passengers": 5,
-      "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Corn",
       "amountDemanded": 25,
-      "connectsTo": "Albany, Ottawa, Augusta",
-      "region": "USA East",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 44.25997154,
-      "longitude": -72.57581323
+      "region": "USA East"
     },
     {
       "city": "Augusta, ME",
-      "passengers": 5,
-      "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Pig",
       "amountDemanded": 25,
-      "connectsTo": "Sherbrooke, Montpelier, Halifax, Concord",
-      "region": "USA East",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 44.31056276,
-      "longitude": -69.77998906
+      "region": "USA East"
     },
     {
       "city": "Concord, NH",
-      "passengers": 5,
-      "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Wood",
       "amountDemanded": 25,
-      "connectsTo": "Augusta, Boston",
-      "region": "USA East",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 43.20807192,
-      "longitude": -71.53804712
+      "region": "USA East"
     },
     {
       "city": "Boston, MA",
-      "passengers": 30,
-      "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Strawberry",
       "amountDemanded": 350,
-      "connectsTo": "Concord, Providence",
-      "region": "USA East",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 42.32996014,
-      "longitude": -71.07001367
+      "region": "USA East"
     },
     {
       "city": "Providence, RI",
-      "passengers": 10,
-      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Oil",
       "amountDemanded": 50,
-      "connectsTo": "Boston, Hartford",
-      "region": "USA East",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 41.82110231,
-      "longitude": -71.4149797
+      "region": "USA East"
     },
     {
       "city": "Hartford, CT",
-      "passengers": 10,
-      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Orange",
       "amountDemanded": 50,
-      "connectsTo": "Providence, New York",
-      "region": "USA East",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 41.77002016,
-      "longitude": -72.67996708
+      "region": "USA East"
     },
     {
       "city": "New York, NY",
-      "passengers": 50,
-      "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "BBQ Rib",
       "amountDemanded": 1000,
-      "connectsTo": "Hartford, Trenton",
-      "region": "USA East",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 40.74997906,
-      "longitude": -73.98001693
+      "region": "USA East"
     },
     {
       "city": "Trenton, NJ",
-      "passengers": 10,
-      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Pig",
       "amountDemanded": 50,
-      "connectsTo": "New York, Philadelphia",
-      "region": "USA East",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 40.2169625,
-      "longitude": -74.74335535
+      "region": "USA East"
     },
     {
       "city": "Philadelphia, PA",
-      "passengers": 50,
-      "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Chicken",
       "amountDemanded": 1000,
-      "connectsTo": "Trenton, Dover",
-      "region": "USA East",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 39.99997316,
-      "longitude": -75.16999597
+      "region": "USA East"
     },
     {
       "city": "Dover, DE",
-      "passengers": 5,
-      "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Corn",
       "amountDemanded": 25,
-      "connectsTo": "Philadelphia, Baltimore",
-      "region": "USA East",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 39.15808657,
-      "longitude": -75.524703
+      "region": "USA East"
     },
     {
       "city": "Baltimore, MD",
-      "passengers": 10,
-      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Lemon",
       "amountDemanded": 150,
-      "connectsTo": "Dover, Washington",
-      "region": "USA East",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 39.29999005,
-      "longitude": -76.61998499
+      "region": "USA East"
     },
     {
       "city": "Washington, DC",
-      "passengers": 30,
-      "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Orange",
       "amountDemanded": 350,
-      "connectsTo": "Baltimore, Richmond",
-      "region": "USA East",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 38.89954938,
-      "longitude": -77.00941858
+      "region": "USA East"
     },
     {
       "city": "Richmond, VA",
-      "passengers": 5,
-      "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Oil",
       "amountDemanded": 25,
-      "connectsTo": "Washington, Raleigh",
-      "region": "USA East",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 37.55001935,
-      "longitude": -77.449986
+      "region": "USA East"
     },
     {
       "city": "Raleigh, NC",
-      "passengers": 15,
-      "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Paper",
       "amountDemanded": 150,
-      "connectsTo": "Richmond, Charleston, Columbia",
-      "region": "USA East",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 35.81878135,
-      "longitude": -78.64469344
+      "region": "USA East"
     },
     {
       "city": "Charleston, WV",
-      "passengers": 10,
-      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Salmon",
       "amountDemanded": 50,
-      "connectsTo": "Raleigh, Nashville, Columbus",
-      "region": "USA East",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 38.34973798,
-      "longitude": -81.63272811
+      "region": "USA East"
     },
     {
       "city": "Columbus, OH",
-      "passengers": 30,
-      "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Paper",
       "amountDemanded": 350,
-      "connectsTo": "Charleston, Frankfort, Detroit",
-      "region": "USA East",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 39.97997438,
-      "longitude": -82.9900096
+      "region": "USA East"
     },
     {
       "city": "Detroit, MI",
-      "passengers": 30,
-      "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Corn",
       "amountDemanded": 350,
-      "connectsTo": "Columbus, Indianapolis, Madison, London, Toledo",
-      "region": "USA East",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 42.32996014,
-      "longitude": -83.08005579
+      "region": "USA East"
     },
     {
       "city": "Toledo, OH",
-      "passengers": 5,
-      "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Pizza",
       "amountDemanded": 25,
-      "connectsTo": "Detroit, Pittsburgh",
-      "region": "USA East",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 41.67002626,
-      "longitude": -83.57997359
+      "region": "USA East"
     },
     {
       "city": "Pittsburgh, PA",
-      "passengers": 15,
-      "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Cow",
       "amountDemanded": 150,
-      "connectsTo": "Toledo, Harrisburg",
-      "region": "USA East",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 40.4299986,
-      "longitude": -79.99998539
+      "region": "USA East"
     },
     {
       "city": "Harrisburg, PA",
-      "passengers": 5,
-      "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Honey",
       "amountDemanded": 25,
-      "connectsTo": "Pittsburgh, Albany",
-      "region": "USA East",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 40.27359987,
-      "longitude": -76.88474919
+      "region": "USA East"
     },
     {
       "city": "Atlanta, GA",
-      "passengers": 15,
-      "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Firework",
       "amountDemanded": 150,
-      "connectsTo": "Columbia, Miami",
-      "region": "USA South",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 33.83001385,
-      "longitude": -84.39994938
+      "region": "USA South"
     },
     {
       "city": "Miami, FL",
-      "passengers": 15,
-      "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Copper",
       "amountDemanded": 150,
-      "connectsTo": "Atlanta, Tallahassee, The Bahamas, Havana",
-      "region": "USA South",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 25.7876107,
-      "longitude": -80.22410608
+      "region": "USA South"
     },
     {
       "city": "Tallahassee, FL",
-      "passengers": 10,
-      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Paper",
       "amountDemanded": 50,
-      "connectsTo": "Miami, Montgomery",
-      "region": "USA South",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 30.44998761,
-      "longitude": -84.28003422
+      "region": "USA South"
     },
     {
       "city": "Montgomery, AL",
-      "passengers": 10,
-      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Wood",
       "amountDemanded": 50,
-      "connectsTo": "Tallahassee, Jackson",
-      "region": "USA South",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 32.36160219,
-      "longitude": -86.27918868
+      "region": "USA South"
     },
     {
       "city": "Jackson, MS",
-      "passengers": 10,
-      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Wheat",
       "amountDemanded": 50,
-      "connectsTo": "Montgomery, Little Rock",
-      "region": "USA South",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 32.29881533,
-      "longitude": -90.18499679
+      "region": "USA South"
     },
     {
       "city": "Little Rock, AK",
-      "passengers": 5,
-      "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Salmon",
       "amountDemanded": 25,
-      "connectsTo": "Jackson, New Orleans",
-      "region": "USA South",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 34.73608258,
-      "longitude": -92.33109318
+      "region": "USA South"
     },
     {
       "city": "New Orleans, LA",
-      "passengers": 50,
-      "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Corn",
       "amountDemanded": 1000,
-      "connectsTo": "Little Rock, Baton Rouge",
-      "region": "USA South",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 29.99500246,
-      "longitude": -90.03996688
+      "region": "USA South"
     },
     {
       "city": "Baton Rouge, LA",
-      "passengers": 15,
-      "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Steel",
       "amountDemanded": 150,
-      "connectsTo": "New Orleans, Houston",
-      "region": "USA South",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 30.45794578,
-      "longitude": -91.14015812
+      "region": "USA South"
     },
     {
       "city": "Houston, TX",
-      "passengers": 50,
-      "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Poutine",
       "amountDemanded": 1000,
-      "connectsTo": "Baton Rouge, Austin",
-      "region": "USA South",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 29.81997438,
-      "longitude": -95.33997929
+      "region": "USA South"
     },
     {
       "city": "Austin, TX",
-      "passengers": 30,
-      "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Pizza",
       "amountDemanded": 350,
-      "connectsTo": "Houston, Fort Stockton",
-      "region": "USA South",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 30.26694969,
-      "longitude": -97.74277836
+      "region": "USA South"
     },
     {
       "city": "Fort Stockton, TX",
-      "passengers": 5,
-      "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Strawberry",
       "amountDemanded": 25,
-      "connectsTo": "Austin, El Paso, Dallas",
-      "region": "USA South",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 30.89169191,
-      "longitude": -102.8849968
+      "region": "USA South"
     },
     {
       "city": "Dallas, TX",
-      "passengers": 30,
-      "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Pig",
       "amountDemanded": 350,
-      "connectsTo": "Fort Stockton, Oklahoma City",
-      "region": "USA South",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 32.82002382,
-      "longitude": -96.84001693
+      "region": "USA South"
     },
     {
       "city": "Oklahoma City, OK",
-      "passengers": 15,
-      "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Chicken",
       "amountDemanded": 150,
-      "connectsTo": "Dallas, Santa Fe, Topeka",
-      "region": "USA South",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 35.47004295,
-      "longitude": -97.51868351
+      "region": "USA South"
     },
     {
       "city": "Topeka, KS",
-      "passengers": 10,
-      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Apple",
       "amountDemanded": 50,
-      "connectsTo": "Oklahoma City, Lincoln, Springfield, Jefferson City",
-      "region": "USA South",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 39.05000531,
-      "longitude": -95.66998499
+      "region": "USA South"
     },
     {
       "city": "Jefferson City, MO",
-      "passengers": 5,
-      "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Orange",
       "amountDemanded": 25,
-      "connectsTo": "Topeka, Springfield, Memphis",
-      "region": "USA South",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 38.57662335,
-      "longitude": -92.17332503
+      "region": "USA South"
     },
     {
       "city": "Memphis, TN",
-      "passengers": 30,
-      "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Salmon",
       "amountDemanded": 350,
-      "connectsTo": "Jefferson City, St. Louis, Frankfort",
-      "region": "USA South",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 35.1199868,
-      "longitude": -89.99999516
+      "region": "USA South"
     },
     {
       "city": "Frankfort, KY",
-      "passengers": 5,
-      "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Wood",
       "amountDemanded": 25,
-      "connectsTo": "Memphis, Indianapolis, Columbus, Nashville",
-      "region": "USA South",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 38.2008065,
-      "longitude": -84.87335718
+      "region": "USA South"
     },
     {
       "city": "Nashville, TN",
-      "passengers": 30,
-      "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Cow",
       "amountDemanded": 350,
-      "connectsTo": "Frankfort, Charleston, Columbia",
-      "region": "USA South",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 36.16997438,
-      "longitude": -86.77998499
+      "region": "USA South"
     },
     {
       "city": "Columbia, SC",
-      "passengers": 10,
-      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "BBQ Rib",
       "amountDemanded": 50,
-      "connectsTo": "Nashville, Raleigh, Atlanta",
-      "region": "USA South",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 34.0399752,
-      "longitude": -80.89998214
+      "region": "USA South"
     },
     {
       "city": "Billings, MT",
-      "passengers": 10,
-      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Carrot",
       "amountDemanded": 50,
-      "connectsTo": "Helena, Rapid City",
-      "region": "USA Center",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 45.78830202,
-      "longitude": -108.5400004
+      "region": "USA Center"
     },
     {
       "city": "Rapid City, SD",
-      "passengers": 5,
-      "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Honey",
       "amountDemanded": 25,
-      "connectsTo": "Billings, Pierre",
-      "region": "USA Center",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 44.08055096,
-      "longitude": -103.2305571
+      "region": "USA Center"
     },
     {
       "city": "Pierre, SD",
-      "passengers": 10,
-      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Iron",
       "amountDemanded": 50,
-      "connectsTo": "Rapid City, Regina, Bismarck",
-      "region": "USA Center",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 44.36833701,
-      "longitude": -100.350552
+      "region": "USA Center"
     },
     {
       "city": "Bismarck, ND",
-      "passengers": 10,
-      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Copper",
       "amountDemanded": 50,
-      "connectsTo": "Pierre, Saint Paul",
-      "region": "USA Center",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 46.80831728,
-      "longitude": -100.7833163
+      "region": "USA Center"
     },
     {
       "city": "Saint Paul, MN",
-      "passengers": 10,
-      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Hockey Stick",
       "amountDemanded": 50,
-      "connectsTo": "Bismarck, Winnipeg, Madison",
-      "region": "USA Center",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 44.94398663,
-      "longitude": -93.08497481
+      "region": "USA Center"
     },
     {
       "city": "Madison, WI",
-      "passengers": 10,
-      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Paper",
       "amountDemanded": 50,
-      "connectsTo": "Saint Paul, Detroit, Chicago",
-      "region": "USA Center",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 43.07301556,
-      "longitude": -89.40111699
+      "region": "USA Center"
     },
     {
       "city": "Chicago, IL",
-      "passengers": 30,
-      "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Carrot",
       "amountDemanded": 350,
-      "connectsTo": "Madison, Indianapolis",
-      "region": "USA Center",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 41.82999066,
-      "longitude": -87.75005497
+      "region": "USA Center"
     },
     {
       "city": "Indianapolis, IN",
-      "passengers": 15,
-      "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Wheat",
       "amountDemanded": 150,
-      "connectsTo": "Chicago, Detroit, Frankfort, St. Louis",
-      "region": "USA Center",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 39.74998842,
-      "longitude": -86.17004806
+      "region": "USA Center"
     },
     {
       "city": "St. Louis, MO",
-      "passengers": 15,
-      "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Wood",
       "amountDemanded": 150,
-      "connectsTo": "Indianapolis, Memphis, Springfield",
-      "region": "USA Center",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 38.63501772,
-      "longitude": -90.23998051
+      "region": "USA Center"
     },
     {
       "city": "Springfield, IL",
-      "passengers": 10,
-      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Lemon",
       "amountDemanded": 50,
-      "connectsTo": "St. Louis, Jefferson City, Topeka, Galesburg",
-      "region": "USA Center",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 39.82000999,
-      "longitude": -89.65001652
+      "region": "USA Center"
     },
     {
       "city": "Galesburg, IL",
-      "passengers": 5,
-      "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Hockey Stick",
       "amountDemanded": 25,
-      "connectsTo": "Springfield, Des Moines",
-      "region": "USA Center",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 40.94777061,
-      "longitude": -90.37108362
+      "region": "USA Center"
     },
     {
       "city": "Des Moines, IA",
-      "passengers": 5,
-      "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Honey",
       "amountDemanded": 25,
-      "connectsTo": "Galesburg, Lincoln",
-      "region": "USA Center",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 41.57998008,
-      "longitude": -93.61998092
+      "region": "USA Center"
     },
     {
       "city": "Lincoln, NE",
-      "passengers": 10,
-      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Pizza",
       "amountDemanded": 50,
-      "connectsTo": "Des Moines, Topeka, Cheyenne",
-      "region": "USA Center",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 40.81997479,
-      "longitude": -96.68000086
+      "region": "USA Center"
     },
     {
       "city": "Cheyenne, WY",
-      "passengers": 10,
-      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Carrot",
       "amountDemanded": 50,
-      "connectsTo": "Lincoln, Denver, Helena",
-      "region": "USA Center",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 41.14000694,
-      "longitude": -104.8197107
+      "region": "USA Center"
     },
     {
       "city": "Helena, MT",
-      "passengers": 10,
-      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Oil",
       "amountDemanded": 50,
-      "connectsTo": "Cheyenne, Boise, Calgary, Billings",
-      "region": "USA Center",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 46.59274904,
-      "longitude": -112.035291
+      "region": "USA Center"
     },
     {
       "city": "Albuquerque, NM",
-      "passengers": 30,
-      "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Iron",
       "amountDemanded": 350,
-      "connectsTo": "El Paso, Santa Fe",
-      "region": "USA West",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 35.10497479,
-      "longitude": -106.6413308
+      "region": "USA West"
     },
     {
       "city": "Santa Fe, NM",
-      "passengers": 10,
-      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Iron",
       "amountDemanded": 50,
-      "connectsTo": "Albuquerque, Denver, Oklahoma City",
-      "region": "USA West",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 35.68692893,
-      "longitude": -105.9372394
+      "region": "USA West"
     },
     {
       "city": "Denver, CO",
-      "passengers": 15,
-      "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Chicken",
       "amountDemanded": 150,
-      "connectsTo": "Santa Fe, Boise, Cheyenne",
-      "region": "USA West",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 39.73918805,
-      "longitude": -104.984016
+      "region": "USA West"
     },
     {
       "city": "Boise, ID",
-      "passengers": 10,
-      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Wheat",
       "amountDemanded": 50,
-      "connectsTo": "Denver, Kennewick, Banff, Helena",
-      "region": "USA West",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 43.60859011,
-      "longitude": -116.2274899
+      "region": "USA West"
     },
     {
       "city": "Kennewick, WA",
-      "passengers": 5,
-      "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Cow",
       "amountDemanded": 25,
-      "connectsTo": "Boise, Seattle",
-      "region": "USA West",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 46.21137697,
-      "longitude": -119.1360979
+      "region": "USA West"
     },
     {
       "city": "Seattle, WA",
-      "passengers": 50,
-      "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Parka",
       "amountDemanded": 1000,
-      "connectsTo": "Kennewick, Olympia, Vancouver",
-      "region": "USA West",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 47.57000205,
-      "longitude": -122.339985
+      "region": "USA West"
     },
     {
       "city": "Olympia, WA",
-      "passengers": 10,
-      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Apple",
       "amountDemanded": 50,
-      "connectsTo": "Seattle, Portland",
-      "region": "USA West",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 47.03804486,
-      "longitude": -122.899434
+      "region": "USA West"
     },
     {
       "city": "Portland, OR",
-      "passengers": 15,
-      "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Poutine",
       "amountDemanded": 150,
-      "connectsTo": "Olympia, Sacramento",
-      "region": "USA West",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 45.52002382,
-      "longitude": -122.6799901
+      "region": "USA West"
     },
     {
       "city": "Sacramento, CA",
-      "passengers": 15,
-      "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Orange",
       "amountDemanded": 150,
-      "connectsTo": "Portland, San Francisco",
-      "region": "USA West",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 38.57502138,
-      "longitude": -121.4700381
+      "region": "USA West"
     },
     {
       "city": "San Francisco, CA",
-      "passengers": 50,
-      "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Micro Processor",
       "amountDemanded": 1000,
-      "connectsTo": "Sacramento, Los Angeles",
-      "region": "USA West",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 37.74000775,
-      "longitude": -122.4599777
+      "region": "USA West"
     },
     {
       "city": "Los Angeles, CA",
-      "passengers": 50,
-      "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Pizza",
       "amountDemanded": 1000,
-      "connectsTo": "San Francisco, Las Vegas, Tijuana",
-      "region": "USA West",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 33.98997825,
-      "longitude": -118.1799805
+      "region": "USA West"
     },
     {
       "city": "Las Vegas, NV",
-      "passengers": 50,
-      "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Water",
       "amountDemanded": 1000,
-      "connectsTo": "Los Angeles, Phoenix",
-      "region": "USA West",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 36.20999778,
-      "longitude": -115.2200061
+      "region": "USA West"
     },
     {
       "city": "Phoenix, AZ",
-      "passengers": 30,
-      "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Lemon",
       "amountDemanded": 350,
-      "connectsTo": "Las Vegas, Tucson",
-      "region": "USA West",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 33.53997988,
-      "longitude": -112.0699917
+      "region": "USA West"
     },
     {
       "city": "Tucson, AZ",
-      "passengers": 10,
-      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Micro Processor",
       "amountDemanded": 50,
-      "connectsTo": "Phoenix, El Paso",
-      "region": "USA West",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 32.20499676,
-      "longitude": -110.8899862
+      "region": "USA West"
     },
     {
       "city": "El Paso, TX",
-      "passengers": 10,
-      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Copper",
       "amountDemanded": 50,
-      "connectsTo": "Tucson, Albuquerque, Fort Stockton, Ciudad Juarez",
-      "region": "USA West",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 31.77998395,
-      "longitude": -106.5099952
+      "region": "USA West"
     },
     {
       "city": "Banff, AB",
-      "passengers": 50,
-      "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Oil",
       "amountDemanded": 1000,
-      "connectsTo": "Boise, Vancouver, Calgary",
-      "region": "Canada West",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 51.17799888,
-      "longitude": -115.5719227
+      "region": "Canada West"
     },
     {
       "city": "Calgary, AB",
-      "passengers": 30,
-      "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Firework",
       "amountDemanded": 350,
-      "connectsTo": "Banff, Edmonton, Saskatoon, Helena",
-      "region": "Canada West",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 51.08299176,
-      "longitude": -114.0799982
+      "region": "Canada West"
     },
     {
       "city": "Edmonton, AB",
-      "passengers": 30,
-      "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Steel",
       "amountDemanded": 350,
-      "connectsTo": "Calgary, Fort McMurray",
-      "region": "Canada West",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 53.55002464,
-      "longitude": -113.4999819
+      "region": "Canada West"
     },
     {
       "city": "Fort McMurray, AB",
-      "passengers": 10,
-      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Water",
       "amountDemanded": 50,
-      "connectsTo": "Edmonton, Wood Buffalo",
-      "region": "Canada West",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 56.7333187,
-      "longitude": -111.3833153
+      "region": "Canada West"
     },
     {
       "city": "Wood Buffalo, AB",
-      "passengers": 15,
-      "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Pig",
       "amountDemanded": 150,
-      "connectsTo": "Fort McMurray, Yellowknife",
-      "region": "Canada West",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 56.726667,
-      "longitude": -111.379722
+      "region": "Canada West"
     },
     {
       "city": "Yellowknife, NT",
-      "passengers": 5,
-      "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Strawberry",
       "amountDemanded": 25,
-      "connectsTo": "Wood Buffalo, Fort Simpson",
-      "region": "Canada West",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 62.44201418,
-      "longitude": -114.3969814
+      "region": "Canada West"
     },
     {
       "city": "Fort Simpson, NT",
-      "passengers": 5,
-      "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Iron",
       "amountDemanded": 25,
-      "connectsTo": "Yellowknife, Whitehorse",
-      "region": "Canada West",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 61.84998313,
-      "longitude": -121.3332764
+      "region": "Canada West"
     },
     {
       "city": "Whitehorse, YT",
-      "passengers": 5,
-      "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Apple",
       "amountDemanded": 25,
-      "connectsTo": "Fort Simpson, Iskut",
-      "region": "Canada West",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 60.71671897,
-      "longitude": -135.0499844
+      "region": "Canada West"
     },
     {
       "city": "Iskut, BC",
-      "passengers": 5,
-      "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Orange",
       "amountDemanded": 25,
-      "connectsTo": "Whitehorse, Hazelton",
-      "region": "Canada West",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 57.833333,
-      "longitude": -129.983333
+      "region": "Canada West"
     },
     {
       "city": "Hazelton, BC",
-      "passengers": 10,
-      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Corn",
       "amountDemanded": 50,
-      "connectsTo": "Iskut, Kamloops",
-      "region": "Canada West",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 55.2599,
-      "longitude": -127.64547
+      "region": "Canada West"
     },
     {
       "city": "Kamloops, BC",
-      "passengers": 10,
-      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Poutine",
       "amountDemanded": 50,
-      "connectsTo": "Hazelton, Vancouver",
-      "region": "Canada West",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 50.66666058,
-      "longitude": -120.3332858
+      "region": "Canada West"
     },
     {
       "city": "Vancouver, BC",
-      "passengers": 30,
-      "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Micro Processor",
       "amountDemanded": 350,
-      "connectsTo": "Kamloops, Banff, Seattle",
-      "region": "Canada West",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 49.27341658,
-      "longitude": -123.1216442
+      "region": "Canada West"
     },
     {
       "city": "Regina, SK",
-      "passengers": 15,
-      "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Pig",
       "amountDemanded": 150,
-      "connectsTo": "Pierre, Saskatoon, Winnipeg",
-      "region": "Canada Center",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 50.45003298,
-      "longitude": -104.6170099
+      "region": "Canada Center"
     },
     {
       "city": "Saskatoon, SK",
-      "passengers": 15,
-      "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Salmon",
       "amountDemanded": 150,
-      "connectsTo": "Regina, Calgary, The Pas",
-      "region": "Canada Center",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 52.17003135,
-      "longitude": -106.6699854
+      "region": "Canada Center"
     },
     {
       "city": "The Pas, MB",
-      "passengers": 5,
-      "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Firework",
       "amountDemanded": 25,
-      "connectsTo": "Saskatoon, Yorkton",
-      "region": "Canada Center",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 53.81662335,
-      "longitude": -101.2333147
+      "region": "Canada Center"
     },
     {
       "city": "Yorkton, SK",
-      "passengers": 5,
-      "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Apple",
       "amountDemanded": 25,
-      "connectsTo": "The Pas, Winnipeg",
-      "region": "Canada Center",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 51.21706626,
-      "longitude": -102.4665469
+      "region": "Canada Center"
     },
     {
       "city": "Winnipeg, MB",
-      "passengers": 15,
-      "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Pizza",
       "amountDemanded": 150,
-      "connectsTo": "Yorkton, Toronto, Saint Paul, Regina",
-      "region": "Canada Center",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 49.88298749,
-      "longitude": -97.16599186
+      "region": "Canada Center"
     },
     {
       "city": "Charlottetown, PE",
-      "passengers": 15,
-      "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Steel",
       "amountDemanded": 150,
-      "connectsTo": "Edmundston, St. John's",
-      "region": "Canada East",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 46.24928164,
-      "longitude": -63.13132512
+      "region": "Canada East"
     },
     {
       "city": "St. John's, NL",
-      "passengers": 30,
-      "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Copper",
       "amountDemanded": 350,
-      "connectsTo": "Charlottetown, Halifax",
-      "region": "Canada East",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 45.26704185,
-      "longitude": -66.07667505
+      "region": "Canada East"
     },
     {
       "city": "Halifax, NS",
-      "passengers": 15,
-      "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Oil",
       "amountDemanded": 150,
-      "connectsTo": "St. John's, Augusta, Fredericton",
-      "region": "Canada East",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 44.65002525,
-      "longitude": -63.60000452
+      "region": "Canada East"
     },
     {
       "city": "Fredericton, NB",
-      "passengers": 10,
-      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Chicken",
       "amountDemanded": 50,
-      "connectsTo": "Halifax, Sherbrooke",
-      "region": "Canada East",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 45.94999758,
-      "longitude": -66.63330774
+      "region": "Canada East"
     },
     {
       "city": "Sherbrooke, QC",
-      "passengers": 10,
-      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Lemon",
       "amountDemanded": 50,
-      "connectsTo": "Fredericton, Augusta, Kingston",
-      "region": "Canada East",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 45.40000531,
-      "longitude": -71.89998885
+      "region": "Canada East"
     },
     {
       "city": "Kingston, ON",
-      "passengers": 15,
-      "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "BBQ Rib",
       "amountDemanded": 150,
-      "connectsTo": "Sherbrooke, Albany, Toronto",
-      "region": "Canada East",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 44.23371991,
-      "longitude": -76.48330082
+      "region": "Canada East"
     },
     {
       "city": "London, ON",
-      "passengers": 15,
-      "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Pizza",
       "amountDemanded": 150,
-      "connectsTo": "Detroit, Toronto",
-      "region": "Canada East",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 42.9699986,
-      "longitude": -81.24998661
+      "region": "Canada East"
     },
     {
       "city": "Toronto, ON",
-      "passengers": 50,
-      "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Micro Processor",
       "amountDemanded": 1000,
-      "connectsTo": "London, Winnipeg, Ottawa, Kingston",
-      "region": "Canada East",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 43.69997988,
-      "longitude": -79.42002079
+      "region": "Canada East"
     },
     {
       "city": "Ottawa, ON",
-      "passengers": 30,
-      "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Parka",
       "amountDemanded": 350,
-      "connectsTo": "Toronto, Montreal, Montpelier",
-      "region": "Canada East",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 45.4166968,
-      "longitude": -75.7000153
+      "region": "Canada East"
     },
     {
       "city": "Montreal, QC",
-      "passengers": 50,
-      "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Firework",
       "amountDemanded": 1000,
-      "connectsTo": "Ottawa, Edmundston",
-      "region": "Canada East",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 45.49999921,
-      "longitude": -73.58329696
+      "region": "Canada East"
     },
     {
       "city": "Edmundston, NB",
-      "passengers": 5,
-      "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Wheat",
       "amountDemanded": 25,
-      "connectsTo": "Montreal, Charlottetown",
-      "region": "Canada East",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 47.37941937,
-      "longitude": -68.3332815
+      "region": "Canada East"
     },
     {
       "city": "Galway, IE",
-      "passengers": 5,
-      "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Strawberry",
       "amountDemanded": 25,
-      "connectsTo": "Belfast, Dublin",
-      "region": "Europe West",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 53.272393,
-      "longitude": -9.048812298
+      "region": "Europe West"
     },
     {
       "city": "Belfast, UK",
-      "passengers": 10,
-      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Carrot",
       "amountDemanded": 50,
-      "connectsTo": "Galway, Edinburgh",
-      "region": "Europe West",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 54.60001223,
-      "longitude": -5.960034425
+      "region": "Europe West"
     },
     {
       "city": "Edinburgh, UK",
-      "passengers": 15,
-      "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Sheep",
       "amountDemanded": 150,
-      "connectsTo": "Belfast, London",
-      "region": "Europe West",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 55.94832786,
-      "longitude": -3.219090618
+      "region": "Europe West"
     },
     {
       "city": "London, UK",
-      "passengers": 50,
-      "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Tea",
       "amountDemanded": 1000,
-      "connectsTo": "Amsterdam, Edinburgh",
-      "region": "Europe West",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 51.49999473,
-      "longitude": -0.116721844
+      "region": "Europe West"
     },
     {
       "city": "Amsterdam, NL",
-      "passengers": 30,
-      "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Tea",
       "amountDemanded": 350,
-      "connectsTo": "Brussels, Berlin, London",
-      "region": "Europe West",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 52.34996869,
-      "longitude": 4.916640176
+      "region": "Europe West"
     },
     {
       "city": "Brussels, BE",
-      "passengers": 15,
-      "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Chicken",
       "amountDemanded": 150,
-      "connectsTo": "Luxembourgh City, Amsterdam",
-      "region": "Europe West",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 50.83331708,
-      "longitude": 4.333316608
+      "region": "Europe West"
     },
     {
       "city": "Luxembourg City, LU",
-      "passengers": 10,
-      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Pasta",
       "amountDemanded": 50,
-      "connectsTo": "Vaduz, Brussels, Prague, Europe West Factory",
-      "region": "Europe West",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 49.61166038,
-      "longitude": 6.130002806
+      "region": "Europe West"
     },
     {
       "city": "Vaduz, LT",
-      "passengers": 5,
-      "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Tea",
       "amountDemanded": 25,
-      "connectsTo": "Zurich, Luxembourg City",
-      "region": "Europe West",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 47.13372377,
-      "longitude": 9.516669473
+      "region": "Europe West"
     },
     {
       "city": "Zurich, CH",
-      "passengers": 15,
-      "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Hockey Stick",
       "amountDemanded": 150,
-      "connectsTo": "Bern, Vaduz",
-      "region": "Europe West",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 47.37998781,
-      "longitude": 8.55001013
+      "region": "Europe West"
     },
     {
       "city": "Bern, CH",
-      "passengers": 30,
-      "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Sheep",
       "amountDemanded": 350,
-      "connectsTo": "Paris, Zurich",
-      "region": "Europe West",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 46.91668276,
-      "longitude": 7.466975462
+      "region": "Europe West"
     },
     {
       "city": "Paris, FR",
-      "passengers": 50,
-      "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Tulip",
       "amountDemanded": 1000,
-      "connectsTo": "Nantes, Bern, Europe West Factory",
-      "region": "Europe West",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 48.86669293,
-      "longitude": 2.333335326
+      "region": "Europe West"
     },
     {
       "city": "Nantes, FR",
-      "passengers": 15,
-      "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Sausage",
       "amountDemanded": 150,
-      "connectsTo": "Southampton, Paris, Bilbao",
-      "region": "Europe West",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 47.21038576,
-      "longitude": -1.590016929
+      "region": "Europe West"
     },
     {
       "city": "Southampton, UK",
-      "passengers": 15,
-      "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Tea",
       "amountDemanded": 50,
-      "connectsTo": "Cardiff, Nantes",
-      "region": "Europe West",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 50.90003135,
-      "longitude": -1.399976849
+      "region": "Europe West"
     },
     {
       "city": "Cardiff, UK",
-      "passengers": 15,
-      "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Pasta",
       "amountDemanded": 150,
-      "connectsTo": "Galway, Southampton",
-      "region": "Europe West",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 51.49999473,
-      "longitude": -3.22500757
+      "region": "Europe West"
     },
     {
       "city": "Dublin, IE",
-      "passengers": 30,
-      "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Sausage",
       "amountDemanded": 350,
-      "connectsTo": "Galway, Cardiff",
-      "region": "Europe West",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 53.33306114,
-      "longitude": -6.248905682
+      "region": "Europe West"
     },
     {
-      "city": "Andorra La Velle, AD",
-      "passengers": 30,
-      "upgradeCosts": "50,000/500,000/1,000,000",
+      "city": "Andorra La Vella, AD",
       "resourceDemanded": "Tulip",
       "amountDemanded": 350,
-      "connectsTo": "Milan, Bilbao",
-      "region": "Europe South",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 42.50000144,
-      "longitude": 1.516485961
+      "region": "Europe South"
     },
     {
       "city": "Bilbao, ES",
-      "passengers": 10,
-      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Casino Chip",
       "amountDemanded": 50,
-      "connectsTo": "Nantes, Porto, Andorra La Vella",
-      "region": "Europe South",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 43.24998151,
-      "longitude": -2.929986818
+      "region": "Europe South"
     },
     {
       "city": "Porto, PT",
-      "passengers": 15,
-      "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Meatball",
       "amountDemanded": 150,
-      "connectsTo": "Bilbao, Lisbon",
-      "region": "Europe South",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 41.15000633,
-      "longitude": -8.620001263
+      "region": "Europe South"
     },
     {
       "city": "Lisbon, PT",
-      "passengers": 10,
-      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Sausage",
       "amountDemanded": 50,
-      "connectsTo": "Porto, Madrid",
-      "region": "Europe South",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 38.72272288,
-      "longitude": -9.144866305
+      "region": "Europe South"
     },
     {
       "city": "Madrid, ES",
-      "passengers": 30,
-      "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Casino Chip",
       "amountDemanded": 350,
-      "connectsTo": "Lisbon, Barcelona",
-      "region": "Europe South",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 40.40002626,
-      "longitude": -3.683351686
+      "region": "Europe South"
     },
     {
       "city": "Barcelona, ES",
-      "passengers": 50,
-      "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Candle",
       "amountDemanded": 1000,
-      "connectsTo": "Madrid, Monaco",
-      "region": "Europe South",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 41.38329958,
-      "longitude": 2.183370319
+      "region": "Europe South"
     },
     {
       "city": "Monaco, FR",
-      "passengers": 50,
-      "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Casino Chip",
       "amountDemanded": 1000,
-      "connectsTo": "Barcelona, Rome",
-      "region": "Europe South",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 43.73964569,
-      "longitude": 7.406913173
+      "region": "Europe South"
     },
     {
       "city": "Rome, IT",
-      "passengers": 5,
-      "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Holy Water",
       "amountDemanded": 25,
-      "connectsTo": "Monaco, Naples, Europe South Factory",
-      "region": "Europe South",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 41.89595563,
-      "longitude": 12.48325842
+      "region": "Europe South"
     },
     {
       "city": "Naples, IT",
-      "passengers": 10,
-      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Pasta",
       "amountDemanded": 50,
-      "connectsTo": "Rome, Valleta",
-      "region": "Europe South",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 40.84002525,
-      "longitude": 14.24501135
+      "region": "Europe South"
     },
     {
       "city": "Valleta, MT",
-      "passengers": 15,
-      "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Bonbon",
       "amountDemanded": 150,
-      "connectsTo": "Naples, Tirana",
-      "region": "Europe South",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 35.89973248,
-      "longitude": 14.51471065
+      "region": "Europe South"
     },
     {
       "city": "Tirana, AL",
-      "passengers": 10,
-      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Candle",
       "amountDemanded": 50,
-      "connectsTo": "Valleta, Athens, , Europe South Factory",
-      "region": "Europe South",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 41.32754071,
-      "longitude": 19.81888301
+      "region": "Europe South"
     },
     {
       "city": "Athens, GR",
-      "passengers": 30,
-      "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Meatball",
       "amountDemanded": 350,
-      "connectsTo": "Tirana, Skopje",
-      "region": "Europe South",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 37.98332623,
-      "longitude": 23.73332108
+      "region": "Europe South"
     },
     {
       "city": "Skopje, MK",
-      "passengers": 5,
-      "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Casino Chip",
       "amountDemanded": 25,
-      "connectsTo": "Athens, Sarajevo, Sofia",
-      "region": "Europe South",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 42.00000612,
-      "longitude": 21.43346147
+      "region": "Europe South"
     },
     {
       "city": "Sarajevo, HB",
-      "passengers": 10,
-      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Tulip",
       "amountDemanded": 50,
-      "connectsTo": "Skopje, Zagreb, Europe South Factory",
-      "region": "Europe South",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 43.8500224,
-      "longitude": 18.38300167
+      "region": "Europe South"
     },
     {
       "city": "Zagreb, HR",
-      "passengers": 15,
-      "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Onion",
       "amountDemanded": 150,
-      "connectsTo": "Sarajevo, Ljubljana",
-      "region": "Europe South",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 45.80000673,
-      "longitude": 15.99999467
+      "region": "Europe South"
     },
     {
       "city": "Ljubljana, SK",
-      "passengers": 10,
-      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Sheep",
       "amountDemanded": 50,
-      "connectsTo": "Zagreb, Vienna, San Marino",
-      "region": "Europe South",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 46.05528831,
-      "longitude": 14.51496903
+      "region": "Europe South"
     },
     {
       "city": "San Marino, IT",
-      "passengers": 15,
-      "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Water",
       "amountDemanded": 150,
-      "connectsTo": "Ljubljana, Milan",
-      "region": "Europe South",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 43.91715008,
-      "longitude": 12.46667029
+      "region": "Europe South"
     },
     {
       "city": "Milan, IT",
-      "passengers": 50,
-      "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Strawberry",
       "amountDemanded": 1000,
-      "connectsTo": "San Marino, Vaduz, Andorra La Vella",
-      "region": "Europe South",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 45.4699752,
-      "longitude": 9.20500891
+      "region": "Europe South"
     },
     {
       "city": "Prague, CZ",
-      "passengers": 30,
-      "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Onion",
       "amountDemanded": 350,
-      "connectsTo": "Ostrava, Vienna, Luxembourgh City",
-      "region": "Europe East",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 50.08333701,
-      "longitude": 14.46597978
+      "region": "Europe East"
     },
     {
       "city": "Vienna, AT",
-      "passengers": 15,
-      "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Bonbon",
       "amountDemanded": 150,
-      "connectsTo": "Prague, Ljubljana",
-      "region": "Europe East",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 48.20001528,
-      "longitude": 16.36663896
+      "region": "Europe East"
     },
     {
       "city": "Timisoara, RO",
-      "passengers": 10,
-      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Meatball",
       "amountDemanded": 50,
-      "connectsTo": "Sofia, Vienna, Europe West Factory",
-      "region": "Europe East",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 45.75882062,
-      "longitude": 21.22344844
+      "region": "Europe East"
     },
     {
       "city": "Sofia, BG",
-      "passengers": 5,
-      "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Sheep",
       "amountDemanded": 25,
-      "connectsTo": "Skopje, Bucharest, Timisoara",
-      "region": "Europe East",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 42.68334943,
-      "longitude": 23.31665401
+      "region": "Europe East"
     },
     {
       "city": "Bucharest, RO",
-      "passengers": 10,
-      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Water",
       "amountDemanded": 50,
-      "connectsTo": "Sofia, Chisinau, Europe West Factory",
-      "region": "Europe East",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 44.4333718,
-      "longitude": 26.09994665
+      "region": "Europe East"
     },
     {
       "city": "Chisinau, MD",
-      "passengers": 5,
-      "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Onion",
       "amountDemanded": 25,
-      "connectsTo": "Bucharest, Cluj-Napoca",
-      "region": "Europe East",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 47.00502362,
-      "longitude": 28.85771114
+      "region": "Europe East"
     },
     {
       "city": "Cluj-Napoca, RO",
-      "passengers": 10,
-      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Holy Water",
       "amountDemanded": 50,
-      "connectsTo": "Chisinau, Budapest, Europe West Factory",
-      "region": "Europe East",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 46.78842185,
-      "longitude": 23.5984456
+      "region": "Europe East"
     },
     {
       "city": "Budapest, HU",
-      "passengers": 15,
-      "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Cow",
       "amountDemanded": 150,
-      "connectsTo": "Cluj-Napoca, Bratislava",
-      "region": "Europe East",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 47.50000633,
-      "longitude": 19.08332068
+      "region": "Europe East"
     },
     {
       "city": "Bratislava, SK",
-      "passengers": 10,
-      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Onion",
       "amountDemanded": 50,
-      "connectsTo": "Budapest, Ostrava",
-      "region": "Europe East",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 48.15001833,
-      "longitude": 17.11698075
+      "region": "Europe East"
     },
     {
       "city": "Ostrava, CZ",
-      "passengers": 5,
-      "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Sausage",
       "amountDemanded": 25,
-      "connectsTo": "Bratislava, Prague, Warsaw",
-      "region": "Europe East",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 49.83035504,
-      "longitude": 18.24998653
+      "region": "Europe East"
     },
     {
       "city": "Berlin, DE",
-      "passengers": 50,
-      "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Parka",
       "amountDemanded": 1000,
-      "connectsTo": "Copenhagen, Warsaw, Amsterdam",
-      "region": "Europe North",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 52.52181866,
-      "longitude": 13.40154862
+      "region": "Europe North"
     },
     {
       "city": "Warsaw, PL",
-      "passengers": 15,
-      "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Tulip",
       "amountDemanded": 150,
-      "connectsTo": "Berlin, Kiev, Ostrava",
-      "region": "Europe North",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 52.25000063,
-      "longitude": 20.99999955
+      "region": "Europe North"
     },
     {
       "city": "Kiev, UA",
-      "passengers": 5,
-      "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Bonbon",
       "amountDemanded": 25,
-      "connectsTo": "Chisinau, Minsk, Warsaw",
-      "region": "Europe North",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 50.43336733,
-      "longitude": 30.51662797
+      "region": "Europe North"
     },
     {
       "city": "Minsk, BY",
-      "passengers": 5,
-      "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Utility Knife",
       "amountDemanded": 25,
-      "connectsTo": "Kiev, Vilnius",
-      "region": "Europe North",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 53.89997744,
-      "longitude": 27.56662716
+      "region": "Europe North"
     },
     {
       "city": "Vilnius, LT",
-      "passengers": 10,
-      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Utility Knife",
       "amountDemanded": 50,
-      "connectsTo": "Minsk, Riga",
-      "region": "Europe North",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 54.68336631,
-      "longitude": 25.31663529
+      "region": "Europe North"
     },
     {
       "city": "Riga, LV",
-      "passengers": 5,
-      "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Honey",
       "amountDemanded": 25,
-      "connectsTo": "Vilnius, Tallinn, Europe North Factory",
-      "region": "Europe North",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 56.95002382,
-      "longitude": 24.09996537
+      "region": "Europe North"
     },
     {
       "city": "Tallinn, EE",
-      "passengers": 5,
-      "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Holy Water",
       "amountDemanded": 25,
-      "connectsTo": "Helsinki, Riga",
-      "region": "Europe North",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 59.43387738,
-      "longitude": 24.72804073
+      "region": "Europe North"
     },
     {
       "city": "Helsinki, FI",
-      "passengers": 10,
-      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Candle",
       "amountDemanded": 50,
-      "connectsTo": "Tallinn, Stockholm",
-      "region": "Europe North",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 60.17556337,
-      "longitude": 24.93412634
+      "region": "Europe North"
     },
     {
       "city": "Stockholm, SE",
-      "passengers": 15,
-      "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Utility Knife",
       "amountDemanded": 150,
-      "connectsTo": "Helsinki, Oslo, Europe North Factory",
-      "region": "Europe North",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 59.35075995,
-      "longitude": 18.09733473
+      "region": "Europe North"
     },
     {
       "city": "Oslo, NO",
-      "passengers": 30,
-      "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Utility Knife",
       "amountDemanded": 350,
-      "connectsTo": "Stockholm, Copenhagen",
-      "region": "Europe North",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 59.91669029,
-      "longitude": 10.74997921
+      "region": "Europe North"
     },
     {
       "city": "Copenhagen, DK",
-      "passengers": 50,
-      "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Candle",
       "amountDemanded": 1000,
-      "connectsTo": "Oslo, Berlin, Europe North Factory",
-      "region": "Europe North",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 55.67856419,
-      "longitude": 12.56348575
+      "region": "Europe North"
     },
     {
       "city": "Cabo San Lucas, MX",
-      "passengers": 15,
-      "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Tulip",
       "amountDemanded": 150,
-      "connectsTo": "La Paz",
-      "region": "Mexico",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 22.89275617,
-      "longitude": -109.9045164
+      "region": "Mexico"
     },
     {
       "city": "La Paz, MX",
-      "passengers": 30,
-      "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Peanut",
       "amountDemanded": 350,
-      "connectsTo": "Cabo San Lucas, Rosarito",
-      "region": "Mexico",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 24.13995933,
-      "longitude": -110.3199952
+      "region": "Mexico"
     },
     {
       "city": "Rosarito, MX",
-      "passengers": 5,
-      "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Apple",
       "amountDemanded": 25,
-      "connectsTo": "La Paz, Tijuana",
-      "region": "Mexico",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 28.6364039,
-      "longitude": -114.0213997
+      "region": "Mexico"
     },
     {
       "city": "Tijuana, MX",
-      "passengers": 50,
-      "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Coffee Beans",
       "amountDemanded": 1000,
-      "connectsTo": "Los Angeles,, Rosarito, Mexicali",
-      "region": "Mexico",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 32.50001752,
-      "longitude": -117.079996
+      "region": "Mexico"
     },
     {
       "city": "Mexicali, MX",
-      "passengers": 15,
-      "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Banana",
       "amountDemanded": 150,
-      "connectsTo": "Tijuana, Ciudad Juarez, Hermosillo",
-      "region": "Mexico",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 32.64998252,
-      "longitude": -115.4800161
+      "region": "Mexico"
     },
     {
       "city": "Hermosillo, MX",
-      "passengers": 30,
-      "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Copper",
       "amountDemanded": 350,
-      "connectsTo": "Mexicali, Ciudad Obregon",
-      "region": "Mexico",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 29.09888145,
-      "longitude": -110.954065
+      "region": "Mexico"
     },
     {
       "city": "Ciudad Obregon, MX",
-      "passengers": 15,
-      "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Poutine",
       "amountDemanded": 150,
-      "connectsTo": "Hermosillo, Chihuahua, Los Mochis",
-      "region": "Mexico",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 27.46660382,
-      "longitude": -109.9249805
+      "region": "Mexico"
     },
     {
       "city": "Los Mochis, MX",
-      "passengers": 10,
-      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Banana",
       "amountDemanded": 50,
-      "connectsTo": "Ciudad Obregon, Guasave",
-      "region": "Mexico",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 25.78998781,
-      "longitude": -108.9999982
+      "region": "Mexico"
     },
     {
       "city": "Guasave, MX",
-      "passengers": 5,
-      "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Peanut",
       "amountDemanded": 25,
-      "connectsTo": "Los Mochis, Culiacan",
-      "region": "Mexico",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 25.57049217,
-      "longitude": -108.4699789
+      "region": "Mexico"
     },
     {
       "city": "Culiacan, MX",
-      "passengers": 30,
-      "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Iron",
       "amountDemanded": 350,
-      "connectsTo": "Guasave, Mazatlan",
-      "region": "Mexico",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 24.82999473,
-      "longitude": -107.3799679
+      "region": "Mexico"
     },
     {
       "city": "Mazatlan, MX",
-      "passengers": 30,
-      "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Steel",
       "amountDemanded": 350,
-      "connectsTo": "Culiacan, Tepic",
-      "region": "Mexico",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 23.22110069,
-      "longitude": -106.4200007
+      "region": "Mexico"
     },
     {
       "city": "Tepic, MX",
-      "passengers": 30,
-      "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "BBQ Rib",
       "amountDemanded": 350,
-      "connectsTo": "Mazatlan, Colima, San Luis Potosi, Durango",
-      "region": "Mexico",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 21.50539146,
-      "longitude": -104.8799913
+      "region": "Mexico"
     },
     {
       "city": "Durango, MX",
-      "passengers": 50,
-      "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Onion",
       "amountDemanded": 1000,
-      "connectsTo": "Tepic, Saltillo",
-      "region": "Mexico",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 24.03110292,
-      "longitude": -104.67003
+      "region": "Mexico"
     },
     {
       "city": "Saltillo, MX",
-      "passengers": 30,
-      "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Tomato",
       "amountDemanded": 350,
-      "connectsTo": "Durango, Monterrey, Monclova",
-      "region": "Mexico",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 25.41995872,
-      "longitude": -101.0049823
+      "region": "Mexico"
     },
     {
       "city": "Monclova, MX",
-      "passengers": 15,
-      "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Cow",
       "amountDemanded": 150,
-      "connectsTo": "Saltillo, Chihuahua",
-      "region": "Mexico",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 26.89999758,
-      "longitude": -101.4199958
+      "region": "Mexico"
     },
     {
       "city": "Chihuahua, MX",
-      "passengers": 50,
-      "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Salmon",
       "amountDemanded": 1000,
-      "connectsTo": "Monclova, Ciudad Obregon, Ciudad Juarez",
-      "region": "Mexico",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 28.64498151,
-      "longitude": -106.0849823
+      "region": "Mexico"
     },
     {
       "city": "Ciudad Juarez, MX",
-      "passengers": 50,
-      "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Poutine",
       "amountDemanded": 1000,
-      "connectsTo": "Mexicali, El Paso, Chihuahua",
-      "region": "Mexico",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 31.69037701,
-      "longitude": -106.4900481
+      "region": "Mexico"
     },
     {
       "city": "Monterrey, MX",
-      "passengers": 50,
-      "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Chicken",
       "amountDemanded": 1000,
-      "connectsTo": "Saltillo, Ciudad Victoria",
-      "region": "Mexico",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 25.66999514,
-      "longitude": -100.3299848
+      "region": "Mexico"
     },
     {
       "city": "Ciudad Victoria, MX",
-      "passengers": 15,
-      "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Copper",
       "amountDemanded": 150,
-      "connectsTo": "Monterrey, San Luis Potosi, Xalapa",
-      "region": "Mexico",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 23.71995913,
-      "longitude": -99.12998051
+      "region": "Mexico"
     },
     {
       "city": "San Luis Potosi, MX",
-      "passengers": 5,
-      "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Peanut",
       "amountDemanded": 25,
-      "connectsTo": "Tepic, Ciudad Victoria, Guadalajara",
-      "region": "Mexico",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 22.16997622,
-      "longitude": -100.9999956
+      "region": "Mexico"
     },
     {
       "city": "Guadalajara, MX",
-      "passengers": 10,
-      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Banana",
       "amountDemanded": 50,
-      "connectsTo": "San Luis Potosi, Morelia",
-      "region": "Mexico",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 20.67001609,
-      "longitude": -103.3300342
+      "region": "Mexico"
     },
     {
       "city": "Colima, MX",
-      "passengers": 15,
-      "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Micro Processor",
       "amountDemanded": 150,
-      "connectsTo": "Tepic, Morelia, Acapulco",
-      "region": "Mexico",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 19.22997479,
-      "longitude": -103.7200104
+      "region": "Mexico"
     },
     {
       "city": "Morelia, MX",
-      "passengers": 30,
-      "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Apple",
       "amountDemanded": 350,
-      "connectsTo": "Guadalajara, Colima, Mexico City",
-      "region": "Mexico",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 19.73338076,
-      "longitude": -101.189493
+      "region": "Mexico"
     },
     {
       "city": "Xalapa, MX",
-      "passengers": 15,
-      "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Carrot",
       "amountDemanded": 150,
-      "connectsTo": "Ciudad Victoria, Mexico City",
-      "region": "Mexico",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 19.52998232,
-      "longitude": -96.91998621
+      "region": "Mexico"
     },
     {
       "city": "Mexico City, MX",
-      "passengers": 50,
-      "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Coffee Beans",
       "amountDemanded": 1000,
-      "connectsTo": "Xalapa, Morelia, Taxco, Villahermosa",
-      "region": "Mexico",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 19.44244244,
-      "longitude": -99.1309882
+      "region": "Mexico"
     },
     {
       "city": "Taxco, MX",
-      "passengers": 5,
-      "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Candle",
       "amountDemanded": 25,
-      "connectsTo": "Mexico City, Oaxaca",
-      "region": "Mexico",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 18.57037681,
-      "longitude": -99.6199506
+      "region": "Mexico"
     },
     {
       "city": "Oaxaca, MX",
-      "passengers": 50,
-      "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Sheep",
       "amountDemanded": 1000,
-      "connectsTo": "Taxco, Acapulco, Tuxtla Gutierrez",
-      "region": "Mexico",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 17.08268984,
-      "longitude": -96.66994979
+      "region": "Mexico"
     },
     {
       "city": "Acapulco, MX",
-      "passengers": 30,
-      "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Paper",
       "amountDemanded": 350,
-      "connectsTo": "Colima, Oaxaca",
-      "region": "Mexico",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 16.84999086,
-      "longitude": -99.91597905
+      "region": "Mexico"
     },
     {
       "city": "Tuxtla Gutierrez, MX",
-      "passengers": 30,
-      "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Hockey Stick",
       "amountDemanded": 350,
-      "connectsTo": "Oaxaca, Chetumal",
-      "region": "Mexico",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 16.74999697,
-      "longitude": -93.1500096
+      "region": "Mexico"
     },
     {
       "city": "Chetumal, MX",
-      "passengers": 10,
-      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Holy Water",
       "amountDemanded": 50,
-      "connectsTo": "Tuxtla Gutierrez, Cancun",
-      "region": "Mexico",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 18.50001935,
-      "longitude": -88.29999557
+      "region": "Mexico"
     },
     {
       "city": "Cancun, MX",
-      "passengers": 50,
-      "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Pasta",
       "amountDemanded": 1000,
-      "connectsTo": "Chetumal, Merida",
-      "region": "Mexico",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 21.16995974,
-      "longitude": -86.83000777
+      "region": "Mexico"
     },
     {
       "city": "Merida, MX",
-      "passengers": 30,
-      "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Coffee Beans",
       "amountDemanded": 350,
-      "connectsTo": "Cancun, Campeche",
-      "region": "Mexico",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 20.96663881,
-      "longitude": -89.61663355
+      "region": "Mexico"
     },
     {
       "city": "Campeche, MX",
-      "passengers": 30,
-      "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Meatball",
       "amountDemanded": 350,
-      "connectsTo": "Merida, Villahermosa",
-      "region": "Mexico",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 19.82998985,
-      "longitude": -90.49999048
+      "region": "Mexico"
     },
     {
       "city": "Villahermosa, MX",
-      "passengers": 15,
-      "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Coffee Beans",
       "amountDemanded": 150,
-      "connectsTo": "Campeche, Mexico City",
-      "region": "Mexico",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 17.99997235,
-      "longitude": -92.89997319
+      "region": "Mexico"
     },
     {
       "city": "The Bahamas",
-      "passengers": 50,
-      "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Peanut",
       "amountDemanded": 1000,
-      "connectsTo": "Miami",
-      "region": "Caribbean",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 25.08339012,
-      "longitude": -77.35004378
+      "region": "Caribbean"
     },
     {
       "city": "Havana, CU",
-      "passengers": 15,
-      "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Steel",
       "amountDemanded": 150,
-      "connectsTo": "Miami, Santa Clara",
-      "region": "Caribbean",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 23.13195884,
-      "longitude": -82.36418217
+      "region": "Caribbean"
     },
     {
       "city": "Santa Clara, CU",
-      "passengers": 30,
-      "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Strawberry",
       "amountDemanded": 350,
-      "connectsTo": "Havana, Camaguey",
-      "region": "Caribbean",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 22.40001385,
-      "longitude": -79.9666541
+      "region": "Caribbean"
     },
     {
       "city": "Camaguey, CU",
-      "passengers": 10,
-      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Tomato",
       "amountDemanded": 50,
-      "connectsTo": "Santa Clara, Santiago de Cuba",
-      "region": "Caribbean",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 21.38082542,
-      "longitude": -77.91693425
+      "region": "Caribbean"
     },
     {
       "city": "Santiago de Cuba, CU",
-      "passengers": 15,
-      "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Water",
       "amountDemanded": 150,
-      "connectsTo": "Camaguey, Moontogo Bay, Port-de-Paix",
-      "region": "Caribbean",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 20.0250167,
-      "longitude": -75.82132573
+      "region": "Caribbean"
     },
     {
       "city": "Montego Bay, JM",
-      "passengers": 10,
-      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Micro Processor",
       "amountDemanded": 50,
-      "connectsTo": "Kingston, Santiago de Cuba",
-      "region": "Caribbean",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 18.46668805,
-      "longitude": -77.91667586
+      "region": "Caribbean"
     },
     {
       "city": "Kingston, JM",
-      "passengers": 30,
-      "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "Firework",
       "amountDemanded": 350,
-      "connectsTo": "Port-au-Prince, Montego Bay",
-      "region": "Caribbean",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 17.97707662,
-      "longitude": -76.76743371
+      "region": "Caribbean"
     },
     {
       "city": "Port-au-Prince, HT",
-      "passengers": 10,
-      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Wheat",
       "amountDemanded": 50,
-      "connectsTo": "Santo Domingo, Port-de-Paix, Kingston, Caribbean Factory",
-      "region": "Caribbean",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 18.5410246,
-      "longitude": -72.33603459
+      "region": "Caribbean"
     },
     {
       "city": "Santo Domingo, CD",
-      "passengers": 5,
-      "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Honey",
       "amountDemanded": 25,
-      "connectsTo": "Santiago De Los Caballeros, Port-au-Prince",
-      "region": "Caribbean",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 18.47007285,
-      "longitude": -69.90008508
+      "region": "Caribbean"
     },
     {
       "city": "Punta Cana, CD",
-      "passengers": 10,
-      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Poutine",
       "amountDemanded": 50,
-      "connectsTo": "Santiago De Los Caballeros, Ponce, San Juan",
-      "region": "Caribbean",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 18.6400839,
-      "longitude": -68.6120799
+      "region": "Caribbean"
     },
     {
       "city": "Ponce, PR",
-      "passengers": 15,
-      "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Banana",
       "amountDemanded": 150,
-      "connectsTo": "San Juan, Punta Cana",
-      "region": "Caribbean",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 18.00038576,
-      "longitude": -66.61664209
+      "region": "Caribbean"
     },
     {
       "city": "San Juan, PR",
-      "passengers": 30,
-      "upgradeCosts": "50,000/500,000/1,000,000",
       "resourceDemanded": "BBQ Rib",
       "amountDemanded": 350,
-      "connectsTo": "Ponce, Punta Cana",
-      "region": "Caribbean",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 18.44002301,
-      "longitude": -66.12997929
+      "region": "Caribbean"
     },
     {
       "city": "Santigo de Los Caballeros, CD",
-      "passengers": 10,
-      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Candle",
       "amountDemanded": 50,
-      "connectsTo": "Port-de-Paix, Santo Domingo, Punta Cana",
-      "region": "Caribbean",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 19.4398417,
-      "longitude": -70.7080427
+      "region": "Caribbean"
     },
     {
       "city": "Port-de-Paix, HT",
-      "passengers": 15,
-      "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Wood",
       "amountDemanded": 150,
-      "connectsTo": "Santiago de Cuba, Port-au-Prince, Santiago De Los Caballeros, Caribbean Factory",
-      "region": "Caribbean",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 19.93176008,
-      "longitude": -72.82948452
+      "region": "Caribbean"
     },
     {
       "city": "Belmopan, BZ",
-      "passengers": 5,
-      "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Coffee Beans",
       "amountDemanded": 25,
-      "connectsTo": "Chetumal, Guatemala",
-      "region": "Central America",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 17.25203351,
-      "longitude": -88.767073
+      "region": "Central America"
     },
     {
       "city": "Guatemala, BZ",
-      "passengers": 50,
-      "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Hockey Stick",
       "amountDemanded": 1000,
-      "connectsTo": "Tuxla Gutierrez, Belmopan, San Pedro Sula, Santa Ana",
-      "region": "Central America",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 14.62113466,
-      "longitude": -90.52696558
+      "region": "Central America"
     },
     {
       "city": "Santa Ana, CR",
-      "passengers": 5,
-      "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Apple",
       "amountDemanded": 25,
-      "connectsTo": "Guatemala, San Salvador",
-      "region": "Central America",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 13.9946096,
-      "longitude": -89.55976363
+      "region": "Central America"
     },
     {
       "city": "San Salvador, SV",
-      "passengers": 5,
-      "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Banana",
       "amountDemanded": 25,
-      "connectsTo": "Santa Ana, Tegucigalpa",
-      "region": "Central America",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 13.71000165,
-      "longitude": -89.20304122
+      "region": "Central America"
     },
     {
       "city": "Tegucigalpa, HN",
-      "passengers": 15,
-      "upgradeCosts": "5,000/50,000/100,000",
       "resourceDemanded": "Casino Chip",
       "amountDemanded": 150,
-      "connectsTo": "San Salvador, San Pedro Sula, Puerto Canezas, Managua, Central America Factory",
-      "region": "Central America",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 14.1020449,
-      "longitude": -87.21752934
+      "region": "Central America"
     },
     {
       "city": "Managua, NI",
-      "passengers": 5,
-      "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Utility Knife",
       "amountDemanded": 25,
-      "connectsTo": "Tegucigalpa, San Jose",
-      "region": "Central America",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 12.15301658,
-      "longitude": -86.26849166
+      "region": "Central America"
     },
     {
       "city": "San Pedro Sula, HN",
-      "passengers": 5,
-      "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Tea",
       "amountDemanded": 25,
-      "connectsTo": "Guatemala, La Ceiba, Tegucigalpa",
-      "region": "Central America",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 15.50002159,
-      "longitude": -88.02998621
+      "region": "Central America"
     },
     {
       "city": "La Ceiba, HN",
-      "passengers": 10,
-      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Sausage",
       "amountDemanded": 50,
-      "connectsTo": "San Pedro Sula",
-      "region": "Central America",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 15.7631063,
-      "longitude": -86.79698653
+      "region": "Central America"
     },
     {
       "city": "Puerto Canezas, NI",
-      "passengers": 10,
-      "upgradeCosts": "1,000/5,000/10,000",
       "resourceDemanded": "Tomato",
       "amountDemanded": 50,
-      "connectsTo": "Tegucigalpa, Bluefields, Central America Factory",
-      "region": "Central America",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 14.03334108,
-      "longitude": -83.38337061
+      "region": "Central America"
     },
     {
       "city": "Bluefields, NI",
-      "passengers": 5,
-      "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Tomato",
       "amountDemanded": 25,
-      "connectsTo": "Puerto Canezas, San Jose",
-      "region": "Central America",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 11.99997683,
-      "longitude": -83.76494938
+      "region": "Central America"
     },
     {
       "city": "San Jose, CR",
-      "passengers": 50,
-      "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Tomato",
       "amountDemanded": 1000,
-      "connectsTo": "Managua, Bluefields, Santiago",
-      "region": "Central America",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 9.93501243,
-      "longitude": -84.08405135
+      "region": "Central America"
     },
     {
       "city": "Santiago, PA",
-      "passengers": 5,
-      "upgradeCosts": "500/1,000/5,000",
       "resourceDemanded": "Holy Water",
       "amountDemanded": 25,
-      "connectsTo": "San Jose, Panama",
-      "region": "Central America",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 8.100369892,
-      "longitude": -80.98333622
+      "region": "Central America"
     },
     {
       "city": "Panama, PA",
-      "passengers": 50,
-      "upgradeCosts": "500,000/1,000,000/2,000,000",
       "resourceDemanded": "Pasta",
       "amountDemanded": 1000,
-      "connectsTo": "Santiago",
-      "region": "Central America",
-      "currentAmountDemanded": 0,
-      "currentResourceDemanded": false,
-      "currentLevel": 0,
-      "latitude": 8.96801719,
-      "longitude": -79.53303715
+      "region": "Central America"
+    },
+    {
+      "city": "Arkhangelsk, RU",
+      "resourceDemanded": "Russian Perfume",
+      "amountDemanded": 150,
+      "region": "Russia West"
+    },
+    {
+      "city": "Cheboksary, RU",
+      "resourceDemanded": "Honey",
+      "amountDemanded": 150,
+      "region": "Russia West"
+    },
+    {
+      "city": "Chelyabinsk, RU",
+      "resourceDemanded": "Watch",
+      "amountDemanded": 350,
+      "region": "Russia West"
+    },
+    {
+      "city": "Cherkessk, RU",
+      "resourceDemanded": "Chunk of Amber",
+      "amountDemanded": 50,
+      "region": "Russia West"
+    },
+    {
+      "city": "Elista, RU",
+      "resourceDemanded": "Chicken",
+      "amountDemanded": 50,
+      "region": "Russia West"
+    },
+    {
+      "city": "Grozny, RU",
+      "resourceDemanded": "Samovar",
+      "amountDemanded": 150,
+      "region": "Russia West"
+    },
+    {
+      "city": "Izhevsk, RU",
+      "resourceDemanded": "Honey",
+      "amountDemanded": 150,
+      "region": "Russia West"
+    },
+    {
+      "city": "Kazan, RU",
+      "resourceDemanded": "Uranium",
+      "amountDemanded": 350,
+      "region": "Russia West"
+    },
+    {
+      "city": "Makhachkala, RU",
+      "resourceDemanded": "Lacquer Box",
+      "amountDemanded": 150,
+      "region": "Russia West"
+    },
+    {
+      "city": "Maykop, RU",
+      "resourceDemanded": "Wood",
+      "amountDemanded": 50,
+      "region": "Russia West"
+    },
+    {
+      "city": "Moscow, RU",
+      "resourceDemanded": "Wheat",
+      "amountDemanded": 1000,
+      "region": "Russia West"
+    },
+    {
+      "city": "Murmansk, RU",
+      "resourceDemanded": "Valenki",
+      "amountDemanded": 150,
+      "region": "Russia West"
+    },
+    {
+      "city": "Nalchik, RU",
+      "resourceDemanded": "Candle",
+      "amountDemanded": 150,
+      "region": "Russia West"
+    },
+    {
+      "city": "Nizhny Novgorod, RU",
+      "resourceDemanded": "Micro Processor",
+      "amountDemanded": 350,
+      "region": "Russia West"
+    },
+    {
+      "city": "Oryol Oblast, RU",
+      "resourceDemanded": "Tea",
+      "amountDemanded": 150,
+      "region": "Russia West"
+    },
+    {
+      "city": "Penza, RU",
+      "resourceDemanded": "Tomato",
+      "amountDemanded": 150,
+      "region": "Russia West"
+    },
+    {
+      "city": "Petrotavodsk, RU",
+      "resourceDemanded": "Wheat",
+      "amountDemanded": 150,
+      "region": "Russia West"
+    },
+    {
+      "city": "Rostov-on-Don, RU",
+      "resourceDemanded": "Cooking Oil",
+      "amountDemanded": 350,
+      "region": "Russia West"
+    },
+    {
+      "city": "Saint Petersburg, RU",
+      "resourceDemanded": "Cooking Oil",
+      "amountDemanded": 1000,
+      "region": "Russia West"
+    },
+    {
+      "city": "Samara, RU",
+      "resourceDemanded": "Onion",
+      "amountDemanded": 350,
+      "region": "Russia West"
+    },
+    {
+      "city": "Saransk, RU",
+      "resourceDemanded": "Power Cable",
+      "amountDemanded": 150,
+      "region": "Russia West"
+    },
+    {
+      "city": "Saratov, RU",
+      "resourceDemanded": "Shapka",
+      "amountDemanded": 150,
+      "region": "Russia West"
+    },
+    {
+      "city": "Sochi, RU",
+      "resourceDemanded": "Apple",
+      "amountDemanded": 150,
+      "region": "Russia West"
+    },
+    {
+      "city": "Syktyvkar, RU",
+      "resourceDemanded": "Russian Building Block",
+      "amountDemanded": 150,
+      "region": "Russia West"
+    },
+    {
+      "city": "Ufa, RU",
+      "resourceDemanded": "Diesel Fuel",
+      "amountDemanded": 350,
+      "region": "Russia West"
+    },
+    {
+      "city": "Veliky Novgorod, RU",
+      "resourceDemanded": "Matryoshka Doll",
+      "amountDemanded": 150,
+      "region": "Russia West"
+    },
+    {
+      "city": "Vladimir, RU",
+      "resourceDemanded": "Gzhel",
+      "amountDemanded": 150,
+      "region": "Russia West"
+    },
+    {
+      "city": "Volgograd, RU",
+      "resourceDemanded": "Steel",
+      "amountDemanded": 350,
+      "region": "Russia West"
+    },
+    {
+      "city": "Voronezh, RU",
+      "resourceDemanded": "Carrot",
+      "amountDemanded": 350,
+      "region": "Russia West"
+    },
+    {
+      "city": "Yaroslavl, RU",
+      "resourceDemanded": "Zhostovo Tray",
+      "amountDemanded": 150,
+      "region": "Russia West"
+    },
+    {
+      "city": "Yekaterinburg, RU",
+      "resourceDemanded": "Iron",
+      "amountDemanded": 350,
+      "region": "Russia West"
+    },
+    {
+      "city": "Yoshkar-Ola, RU",
+      "resourceDemanded": "Copper",
+      "amountDemanded": 150,
+      "region": "Russia West"
+    },
+    {
+      "city": "Abakan, RU",
+      "resourceDemanded": "Valenki",
+      "amountDemanded": 50,
+      "region": "Russia East"
+    },
+    {
+      "city": "Barnaul, RU",
+      "resourceDemanded": "Tulip",
+      "amountDemanded": 150,
+      "region": "Russia East"
+    },
+    {
+      "city": "Batagay, RU",
+      "resourceDemanded": "Wheat",
+      "amountDemanded": 25,
+      "region": "Russia East"
+    },
+    {
+      "city": "Blagoveshchensk, RU",
+      "resourceDemanded": "Paper",
+      "amountDemanded": 150,
+      "region": "Russia East"
+    },
+    {
+      "city": "Egvekinot, RU",
+      "resourceDemanded": "Cow",
+      "amountDemanded": 25,
+      "region": "Russia East"
+    },
+    {
+      "city": "Irkustk, RU",
+      "resourceDemanded": "Oil",
+      "amountDemanded": 150,
+      "region": "Russia East"
+    },
+    {
+      "city": "Kamchatka Krai, RU",
+      "resourceDemanded": "Coal",
+      "amountDemanded": 150,
+      "region": "Russia East"
+    },
+    {
+      "city": "Khatanga, RU",
+      "resourceDemanded": "Uranium",
+      "amountDemanded": 25,
+      "region": "Russia East"
+    },
+    {
+      "city": "Komsomolsk-on-Amur, RU",
+      "resourceDemanded": "Hockey Stick",
+      "amountDemanded": 150,
+      "region": "Russia East"
+    },
+    {
+      "city": "Krasnoyarsk Krai, RU",
+      "resourceDemanded": "Corn",
+      "amountDemanded": 350,
+      "region": "Russia East"
+    },
+    {
+      "city": "Magadan, RU",
+      "resourceDemanded": "Salmon",
+      "amountDemanded": 25,
+      "region": "Russia East"
+    },
+    {
+      "city": "Mirny, RU",
+      "resourceDemanded": "Sausage",
+      "amountDemanded": 25,
+      "region": "Russia East"
+    },
+    {
+      "city": "Neryungri, RU",
+      "resourceDemanded": "Grape",
+      "amountDemanded": 25,
+      "region": "Russia East"
+    },
+    {
+      "city": "Nizhnevartovsk, RU",
+      "resourceDemanded": "Gasoline Tank",
+      "amountDemanded": 150,
+      "region": "Russia East"
+    },
+    {
+      "city": "Norilsk, RU",
+      "resourceDemanded": "Copper Cable",
+      "amountDemanded": 50,
+      "region": "Russia East"
+    },
+    {
+      "city": "Novokuznetsk, RU",
+      "resourceDemanded": "Asparagus",
+      "amountDemanded": 150,
+      "region": "Russia East"
+    },
+    {
+      "city": "Novosibirsk, RU",
+      "resourceDemanded": "Micro Processor",
+      "amountDemanded": 350,
+      "region": "Russia East"
+    },
+    {
+      "city": "Novy Urengoy, RU",
+      "resourceDemanded": "Diesel Fuel",
+      "amountDemanded": 50,
+      "region": "Russia East"
+    },
+    {
+      "city": "Nyagan, RU",
+      "resourceDemanded": "Wood",
+      "amountDemanded": 25,
+      "region": "Russia East"
+    },
+    {
+      "city": "Omsk, RU",
+      "resourceDemanded": "Sheep",
+      "amountDemanded": 350,
+      "region": "Russia East"
+    },
+    {
+      "city": "Petropavlovsk-Kamchatsky, RU",
+      "resourceDemanded": "Orange",
+      "amountDemanded": 50,
+      "region": "Russia East"
+    },
+    {
+      "city": "Sakhalin, RU",
+      "resourceDemanded": "Cauliflower",
+      "amountDemanded": 150,
+      "region": "Russia East"
+    },
+    {
+      "city": "Tyumen, RU",
+      "resourceDemanded": "Lemon",
+      "amountDemanded": 1000,
+      "region": "Russia East"
+    },
+    {
+      "city": "Ulan-Ude, RU",
+      "resourceDemanded": "Chlorine",
+      "amountDemanded": 150,
+      "region": "Russia East"
+    },
+    {
+      "city": "Ust-Nera, RU",
+      "resourceDemanded": "Aluminium",
+      "amountDemanded": 25,
+      "region": "Russia East"
+    },
+    {
+      "city": "Vladivostok, RU",
+      "resourceDemanded": "Salmon",
+      "amountDemanded": 150,
+      "region": "Russia East"
+    },
+    {
+      "city": "Yakutsk, RU",
+      "resourceDemanded": "Wood",
+      "amountDemanded": 150,
+      "region": "Russia East"
+    },
+    {
+      "city": "Yuzhno-Sakhalinsk, RU",
+      "resourceDemanded": "Chicken",
+      "amountDemanded": 50,
+      "region": "Russia East"
+    },
+    {
+      "city": "Zyryanka, RU",
+      "resourceDemanded": "Coal",
+      "amountDemanded": 25,
+      "region": "Russia East"
+    },
+    {
+      "city": "Aktau, KZ",
+      "resourceDemanded": "Russian Building Block",
+      "amountDemanded": 50,
+      "region": "Asia Center"
+    },
+    {
+      "city": "Aktobe, KZ",
+      "resourceDemanded": "Water",
+      "amountDemanded": 150,
+      "region": "Asia Center"
+    },
+    {
+      "city": "Almaty, KZ",
+      "resourceDemanded": "Oil",
+      "amountDemanded": 350,
+      "region": "Asia Center"
+    },
+    {
+      "city": "Ashgabat, TM",
+      "resourceDemanded": "Cotton",
+      "amountDemanded": 350,
+      "region": "Asia Center"
+    },
+    {
+      "city": "Astana, KZ",
+      "resourceDemanded": "Watermelon",
+      "amountDemanded": 150,
+      "region": "Asia Center"
+    },
+    {
+      "city": "Atyrau, KZ",
+      "resourceDemanded": "Corn",
+      "amountDemanded": 50,
+      "region": "Asia Center"
+    },
+    {
+      "city": "Bishkek, KG",
+      "resourceDemanded": "Diesel Fuel",
+      "amountDemanded": 150,
+      "region": "Asia Center"
+    },
+    {
+      "city": "Nukus, UZ",
+      "resourceDemanded": "Coal",
+      "amountDemanded": 150,
+      "region": "Asia Center"
+    },
+    {
+      "city": "Osh, KG",
+      "resourceDemanded": "Wheat",
+      "amountDemanded": 150,
+      "region": "Asia Center"
+    },
+    {
+      "city": "Pavlodar, KZ",
+      "resourceDemanded": "Coffee Beans",
+      "amountDemanded": 150,
+      "region": "Asia Center"
+    },
+    {
+      "city": "Samarkand, UZ",
+      "resourceDemanded": "Strawberry",
+      "amountDemanded": 150,
+      "region": "Asia Center"
+    },
+    {
+      "city": "Shymkent, KZ",
+      "resourceDemanded": "Gasoline Tank",
+      "amountDemanded": 150,
+      "region": "Asia Center"
+    },
+    {
+      "city": "Tashkent, UZ",
+      "resourceDemanded": "Pineapple",
+      "amountDemanded": 350,
+      "region": "Asia Center"
+    },
+    {
+      "city": "Uralsk, KZ",
+      "resourceDemanded": "Orange",
+      "amountDemanded": 350,
+      "region": "Asia Center"
+    },
+    {
+      "city": "Ust-Kamenogorsk, KZ",
+      "resourceDemanded": "Pumpkin",
+      "amountDemanded": 150,
+      "region": "Asia Center"
+    },
+    {
+      "city": "Zhezqazghan, KZ",
+      "resourceDemanded": "Wood",
+      "amountDemanded": 25,
+      "region": "Asia Center"
     }
   ]
 }

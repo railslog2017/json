@@ -1,6 +1,6 @@
 {
   "game": "tiny rails",
-  "update": "2017-03-29",
+  "update": "2017-06-14",
   "version": "0.1.0",
   "info": "regions",
   "content": [
@@ -37,14 +37,14 @@
       "name": "Canada West",
       "stations": 12,
       "totalDistance": 16927,
-      "resourcesSold": "Chicken, Copper, Paper, Parka, Oil, Water, Wood"
+      "resourcesSold": "Asparagus, Chicken, Copper, Paper, Parka, Oil, Water, Wood"
     },
     {
       "continent": "North America",
       "name": "Canada Center",
       "stations": 5,
       "totalDistance": 6666,
-      "resourcesSold": "Apple, Carrot, Corn, Cow, Hockey Stick, Honey, Wheat"
+      "resourcesSold": "Apple, Carrot, Corn, Cow, Hockey Stick, Honey, Pumpkin, Wheat"
     },
     {
       "continent": "North America",
@@ -58,7 +58,7 @@
       "name": "Europe West",
       "stations": 15,
       "totalDistance": 12696,
-      "resourcesSold": "Bonbon, Meatball, Lemon, Sausage, Sheep, Tea"
+      "resourcesSold": "Bonbon, Meatball, Lemon, Sausage, Sheep, Tea, Watermelon"
     },
     {
       "continent": "Europe",
@@ -86,21 +86,42 @@
       "name": "Mexico",
       "stations": 34,
       "totalDistance": 25043,
-      "resourcesSold": "Banana, Chicken, Coffee Bean, Corn, Sheep, Tomato"
+      "resourcesSold": "Banana, Chicken, Coffee Bean, Corn, Grapes, Pineapple, Sheep, Tomato"
     },
     {
       "continent": "Latin America",
       "name": "Caribbean",
       "stations": 14,
       "totalDistance": 7376,
-      "resourcesSold": "Candle, Pig, Orange, Banana"
+      "resourcesSold": "Candle, Peanut, Pig, Orange, Banana"
     },
     {
       "continent": "Latin America",
       "name": "Central America",
       "stations": 13,
       "totalDistance": 7613,
-      "resourcesSold": "Coffee Beans, Banana, Copper, Peanut, Pig"
+      "resourcesSold": "Cauliflower, Coffee Beans, Banana, Copper, Peanut, Pig"
+    },
+    {
+      "continent": "Russia",
+      "name": "Russia West",
+      "stations": 32,
+      "totalDistance": 49585,
+      "resourcesSold": "Aluminium, Gzhel, Hockey Stick, Replica Faberge Egg, Samovar, Shapka, Valenki, Watch, Coal"
+    },
+    {
+      "continent": "Russia",
+      "name": "Russia East",
+      "stations": 30,
+      "totalDistance": 118039,
+      "resourcesSold": "Chunk of Amber, Gasoline Tank, Russian Building Block, Cooking Oil, Chlorine, Lacquer Box, Parka, Copper Cable, Uranium"
+    },
+    {
+      "continent": "Russia",
+      "name": "Asia Center",
+      "stations": 17,
+      "totalDistance": 34502,
+      "resourcesSold": "Zhostovo Tray, Diesel Fuel, Cotton, Power Cable, Matryoshka Doll, Russian Perfume"
     }
   ]
 }

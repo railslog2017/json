@@ -1,12 +1,23 @@
 {
   "game": "tiny rails",
-  "update": "2017-03-29",
+  "update": "2017-06-14",
   "version": "0.1.0",
   "info": "resources needed",
   "content": [
     {
+      "name": "Aluminium",
+      "totalAmound": 25,
+      "regions": [
+        {
+          "amount": 25,
+          "city": "Ust-Nero, RU",
+          "region": "Russia East"
+        }
+      ]
+    },
+    {
       "name": "Apple",
-      "totalAmound": 550,
+      "totalAmound": 700,
       "regions": [
         {
           "amount": 25,
@@ -25,7 +36,7 @@
         },
         {
           "amount": 25,
-          "city": "Rosarito",
+          "city": "Rosarito, MX",
           "region": "Mexico"
         },
         {
@@ -39,9 +50,25 @@
           "region": "USA South"
         },
         {
+          "amount": 150,
+          "city": "Sochi, RU",
+          "region": "Russia West"
+        },
+        {
           "amount": 350,
-          "city": "Morelia",
+          "city": "Morelia, MX",
           "region": "Mexico"
+        }
+      ]
+    },
+    {
+      "name": "Asparagus",
+      "totalAmound": 150,
+      "regions": [
+        {
+          "amount": 150,
+          "city": "Novokuznetsk, RU",
+          "region": "Russia East"
         }
       ]
     },
@@ -130,7 +157,7 @@
     },
     {
       "name": "Candle",
-      "totalAmound": 2175,
+      "totalAmound": 2325,
       "regions": [
         {
           "amount": 25,
@@ -153,6 +180,11 @@
           "region": "Europe South"
         },
         {
+          "amount": 150,
+          "city": "Nalchik, RU",
+          "region": "Russia West"
+        },
+        {
           "amount": 1000,
           "city": "Barcelona, ES",
           "region": "Europe South"
@@ -166,7 +198,7 @@
     },
     {
       "name": "Carrot",
-      "totalAmound": 650,
+      "totalAmound": 1000,
       "regions": [
         {
           "amount": 50,
@@ -187,6 +219,11 @@
           "amount": 150,
           "city": "Xalapa",
           "region": "Mexico"
+        },
+        {
+          "amount": 350,
+          "city": "Voronezh, RU",
+          "region": "Russia West"
         },
         {
           "amount": 350,
@@ -227,13 +264,34 @@
       ]
     },
     {
+      "name": "Cauliflower",
+      "totalAmound": 150,
+      "regions": [
+        {
+          "amount": 150,
+          "city": "Sakhalin, RU",
+          "region": "Russia East"
+        }
+      ]
+    },
+    {
       "name": "Chicken",
-      "totalAmound": 2500,
+      "totalAmound": 2600,
       "regions": [
         {
           "amount": 50,
           "city": "Fredericton, NB",
           "region": "Canada East"
+        },
+        {
+          "amount": 50,
+          "city": "Elista, RU",
+          "region": "Russia West"
+        },
+        {
+          "amount": 50,
+          "city": "Yuzhno-Sakhalinsk, RU",
+          "region": "Russia East"
         },
         {
           "amount": 150,
@@ -263,8 +321,51 @@
       ]
     },
     {
+      "name": "Chlorine",
+      "totalAmound": 150,
+      "regions": [
+        {
+          "amount": 150,
+          "city": "Ulan-Ude, RU",
+          "region": "Russia East"
+        }
+      ]
+    },
+    {
+      "name": "Chunk of Amber",
+      "totalAmound": 50,
+      "regions": [
+        {
+          "amount": 50,
+          "city": "Cherkessk, RU",
+          "region": "Russia West"
+        }
+      ]
+    },
+    {
+      "name": "Coal",
+      "totalAmound": 350,
+      "regions": [
+        {
+          "amount": 50,
+          "city": "Zyryanka, RU",
+          "region": "Russia East"
+        },
+        {
+          "amount": 150,
+          "city": "Nukus, UZ",
+          "region": "Asia Central"
+        },
+        {
+          "amount": 150,
+          "city": "Kamchatka Krai, RU",
+          "region": "Russia East"
+        }
+      ]
+    },
+    {
       "name": "Coffee Beans",
-      "totalAmound": 2525,
+      "totalAmound": 2675,
       "regions": [
         {
           "amount": 25,
@@ -275,6 +376,11 @@
           "amount": 150,
           "city": "Villahermosa",
           "region": "Mexico"
+        },
+        {
+          "amount": 150,
+          "city": "Pavlodar, KZ",
+          "region": "Asia Central"
         },
         {
           "amount": 350,
@@ -294,8 +400,24 @@
       ]
     },
     {
+      "name": "Cooking Oil",
+      "totalAmound": 1350,
+      "regions": [
+        {
+          "amount": 350,
+          "city": "Rostov-on-Don, RU",
+          "region": "Russia West"
+        },
+        {
+          "amount": 1000,
+          "city": "Saint Petersburg, RU",
+          "region": "Russia West"
+        }
+      ]
+    },
+    {
       "name": "Copper",
-      "totalAmound": 1100,
+      "totalAmound": 1250,
       "regions": [
         {
           "amount": 50,
@@ -319,6 +441,11 @@
         },
         {
           "amount": 150,
+          "city": "Yoshkar-Ola, RU",
+          "region": "Russia West"
+        },
+        {
+          "amount": 350,
           "city": "Hermosillo",
           "region": "Mexico"
         },
@@ -330,8 +457,19 @@
       ]
     },
     {
+      "name": "Copper Cable",
+      "totalAmound": 50,
+      "regions": [
+        {
+          "amount": 50,
+          "city": "Norilsk, RU",
+          "region": "Russia East"
+        }
+      ]
+    },
+    {
       "name": "Corn",
-      "totalAmound": 1450,
+      "totalAmound": 1850,
       "regions": [
         {
           "amount": 25,
@@ -349,6 +487,16 @@
           "region": "Canada West"
         },
         {
+          "amount": 50,
+          "city": "Atyrau, KZ",
+          "region": "Asia Central"
+        },
+        {
+          "amount": 350,
+          "city": "Krasnoyarsk Krai, RU",
+          "region": "Russia East"
+        },
+        {
           "amount": 350,
           "city": "Detroit, MI",
           "region": "USA East"
@@ -361,13 +509,29 @@
       ]
     },
     {
+      "name": "Cotton",
+      "totalAmound": 350,
+      "regions": [
+        {
+          "amount": 350,
+          "city": "Ashgabat, TM",
+          "region": "Asia Central"
+        }
+      ]
+    },
+    {
       "name": "Cow",
-      "totalAmound": 825,
+      "totalAmound": 850,
       "regions": [
         {
           "amount": 25,
           "city": "Kennewick, WA",
           "region": "USA West"
+        },
+        {
+          "amount": 25,
+          "city": "Egvekinot, RU",
+          "region": "Russia East"
         },
         {
           "amount": 150,
@@ -388,6 +552,27 @@
           "amount": 350,
           "city": "Nashville, TN",
           "region": "USA South"
+        }
+      ]
+    },
+    {
+      "name": "Diesel Fuel",
+      "totalAmound": 550,
+      "regions": [
+        {
+          "amount": 50,
+          "city": "Novy Urengoy, RU",
+          "region": "Russia East"
+        },
+        {
+          "amount": 150,
+          "city": "Bishkek, KG",
+          "region": "Asia Central"
+        },
+        {
+          "amount": 350,
+          "city": "Ufa, RU",
+          "region": "Russia West"
         }
       ]
     },
@@ -423,8 +608,46 @@
       ]
     },
     {
+      "name": "Gasoline Tank",
+      "totalAmound": 300,
+      "regions": [
+        {
+          "amount": 150,
+          "city": "Shymkent, KZ",
+          "region": "Asia Central"
+        },
+        {
+          "amount": 150,
+          "city": "Nizhnevartovsk, RU",
+          "region": "Russia East"
+        }
+      ]
+    },
+    {
+      "name": "Grape",
+      "totalAmound": 25,
+      "regions": [
+        {
+          "amount": 25,
+          "city": "Neryungri, RU",
+          "region": "Russia East"
+        }
+      ]
+    },
+    {
+      "name": "Gzhel",
+      "totalAmound": 150,
+      "regions": [
+        {
+          "amount": 150,
+          "city": "Vladimir, RU",
+          "region": "Russia West"
+        }
+      ]
+    },
+    {
       "name": "Hockey Stick",
-      "totalAmound": 1575,
+      "totalAmound": 1725,
       "regions": [
         {
           "amount": 25,
@@ -440,6 +663,11 @@
           "amount": 150,
           "city": "Zurich, CH",
           "region": "Europe West"
+        },
+        {
+          "amount": 150,
+          "city": "Komsomolsk-on-Amur, RU",
+          "region": "Russia East"
         },
         {
           "amount": 350,
@@ -486,7 +714,7 @@
     },
     {
       "name": "Honey",
-      "totalAmound": 125,
+      "totalAmound": 425,
       "regions": [
         {
           "amount": 25,
@@ -512,12 +740,22 @@
           "amount": 25,
           "city": "Santo Domingo, CD",
           "region": "Caribbean"
+        },
+        {
+          "amount": 150,
+          "city": "Cheboksary, RU",
+          "region": "Russia West"
+        },
+        {
+          "amount": 150,
+          "city": "Izhevsk, RU",
+          "region": "Russia West"
         }
       ]
     },
     {
       "name": "Iron",
-      "totalAmound": 825,
+      "totalAmound": 1175,
       "regions": [
         {
           "amount": 25,
@@ -536,6 +774,11 @@
         },
         {
           "amount": 350,
+          "city": "Yekaterinburg, RU",
+          "region": "Russia West"
+        },
+        {
+          "amount": 350,
           "city": "Albuquerque, NM",
           "region": "USA West"
         },
@@ -547,8 +790,19 @@
       ]
     },
     {
+      "name": "Lacquer Box",
+      "totalAmound": 150,
+      "regions": [
+        {
+          "amount": 150,
+          "city": "Makhachkala, RU",
+          "region": "Russia West"
+        }
+      ]
+    },
+    {
       "name": "Lemon",
-      "totalAmound": 650,
+      "totalAmound": 1650,
       "regions": [
         {
           "amount": 50,
@@ -574,6 +828,22 @@
           "amount": 350,
           "city": "Phoenix, AZ",
           "region": "USA West"
+        },
+        {
+          "amount": 1000,
+          "city": "Tyumen, RU",
+          "region": "Russia East"
+        }
+      ]
+    },
+    {
+      "name": "Matryoshka Doll",
+      "totalAmound": 150,
+      "regions": [
+        {
+          "amount": 150,
+          "city": "Veliky Novgorod, RU",
+          "region": "Russia West"
         }
       ]
     },
@@ -605,7 +875,7 @@
     },
     {
       "name": "Micro Processor",
-      "totalAmound": 2600,
+      "totalAmound": 3300,
       "regions": [
         {
           "amount": 50,
@@ -624,8 +894,18 @@
         },
         {
           "amount": 350,
+          "city": "Nishny Novgorod, RU",
+          "region": "Russia West"
+        },
+        {
+          "amount": 350,
           "city": "Vancouver, BC",
           "region": "Canada West"
+        },
+        {
+          "amount": 350,
+          "city": "Novosibirsk, RU",
+          "region": "Russia East"
         },
         {
           "amount": 1000,
@@ -641,7 +921,7 @@
     },
     {
       "name": "Oil",
-      "totalAmound": 1275,
+      "totalAmound": 1775,
       "regions": [
         {
           "amount": 25,
@@ -664,6 +944,16 @@
           "region": "Canada East"
         },
         {
+          "amount": 150,
+          "city": "Irkutsk, RU",
+          "region": "Russia East"
+        },
+        {
+          "amount": 350,
+          "city": "Almaty, KZ",
+          "region": "Asia Central"
+        },
+        {
           "amount": 1000,
           "city": "Banff, AB",
           "region": "Canada West"
@@ -672,7 +962,7 @@
     },
     {
       "name": "Onion",
-      "totalAmound": 1575,
+      "totalAmound": 1925,
       "regions": [
         {
           "amount": 25,
@@ -695,6 +985,11 @@
           "region": "Europe East"
         },
         {
+          "amount": 350,
+          "city": "Samara, RU",
+          "region": "Russia West"
+        },
+        {
           "amount": 1000,
           "city": "Durango",
           "region": "Mexico"
@@ -703,7 +998,7 @@
     },
     {
       "name": "Orange",
-      "totalAmound": 600,
+      "totalAmound": 1000,
       "regions": [
         {
           "amount": 25,
@@ -721,6 +1016,11 @@
           "region": "USA East"
         },
         {
+          "amount": 50,
+          "city": "Petropavlovsk-Kamchatsky, RU",
+          "region": "Russia East"
+        },
+        {
           "amount": 150,
           "city": "Sacramento, CA",
           "region": "USA West"
@@ -729,12 +1029,17 @@
           "amount": 350,
           "city": "Washington, DC",
           "region": "USA East"
+        },
+        {
+          "amount": 350,
+          "city": "Uralsk, KZ",
+          "region": "Asia Central"
         }
       ]
     },
     {
       "name": "Paper",
-      "totalAmound": 950,
+      "totalAmound": 1100,
       "regions": [
         {
           "amount": 50,
@@ -750,6 +1055,11 @@
           "amount": 150,
           "city": "Raleigh, NC",
           "region": "USA East"
+        },
+        {
+          "amount": 150,
+          "city": "Blagoveshchensk, RU",
+          "region": "Russia East"
         },
         {
           "amount": 350,
@@ -873,6 +1183,17 @@
       ]
     },
     {
+      "name": "Pineapple",
+      "totalAmound": 350,
+      "regions": [
+        {
+          "amount": 350,
+          "city": "Tashkent, UZ",
+          "region": "Asia Central"
+        }
+      ]
+    },
+    {
       "name": "Pizza",
       "totalAmound": 1725,
       "regions": [
@@ -945,13 +1266,67 @@
       ]
     },
     {
+      "name": "Power Cable",
+      "totalAmound": 150,
+      "regions": [
+        {
+          "amount": 150,
+          "city": "Saransk, RU",
+          "region": "Russia West"
+        }
+      ]
+    },
+    {
+      "name": "Pumpkin",
+      "totalAmound": 150,
+      "regions": [
+        {
+          "amount": 150,
+          "city": "Ust-Kamenogorsk, KZ",
+          "region": "Asia Central"
+        }
+      ]
+    },
+    {
+      "name": "Russian Building Block",
+      "totalAmound": 200,
+      "regions": [
+        {
+          "amount": 50,
+          "city": "Aktau, KZ",
+          "region": "Asia Central"
+        },
+        {
+          "amount": 150,
+          "city": "Syktyvkar, RU",
+          "region": "Russia West"
+        }
+      ]
+    },
+    {
+      "name": "Russian Perfume",
+      "totalAmound": 150,
+      "regions": [
+        {
+          "amount": 150,
+          "city": "Arkhangelsk, RU",
+          "region": "Russia West"
+        }
+      ]
+    },
+    {
       "name": "Salmon",
-      "totalAmound": 1575,
+      "totalAmound": 1750,
       "regions": [
         {
           "amount": 25,
           "city": "Little Rock, AK",
           "region": "USA South"
+        },
+        {
+          "amount": 25,
+          "city": "Magadan, RU",
+          "region": "Russia East"
         },
         {
           "amount": 50,
@@ -962,6 +1337,11 @@
           "amount": 150,
           "city": "Saskatoon, SK",
           "region": "Canada Center"
+        },
+        {
+          "amount": 150,
+          "city": "Vladivostok, RU",
+          "region": "Russia East"
         },
         {
           "amount": 350,
@@ -976,13 +1356,29 @@
       ]
     },
     {
+      "name": "Samovar",
+      "totalAmound": 150,
+      "regions": [
+        {
+          "amount": 150,
+          "city": "Grozny, RU",
+          "region": "Russia West"
+        }
+      ]
+    },
+    {
       "name": "Sausage",
-      "totalAmound": 625,
+      "totalAmound": 650,
       "regions": [
         {
           "amount": 25,
           "city": "Ostrava, CZ",
           "region": "Europe East"
+        },
+        {
+          "amount": 25,
+          "city": "Mirny, RU",
+          "region": "Russia East"
         },
         {
           "amount": 50,
@@ -1007,8 +1403,19 @@
       ]
     },
     {
+      "name": "Shapka",
+      "totalAmound": 150,
+      "regions": [
+        {
+          "amount": 150,
+          "city": "Saratov, RU",
+          "region": "Russia West"
+        }
+      ]
+    },
+    {
       "name": "Sheep",
-      "totalAmound": 1575,
+      "totalAmound": 1925,
       "regions": [
         {
           "amount": 25,
@@ -1031,6 +1438,11 @@
           "region": "Europe West"
         },
         {
+          "amount": 350,
+          "city": "Omsk, RU",
+          "region": "Russia East"
+        },
+        {
           "amount": 1000,
           "city": "Oaxaca",
           "region": "Mexico"
@@ -1039,7 +1451,7 @@
     },
     {
       "name": "Steel",
-      "totalAmound": 1150,
+      "totalAmound": 1500,
       "regions": [
         {
           "amount": 150,
@@ -1063,6 +1475,11 @@
         },
         {
           "amount": 350,
+          "city": "Volgograd, RU",
+          "region": "Russia West"
+        },
+        {
+          "amount": 350,
           "city": "Mazatlan",
           "region": "Mexico"
         }
@@ -1070,7 +1487,7 @@
     },
     {
       "name": "Strawberry",
-      "totalAmound": 1775,
+      "totalAmound": 1925,
       "regions": [
         {
           "amount": 25,
@@ -1086,6 +1503,11 @@
           "amount": 25,
           "city": "Galway, IE",
           "region": "Europe West"
+        },
+        {
+          "amount": 150,
+          "city": "Samarkand, UZ",
+          "region": "Asia Central"
         },
         {
           "amount": 350,
@@ -1106,7 +1528,7 @@
     },
     {
       "name": "Tea",
-      "totalAmound": 1450,
+      "totalAmound": 1600,
       "regions": [
         {
           "amount": 25,
@@ -1124,6 +1546,11 @@
           "region": "Europe West"
         },
         {
+          "amount": 150,
+          "city": "Oryol Oblast, RU",
+          "region": "Russia West"
+        },
+        {
           "amount": 350,
           "city": "Amsterdam, NL",
           "region": "Europe West"
@@ -1137,7 +1564,7 @@
     },
     {
       "name": "Tomato",
-      "totalAmound": 1475,
+      "totalAmound": 1625,
       "regions": [
         {
           "amount": 25,
@@ -1155,6 +1582,11 @@
           "region": "Central America"
         },
         {
+          "amount": 150,
+          "city": "Penza, RU",
+          "region": "Russia West"
+        },
+        {
           "amount": 350,
           "city": "Saltillo",
           "region": "Mexico"
@@ -1168,7 +1600,7 @@
     },
     {
       "name": "Tulip",
-      "totalAmound": 1700,
+      "totalAmound": 1850,
       "regions": [
         {
           "amount": 50,
@@ -1186,6 +1618,11 @@
           "region": "Mexico"
         },
         {
+          "amount": 150,
+          "city": "Barnaul, RU",
+          "region": "Russia East"
+        },
+        {
           "amount": 350,
           "city": "Andorra, AD",
           "region": "Europe South"
@@ -1194,6 +1631,22 @@
           "amount": 1000,
           "city": "Paris, FR",
           "region": "Europe West"
+        }
+      ]
+    },
+    {
+      "name": "Uranium",
+      "totalAmound": 375,
+      "regions": [
+        {
+          "amount": 25,
+          "city": "Khatanga, RU",
+          "region": "Russia East"
+        },
+        {
+          "amount": 350,
+          "city": "Kazan, RU",
+          "region": "Russia West"
         }
       ]
     },
@@ -1229,8 +1682,35 @@
       ]
     },
     {
+      "name": "Valenki",
+      "totalAmound": 200,
+      "regions": [
+        {
+          "amount": 50,
+          "city": "Abakan, RU",
+          "region": "Russia East"
+        },
+        {
+          "amount": 150,
+          "city": "Murmansk, RU",
+          "region": "Russia West"
+        }
+      ]
+    },
+    {
+      "name": "Watch",
+      "totalAmound": 350,
+      "regions": [
+        {
+          "amount": 350,
+          "city": "Chelyabinsk",
+          "region": "Russia West"
+        }
+      ]
+    },
+    {
       "name": "Water",
-      "totalAmound": 1400,
+      "totalAmound": 1550,
       "regions": [
         {
           "amount": 50,
@@ -1253,6 +1733,11 @@
           "region": "Caribbean"
         },
         {
+          "amount": 150,
+          "city": "Aktobe, KZ",
+          "region": "Asia Central"
+        },
+        {
           "amount": 1000,
           "city": "Las Vegas, NV",
           "region": "USA West"
@@ -1260,13 +1745,29 @@
       ]
     },
     {
+      "name": "Watermelon",
+      "totalAmound": 150,
+      "regions": [
+        {
+          "amount": 150,
+          "city": "Astana, KZ",
+          "region": "Asia Central"
+        }
+      ]
+    },
+    {
       "name": "Wheat",
-      "totalAmound": 325,
+      "totalAmound": 1650,
       "regions": [
         {
           "amount": 25,
           "city": "Edmundston, NB",
           "region": "Canada East"
+        },
+        {
+          "amount": 25,
+          "city": "Batagay, RU",
+          "region": "Russia East"
         },
         {
           "amount": 50,
@@ -1287,12 +1788,27 @@
           "amount": 150,
           "city": "Indianapolis, IN",
           "region": "USA Center"
+        },
+        {
+          "amount": 150,
+          "city": "Osh, KG",
+          "region": "Asia Central"
+        },
+        {
+          "amount": 150,
+          "city": "Petrotavodsk, RU",
+          "region": "Russia West"
+        },
+        {
+          "amount": 1000,
+          "city": "Moscow, RU",
+          "region": "Russia West"
         }
       ]
     },
     {
       "name": "Wood",
-      "totalAmound": 400,
+      "totalAmound": 650,
       "regions": [
         {
           "amount": 25,
@@ -1305,9 +1821,24 @@
           "region": "USA South"
         },
         {
+          "amount": 25,
+          "city": "Nyagan, RU",
+          "region": "Russia East"
+        },
+        {
+          "amount": 25,
+          "city": "Zhezqazghan, KZ",
+          "region": "Asia Central"
+        },
+        {
           "amount": 50,
           "city": "Montgomery, AL",
           "region": "USA South"
+        },
+        {
+          "amount": 50,
+          "city": "Maykop, RU",
+          "region": "Russia West"
         },
         {
           "amount": 150,
@@ -1318,6 +1849,22 @@
           "amount": 150,
           "city": "St. Louis, MO",
           "region": "USA Center"
+        },
+        {
+          "amount": 150,
+          "city": "Yakutsk, RU",
+          "region": "Russia East"
+        }
+      ]
+    },
+    {
+      "name": "Zhostovo Tray",
+      "totalAmound": 150,
+      "regions": [
+        {
+          "amount": 150,
+          "city": "Yaroslavl, RU",
+          "region": "Russia West"
         }
       ]
     }

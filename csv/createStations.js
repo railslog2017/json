@@ -11,6 +11,14 @@ let result = {
   "info": "stations",
   "content" : [
     /*
+    New
+    {
+      "city": "Albany, NY",
+      "resourceDemanded": "Lemon",
+      "amountDemanded": 50,
+      "region": "USA East"
+    },
+    Old
     {
       "city": "Albany",
       "state": "NY",
@@ -36,19 +44,19 @@ csv()
 
   let tempStation = {
     city: row['City'] + ( row['State'] ? ', ' + row['State'] : '') ,
-    passengers: parseInt(row['Passengers']),
-    upgradeCosts: row['Upgrade Costs'],
     resourceDemanded: row['Resource Demanded'],
     amountDemanded: parseInt(row['Amount Demanded']),
-    connectsTo: row['Connects To'],
-    region: row['Region'],
-    // 추가
-    currentAmountDemanded: 0,
-    currentResourceDemanded: false,
-    currentLevel: 0,
-    //
-    latitude: parseFloat(row['latitude']),
-    longitude: parseFloat(row['longitude'])
+    region: row['Region']
+
+    // Old
+    // connectsTo: row['Connects To'],
+    // passengers: parseInt(row['Passengers']),
+    // upgradeCosts: row['Upgrade Costs'],
+    // currentAmountDemanded: 0,
+    // currentResourceDemanded: false,
+    // currentLevel: 0,
+    // latitude: parseFloat(row['latitude']),
+    // longitude: parseFloat(row['longitude'])
   };
 
   stations.push(tempStation);

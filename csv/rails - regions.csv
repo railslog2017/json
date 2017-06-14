@@ -3,13 +3,16 @@ USA East,21,11041,"Honey, Paper, Pizza, Salmon, Steel, Strawberry, Wood, Onion",
 USA South,19,15353,"BBQ Rib, Corn, Lemon, Oil, Orange, Pig, Strawberry",North America
 USA Center,15,13999,"Apple, Carrot, Corn, Cow, Firework, Iron, Wheat",North America
 USA West,15,14580,"Chicken, Copper, Honey, Iron, Lemon, Micro Processor, Orange",North America
-Canada West,12,16927,"Chicken, Copper, Paper, Parka, Oil, Water, Wood",North America
-Canada Center,5,6666,"Apple, Carrot, Corn, Cow, Hockey Stick, Honey, Wheat",North America
+Canada West,12,16927,"Asparagus, Chicken, Copper, Paper, Parka, Oil, Water, Wood",North America
+Canada Center,5,6666,"Apple, Carrot, Corn, Cow, Hockey Stick, Honey, Pumpkin, Wheat",North America
 Canada East,11,13466,"Chicken, Cow, Pig, Poutine, Salmon, Steel, Water",North America
-Europe West,15,12696,"Bonbon, Meatball, Lemon, Sausage, Sheep, Tea",Europe
+Europe West,15,12696,"Bonbon, Meatball, Lemon, Sausage, Sheep, Tea, Watermelon",Europe
 Europe South,18,19963,"Bonbon, Casino Chip, Holy Water, Lemon, Pasta, Tulip",Europe
 Europe East,10,9630,"Holy Water, Sheep, Candle, Sausage, Carrot, Meatball, Onion",Europe
 Europe North,11,15657,"Bonbon, Utility Knife, Water, Meatball, Sausage, Tulip",Europe
-Mexico,34,25043,"Banana, Chicken, Coffee Bean, Corn, Sheep, Tomato",Latin America
-Caribbean,14,7376,"Candle, Pig, Orange, Banana ",Latin America
-Central America,13,7613,"Coffee Beans, Banana, Copper, Peanut, Pig ",Latin America
+Mexico,34,25043,"Banana, Chicken, Coffee Bean, Corn, Grapes, Pineapple, Sheep, Tomato",Latin America
+Caribbean,14,7376,"Candle, Peanut, Pig, Orange, Banana ",Latin America
+Central America,13,7613,"Cauliflower, Coffee Beans, Banana, Copper, Peanut, Pig ",Latin America
+Russia West,32,49585,"Aluminium, Gzhel, Hockey Stick, Replica Faberge Egg, Samovar, Shapka, Valenki, Watch, Coal",Russia
+Russia East,30,118039,"Chunk of Amber, Gasoline Tank, Russian Building Block, Cooking Oil, Chlorine, Lacquer Box, Parka, Copper Cable, Uranium",Russia
+Asia Center,17,34502,"Zhostovo Tray, Diesel Fuel, Cotton, Power Cable, Matryoshka Doll, Russian Perfume",Russia

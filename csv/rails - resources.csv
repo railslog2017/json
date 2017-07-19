@@ -1,6 +1,7 @@
 Name,Amount Needed,City,Region
 Aluminium,25,"Ust-Nero, RU",Russia East
 Aluminium,25,Total Amount,
+Apple,25,"Murun, MN",Asia North
 Apple,25,"Whitehorse, YT",Canada West
 Apple,25,"Yorkton, SK",Canada Center
 Apple,25,"Santa Ana, CR",Central America
@@ -9,9 +10,11 @@ Apple,50,"Olympia, WA",USA West
 Apple,50,"Topeka, KS",USA South
 Apple,150,"Sochi, RU",Russia West
 Apple,350,"Morelia, MX",Mexico
-Apple,700,Total Amount,
+Apple,725,Total Amount,
 Asparagus,150,"Novokuznetsk, RU",Russia East
 Asparagus,150,Total Amount,
+Bamboo,350,"Bayingol, CN",Asia North
+Bamboo,350,Total Amount,
 Banana,25,"San Salvador, SV",Central America
 Banana,50,Guadalajara,Mexico
 Banana,50,Los Mochis,Mexico
@@ -22,8 +25,9 @@ BBQ Rib,50,"Columbia, SC",USA South
 BBQ Rib,150,"Kingston, ON",Canada East
 BBQ Rib,350,Tepic,Mexico
 BBQ Rib,350,"San Juan, PR",Caribbean
+BBQ Rib,350,"Guilin, CN",Asia North
 BBQ Rib,"1,000","New York, NY",USA East
-BBQ Rib,"1,900",Total Amount,
+BBQ Rib,"2,250",Total Amount,
 Bonbon,25,"Kiev, UA",Europe North
 Bonbon,150,"Valleta, MT",Europe South
 Bonbon,150,"Vienna, AT",Europe East
@@ -42,7 +46,8 @@ Carrot,50,"Belfast, UK",Europe West
 Carrot,150,Xalapa,Mexico
 Carrot,350,"Voronezh, RU",Russia West
 Carrot,350,"Chicago, IL",USA Center
-Carrot,"1,000",Total Amount,
+Carrot,"1,000","Osaka, JP",Asia East
+Carrot,"2,000",Total Amount,
 Casino Chip,25,"Skopje, MK",Europe South
 Casino Chip,50,"Bilbao, ES",Europe South
 Casino Chip,150,"Tegucigalpa, HN",Central America
@@ -50,31 +55,43 @@ Casino Chip,350,"Madrid, ES",Europe South
 Casino Chip,"1,000","Monaco, FR",Europe South
 Casino Chip,"1,575",Total Amount,
 Cauliflower,150,"Sakhalin, RU",Russia East
-Cauliflower,150,Total Amount,
+Cauliflower,"1,000","Shenzhen, CN",Asia North
+Cauliflower,"1,150",Total Amount,
 Chicken,50,"Fredericton, NB",Canada East
 Chicken,50,"Elista, RU",Russia West
 Chicken,50,"Yuzhno-Sakhalinsk, RU",Russia East
 Chicken,150,"Denver, CO",USA West
 Chicken,150,"Oklahoma City, OK",USA South
 Chicken,150,"Brussels, BE",Europe West
+Chicken,350,"Kowloon, HK",Asia North
+Chicken,"1,000","Hangzhou, CN",Asia North
 Chicken,"1,000","Philadelphia, PA",USA East
 Chicken,"1,000",Monterrey,Mexico
-Chicken,"2,600",Total Amount,
+Chicken,"3,950",Total Amount,
+Chinese Spring Water,"1,000","Tokyo, JP",Asia East
+Chinese Spring Water,"1,000",Total Amount,
 Chlorine,150,"Ulan-Ude, RU",Russia East
 Chlorine,150,Total Amount,
+Chopsticks,350,"Busan, SK",Asia East
+Chopsticks,350,"Pyongyang, NK",Asia East
+Chopsticks,"1,000","Chongqing, CN",Asia North
+Chopsticks,"1,700",Total Amount,
 Chunk of Amber ,50,"Cherkessk, RU",Russia West
 Chunk of Amber ,50,Total Amount,
-Coal,50,"Zyryanka, RU",Russia East
+Coal,25,"Zyryanka, RU",Russia East
 Coal,150,"Nukus, UZ",Asia Central
 Coal,150,"Kamchatka Krai, RU",Russia East
-Coal,350,Total Amount,
+Coal,"1,000","Shijiazhuang, CN",Asia North
+Coal,"1,325",Total Amount,
 Coffee Beans,25,"Belmopan, BZ",Central America
 Coffee Beans,150,Villahermosa,Mexico
 Coffee Beans,150,"Pavlodar, KZ",Asia Central
 Coffee Beans,350,Merida,Mexico
+Coffee Beans,350,"Changchun, CN",Asia North
+Coffee Beans,350,"Fukuoka, JP",Asia East
 Coffee Beans,"1,000",Mexico City,Mexico
 Coffee Beans,"1,000",Tijuana,Mexico
-Coffee Beans,"2,675",Total Amount,
+Coffee Beans,"3,375",Total Amount,
 Cooking Oil,350,"Rostov-on-Don, RU",Russia West
 Cooking Oil,"1,000","Saint Petersburg, RU",Russia West
 Cooking Oil,"1,350",Total Amount,
@@ -94,10 +111,12 @@ Corn,50,"Hazelton, BC",Canada West
 Corn,50,"Atyrau, KZ",Asia Central
 Corn,350,"Krasnoyarsk Krai, RU",Russia East
 Corn,350,"Detroit, MI",USA East
+Corn,350,"Hulun Buir, CN",Asia North
 Corn,"1,000","New Orleans, LA",USA South
-Corn,"1,850",Total Amount,
+Corn,"2,200",Total Amount,
 Cotton,350,"Ashgabat, TM",Asia Central
-Cotton,350,Total Amount,
+Cotton,350,"Zhengzhou, CN",Asia North
+Cotton,700,Total Amount,
 Cow,25,"Kennewick, WA",USA West
 Cow,25,"Egvekinot, RU",Russia East
 Cow,150,"Pittsburgh, PA",USA East
@@ -105,10 +124,15 @@ Cow,150,"Budapest, HU",Europe East
 Cow,150,Monclova,Mexico
 Cow,350,"Nashville, TN",USA South
 Cow,850,Total Amount,
+Daikon,350,"Nanjing, CN",Asia North
+Daikon,350,Total Amount,
 Diesel Fuel,50,"Novy Urengoy, RU",Russia East
 Diesel Fuel,150,"Bishkek, KG",Asia Central
+Diesel Fuel,350,"Taichung City, TW",Asia North
 Diesel Fuel,350,"Ufa, RU",Russia West
-Diesel Fuel,550,Total Amount,
+Diesel Fuel,900,Total Amount,
+Egg,150,"Lhasa, CN",Asia North
+Egg,150,Total Amount,
 Firework,25,"The Pas, MB",Canada Center
 Firework,150,"Atlanta, GA",USA South
 Firework,350,"Calgary, AB",Canada West
@@ -117,9 +141,12 @@ Firework,"1,000","Montreal, QC",Canada East
 Firework,"1,875",Total Amount,
 Gasoline Tank,150,"Shymkent, KZ",Asia Central
 Gasoline Tank,150,"Nizhnevartovsk, RU",Russia East
-Gasoline Tank,300,Total Amount,
+Gasoline Tank,350,"Okinawa, JP",Asia East
+Gasoline Tank,650,Total Amount,
 Grape,25,"Neryungri, RU",Russia East
 Grape,25,Total Amount,
+Green Tea,"1,000","Shanghai, CN",Asia North
+Green Tea,"1,000",Total Amount,
 Gzhel,150,"Vladimir, RU",Russia West
 Gzhel,150,Total Amount,
 Hockey Stick,25,"Galesburg, IL",USA Center
@@ -142,7 +169,12 @@ Honey,25,"Riga, LV",Europe North
 Honey,25,"Santo Domingo, CD",Caribbean
 Honey,150,"Cheboksary, RU",Russia West
 Honey,150,"Izhevsk, RU",Russia West
-Honey,425,Total Amount,
+Honey,350,"Foshan, CN",Asia North
+Honey,775,Total Amount,
+Incense,"1,000","Chengdu, CN",Asia North
+Incense,"1,000",Total Amount,
+Instant Ramen,"1,000","Tianjin, CN",Asia North
+Instant Ramen,"1,000",Total Amount,
 Iron,25,"Fort Simpson, NT",Canada West
 Iron,50,"Pierre, SD",USA Center
 Iron,50,"Santa Fe, NM",USA West
@@ -150,6 +182,17 @@ Iron,350,"Yekaterinburg, RU",Russia West
 Iron,350,"Albuquerque, NM",USA West
 Iron,350,Culiacan,Mexico
 Iron,"1,175",Total Amount,
+Jade,350,"Changsha, CN",Asia North
+Jade,350,Total Amount,
+Japanese Spring Water,50,"Choibalsan, MN",Asia North
+Japanese Spring Water,50,Total Amount,
+Kendama,150,"Altay, CN",Asia North
+Kendama,150,Total Amount,
+Kimono,"1,000","Beijing, CN",Asia North
+Kimono,"1,000",Total Amount,
+Korean Spring Water,150,"Tianjun, CN",Asia North
+Korean Spring Water,350,"Sendai, JP",Asia East
+Korean Spring Water,500,Total Amount,
 Lacquer Box,150,"Makhachkala, RU",Russia West
 Lacquer Box,150,Total Amount,
 Lemon,50,"Albany, NY",USA East
@@ -159,6 +202,8 @@ Lemon,150,"Baltimore, MD",USA East
 Lemon,350,"Phoenix, AZ",USA West
 Lemon,"1,000","Tyumen, RU",Russia East
 Lemon,"1,650",Total Amount,
+Lotus Flower,"1,000","Harbin, CN",Asia North
+Lotus Flower,"1,000",Total Amount,
 Matryoshka Doll,150,"Veliky Novgorod, RU",Russia West
 Matryoshka Doll,150,Total Amount,
 Meatball,50,"Timisoara, RO",Europe East
@@ -172,9 +217,12 @@ Micro Processor,150,Colina,Mexico
 Micro Processor,350,"Nishny Novgorod, RU",Russia West
 Micro Processor,350,"Vancouver, BC",Canada West
 Micro Processor,350,"Novosibirsk, RU",Russia East
+Micro Processor,350,"Sapporo, JP",Asia East
 Micro Processor,"1,000","San Francisco, CA",USA West
 Micro Processor,"1,000","Toronto, ON",Canada West
-Micro Processor,"3,300",Total Amount,
+Micro Processor,"3,650",Total Amount,
+Mini Lantern,350,"Taipei, TW",Asia North
+Mini Lantern,350,Total Amount,
 Oil,25,"Richmond, VA",USA East
 Oil,50,"Helena, MT",USA Center
 Oil,50,"Providence, RI",USA East
@@ -197,7 +245,10 @@ Orange,50,"Petropavlovsk-Kamchatsky, RU",Russia East
 Orange,150,"Sacramento, CA",USA West
 Orange,350,"Washington, DC",USA East
 Orange,350,"Uralsk, KZ",Asia Central
-Orange,"1,000",Total Amount,
+Orange,350,"Xiamen, CN",Asia North
+Orange,"1,350",Total Amount,
+Origami,150,"Kaxgar, CN",Asia North
+Origami,150,Total Amount,
 Paper,50,"Madison, WI",USA Center
 Paper,50,"Tallahassee, FL",USA South
 Paper,150,"Raleigh, NC",USA East
@@ -220,6 +271,12 @@ Peanut,25,San Luis Potosi,Mexico
 Peanut,350,La Paz,Mexico
 Peanut,"1,000",The Bahamas,Caribbean
 Peanut,"1,400",Total Amount,
+Pear,"1,000","Gunagzhou, CN",Asia North
+Pear,"1,000",Total Amount,
+Pearl,350,"Yantai, CN",Asia North
+Pearl,350,Total Amount,
+Persimmon,350,"Qingdao, CN",Asia North
+Persimmon,350,Total Amount,
 Pig,25,"Augusta, ME",USA East
 Pig,50,"Trenton, NJ",USA East
 Pig,150,"Regina, SK",Canada Center
@@ -235,6 +292,9 @@ Pizza,150,"Winnipeg, MB",Canada Center
 Pizza,350,"Austin, TX",USA South
 Pizza,"1,000","Los Angeles, CA",USA West
 Pizza,"1,725",Total Amount,
+Pocket Game,150,"Kumul, CN",Asia North
+Pocket Game,350,"Kyoto, JP",Asia East
+Pocket Game,500,Total Amount,
 Poutine,50,"Kamloops, BC",Canada West
 Poutine,50,"Punta Cana, CD",Caribbean
 Poutine,150,"Portland, OR",USA West
@@ -245,7 +305,15 @@ Poutine,"2,400",Total Amount,
 Power Cable,150,"Saransk, RU",Russia West
 Power Cable,150,Total Amount,
 Pumpkin,150,"Ust-Kamenogorsk, KZ",Asia Central
-Pumpkin,150,Total Amount,
+Pumpkin,"1,000","Wuhan, CN",Asia North
+Pumpkin,"1,150",Total Amount,
+Qipao,350,"Nanning, CN",Asia North
+Qipao,350,Total Amount,
+Replica Shuriken,350,"Hiroshima, JP",Asia East
+Replica Shuriken,350,Total Amount,
+Rice,350,"Nagoya, JP",Asia East
+Rice,350,"Xilingol, CN",Asia North
+Rice,700,Total Amount,
 Russian Building Block,50,"Aktau, KZ",Asia Central
 Russian Building Block,150,"Syktyvkar, RU",Russia West
 Russian Building Block,200,Total Amount,
@@ -267,7 +335,8 @@ Sausage,50,"Lisbon, PT",Europe South
 Sausage,50,"La Ceiba, HN",Central America
 Sausage,150,"Nantes, FR",Europe West
 Sausage,350,"Dublin, IE",Europe West
-Sausage,650,Total Amount,
+Sausage,"1,000","Xi'an, CN",Asia North
+Sausage,"1,650",Total Amount,
 Shapka,150,"Saratov, RU",Russia West
 Shapka,150,Total Amount,
 Sheep,25,"Sofia, BG",Europe East
@@ -277,6 +346,12 @@ Sheep,350,"Bern, CH",Europe West
 Sheep,350,"Omsk, RU",Russia East
 Sheep,"1,000",Oaxaca,Mexico
 Sheep,"1,925",Total Amount,
+Silk,150,"Macau, CN",Asia North
+Silk,150,Total Amount,
+Soy Bean,350,"Bayan Nur, CN",Asia North
+Soy Bean,350,Total Amount,
+Soy Sauce,50,"Bayankhongor, MN",Asia North
+Soy Sauce,50,Total Amount,
 Steel,150,"Baton Rouge, LA",USA South
 Steel,150,"Charlottetown, PE",Canada East
 Steel,150,"Havana, CU",Caribbean
@@ -290,29 +365,33 @@ Strawberry,25,"Galway, IE",Europe West
 Strawberry,150,"Samarkand, UZ",Asia Central
 Strawberry,350,"Boston, MA",USA East
 Strawberry,350,"Santa Clara, CU",Caribbean
+Strawberry,350,"Ulanqab, CN",Asia North
 Strawberry,"1,000","Milano, IT",Europe South
-Strawberry,"1,925",Total Amount,
+Strawberry,"2,275",Total Amount,
 Tea,25,"Vaduz, LT",Europe West
 Tea,25,"San Pedro Sula, HN",Central America
 Tea,50,"Southhampton, UK",Europe West
 Tea,150,"Oryol Oblast, RU",Russia West
 Tea,350,"Amsterdam, NL",Europe West
+Tea,350,"Shenyang, CN",Asia North
 Tea,"1,000","London, UK",Europe West
-Tea,"1,600",Total Amount,
+Tea,"1,950",Total Amount,
 Tomato,25,"Bluefields, NI",Central America
 Tomato,50,"Camaguey, CU",Caribbean
 Tomato,50,"Puerto Canezas, NI",Central America
 Tomato,150,"Penza, RU",Russia West
 Tomato,350,Saltillo,Mexico
+Tomato,350,"Okayama, JP",Asia East
 Tomato,"1,000","San Jose, CR",Central America
-Tomato,"1,625",Total Amount,
+Tomato,"1,975",Total Amount,
 Tulip,50,"Sarajevo, HB",Europe South
 Tulip,150,"Warsaw, PL",Europe North
 Tulip,150,Cabo San Lucas,Mexico
 Tulip,150,"Barnaul, RU",Russia East
 Tulip,350,"Andorra, AD",Europe South
+Tulip,350,"Seoul, SK",Asia East
 Tulip,"1,000","Paris, FR",Europe West
-Tulip,"1,850",Total Amount,
+Tulip,"2,200",Total Amount,
 Uranium,25,"Khatanga, RU",Russia East
 Uranium,350,"Kazan, RU",Russia West
 Uranium,375,Total Amount,
@@ -325,6 +404,8 @@ Utility Knife,600,Total Amount,
 Valenki,50,"Abakan, RU",Russia East
 Valenki,150,"Murmansk, RU",Russia West
 Valenki,200,Total Amount,
+Wasabi,350,"Ulaanbaatar, MN",Asia North
+Wasabi,350,Total Amount,
 Watch,350,Chelyabinsk,Russia West
 Watch,350,Total Amount,
 Water,50,"Fort McMurray, AB",Canada West
@@ -332,8 +413,11 @@ Water,50,"Bucharest, RO",Europe East
 Water,150,"San Marino, IT",Europe South
 Water,150,"Santiago de Cuba, CU",Caribbean
 Water,150,"Aktobe, KZ",Asia Central
+Water,350,"Kunming, CN",Asia North
 Water,"1,000","Las Vegas, NV",USA West
-Water,"1,550",Total Amount,
+Water,"1,900",Total Amount,
+Water Chestnut,350,"Jinan, CN",Asia North
+Water Chestnut,350,Total Amount,
 Watermelon,150,"Astana, KZ",Asia Central
 Watermelon,150,Total Amount,
 Wheat,25,"Edmundston, NB",Canada East
@@ -350,11 +434,12 @@ Wood,25,"Concord, NH",USA East
 Wood,25,"Frankfort, KY",USA South
 Wood,25,"Nyagan, RU",Russia East
 Wood,25,"Zhezqazghan, KZ",Asia Central
+Wood,50,"Khovd, MN",Asia North
 Wood,50,"Montgomery, AL",USA South
 Wood,50,"Maykop, RU",Russia West
 Wood,150,"Port-de-Paix, HT",Caribbean
 Wood,150,"St. Louis, MO",USA Center
 Wood,150,"Yakutsk, RU",Russia East
-Wood,650,Total Amount,
+Wood,700,Total Amount,
 Zhostovo Tray,150,"Yaroslavl, RU",Russia West
 Zhostovo Tray,150,Total Amount,

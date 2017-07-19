@@ -1,6 +1,6 @@
 {
   "game": "tiny rails",
-  "update": "2017-06-14",
+  "update": "2017-07-19",
   "version": "0.1.0",
   "info": "regions",
   "content": [
@@ -122,6 +122,20 @@
       "stations": 17,
       "totalDistance": 34502,
       "resourcesSold": "Zhostovo Tray, Diesel Fuel, Cotton, Power Cable, Matryoshka Doll, Russian Perfume"
+    },
+    {
+      "continent": "Asia",
+      "name": "Asia East",
+      "stations": 13,
+      "totalDistance": 13786,
+      "resourcesSold": "Chinese Spring Water, Daikon, Jade, Japanese Spring Water, Korean Spring Water, Lotus Flower, Mini Lantern, Pearl, Persimmon, Qipao, Replica Shuriken, Rice, Silk, Soy Bean, Soy Sauce, Wasabi, Water Chestnut"
+    },
+    {
+      "continent": "Asia",
+      "name": "Asia North",
+      "stations": 44,
+      "totalDistance": 96744,
+      "resourcesSold": "Bamboo, Chopsticks, Egg, Green Tea, Hand Fan, Incense, Instant Ramen, Kendama, Kimono, Origami, Pear, Pocket Game, Replica Sword"
     }
   ]
 }

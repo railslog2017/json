@@ -1,6 +1,6 @@
 {
   "game": "tiny rails",
-  "update": "2017-06-14",
+  "update": "2017-07-19",
   "version": "0.1.0",
   "info": "stations",
   "content": [
@@ -1743,6 +1743,348 @@
       "resourceDemanded": "Wood",
       "amountDemanded": 25,
       "region": "Asia Center"
+    },
+    {
+      "city": "Sapporo, JP",
+      "resourceDemanded": "Micro Processor",
+      "amountDemanded": 350,
+      "region": "Asia East"
+    },
+    {
+      "city": "Sendai, JP",
+      "resourceDemanded": "Korean Spring Water",
+      "amountDemanded": 350,
+      "region": "Asia East"
+    },
+    {
+      "city": "Tokyo, JP",
+      "resourceDemanded": "Chinese Spring Water",
+      "amountDemanded": 1000,
+      "region": "Asia East"
+    },
+    {
+      "city": "Nagoya, JP",
+      "resourceDemanded": "Rice",
+      "amountDemanded": 350,
+      "region": "Asia East"
+    },
+    {
+      "city": "Kyoto, JP",
+      "resourceDemanded": "Pocket Game",
+      "amountDemanded": 350,
+      "region": "Asia East"
+    },
+    {
+      "city": "Osaka, JP",
+      "resourceDemanded": "Carrot",
+      "amountDemanded": 1000,
+      "region": "Asia East"
+    },
+    {
+      "city": "Okayama, JP",
+      "resourceDemanded": "Tomato",
+      "amountDemanded": 350,
+      "region": "Asia East"
+    },
+    {
+      "city": "Hiroshima, JP",
+      "resourceDemanded": "Replica Shuriken",
+      "amountDemanded": 350,
+      "region": "Asia East"
+    },
+    {
+      "city": "Fukuoka, JP",
+      "resourceDemanded": "Coffee Beans",
+      "amountDemanded": 350,
+      "region": "Asia East"
+    },
+    {
+      "city": "Okinawa, JP",
+      "resourceDemanded": "Gasoline Tank",
+      "amountDemanded": 350,
+      "region": "Asia East"
+    },
+    {
+      "city": "Busan, SK",
+      "resourceDemanded": "Chopsticks",
+      "amountDemanded": 350,
+      "region": "Asia East"
+    },
+    {
+      "city": "Seoul, SK",
+      "resourceDemanded": "Tulip",
+      "amountDemanded": 350,
+      "region": "Asia East"
+    },
+    {
+      "city": "Pyongyang, NK",
+      "resourceDemanded": "Chopsticks",
+      "amountDemanded": 350,
+      "region": "Asia East"
+    },
+    {
+      "city": "Yantai, CN",
+      "resourceDemanded": "Pearl",
+      "amountDemanded": 350,
+      "region": "Asia North"
+    },
+    {
+      "city": "Qingdao, CN",
+      "resourceDemanded": "Persimmon",
+      "amountDemanded": 350,
+      "region": "Asia North"
+    },
+    {
+      "city": "Jinan, CN",
+      "resourceDemanded": "Water Chestnut",
+      "amountDemanded": 350,
+      "region": "Asia North"
+    },
+    {
+      "city": "Zhengzhou, CN",
+      "resourceDemanded": "Cotton",
+      "amountDemanded": 350,
+      "region": "Asia North"
+    },
+    {
+      "city": "Shijiazhuang, CN",
+      "resourceDemanded": "Coal",
+      "amountDemanded": 1000,
+      "region": "Asia North"
+    },
+    {
+      "city": "Tianjin, CN",
+      "resourceDemanded": "Instant Ramen",
+      "amountDemanded": 1000,
+      "region": "Asia North"
+    },
+    {
+      "city": "Beijing, CN",
+      "resourceDemanded": "Kimono",
+      "amountDemanded": 1000,
+      "region": "Asia North"
+    },
+    {
+      "city": "Shenyang, CN",
+      "resourceDemanded": "Tea",
+      "amountDemanded": 350,
+      "region": "Asia North"
+    },
+    {
+      "city": "Changchun, CN",
+      "resourceDemanded": "Coffee Beans",
+      "amountDemanded": 350,
+      "region": "Asia North"
+    },
+    {
+      "city": "Harbin, CN",
+      "resourceDemanded": "Lotus Flower",
+      "amountDemanded": 1000,
+      "region": "Asia North"
+    },
+    {
+      "city": "Hulun Buir, CN",
+      "resourceDemanded": "Corn",
+      "amountDemanded": 350,
+      "region": "Asia North"
+    },
+    {
+      "city": "Choibalsan, MN",
+      "resourceDemanded": "Japanese Spring Water",
+      "amountDemanded": 50,
+      "region": "Asia North"
+    },
+    {
+      "city": "Xilingol, CN",
+      "resourceDemanded": "Rice",
+      "amountDemanded": 350,
+      "region": "Asia North"
+    },
+    {
+      "city": "Ulaanbaatar, MN",
+      "resourceDemanded": "Wasabi",
+      "amountDemanded": 350,
+      "region": "Asia North"
+    },
+    {
+      "city": "Murun, MN",
+      "resourceDemanded": "Apple",
+      "amountDemanded": 25,
+      "region": "Asia North"
+    },
+    {
+      "city": "Khovd, MN",
+      "resourceDemanded": "Wood",
+      "amountDemanded": 50,
+      "region": "Asia North"
+    },
+    {
+      "city": "Altay, CN",
+      "resourceDemanded": "Kendama",
+      "amountDemanded": 150,
+      "region": "Asia North"
+    },
+    {
+      "city": "Ulanqab, CN",
+      "resourceDemanded": "Strawberry",
+      "amountDemanded": 350,
+      "region": "Asia North"
+    },
+    {
+      "city": "Bayan Nur, CN",
+      "resourceDemanded": "Soy Bean",
+      "amountDemanded": 350,
+      "region": "Asia North"
+    },
+    {
+      "city": "Bayankhongor, MN",
+      "resourceDemanded": "Soy Sauce",
+      "amountDemanded": 50,
+      "region": "Asia North"
+    },
+    {
+      "city": "Kumul, CN",
+      "resourceDemanded": "Pocket Game",
+      "amountDemanded": 150,
+      "region": "Asia North"
+    },
+    {
+      "city": "Bayingol, CN",
+      "resourceDemanded": "Bamboo",
+      "amountDemanded": 350,
+      "region": "Asia North"
+    },
+    {
+      "city": "Kaxgar, CN",
+      "resourceDemanded": "Origami",
+      "amountDemanded": 150,
+      "region": "Asia North"
+    },
+    {
+      "city": "Lhasa, CN",
+      "resourceDemanded": "Egg",
+      "amountDemanded": 150,
+      "region": "Asia North"
+    },
+    {
+      "city": "Tianjun, CN",
+      "resourceDemanded": "Korean Spring Water",
+      "amountDemanded": 150,
+      "region": "Asia North"
+    },
+    {
+      "city": "Xi'an, CN",
+      "resourceDemanded": "Sausage",
+      "amountDemanded": 1000,
+      "region": "Asia North"
+    },
+    {
+      "city": "Chengdu, CN",
+      "resourceDemanded": "Incense",
+      "amountDemanded": 1000,
+      "region": "Asia North"
+    },
+    {
+      "city": "Kunming, CN",
+      "resourceDemanded": "Water",
+      "amountDemanded": 350,
+      "region": "Asia North"
+    },
+    {
+      "city": "Nanning, CN",
+      "resourceDemanded": "Qipao",
+      "amountDemanded": 350,
+      "region": "Asia North"
+    },
+    {
+      "city": "Foshan, CN",
+      "resourceDemanded": "Honey",
+      "amountDemanded": 350,
+      "region": "Asia North"
+    },
+    {
+      "city": "Macau, CN",
+      "resourceDemanded": "Silk",
+      "amountDemanded": 150,
+      "region": "Asia North"
+    },
+    {
+      "city": "Kowloon, HK",
+      "resourceDemanded": "Chicken",
+      "amountDemanded": 350,
+      "region": "Asia North"
+    },
+    {
+      "city": "Shenzhen, CN",
+      "resourceDemanded": "Cauliflower",
+      "amountDemanded": 1000,
+      "region": "Asia North"
+    },
+    {
+      "city": "Guangzhou, CN",
+      "resourceDemanded": "Pear",
+      "amountDemanded": 1000,
+      "region": "Asia North"
+    },
+    {
+      "city": "Guilin, CN",
+      "resourceDemanded": "BBQ Ribs",
+      "amountDemanded": 350,
+      "region": "Asia North"
+    },
+    {
+      "city": "Chongqing, CN",
+      "resourceDemanded": "Chopsticks",
+      "amountDemanded": 1000,
+      "region": "Asia North"
+    },
+    {
+      "city": "Changsha, CN",
+      "resourceDemanded": "Jade",
+      "amountDemanded": 350,
+      "region": "Asia North"
+    },
+    {
+      "city": "Xiamen, CN",
+      "resourceDemanded": "Orange",
+      "amountDemanded": 350,
+      "region": "Asia North"
+    },
+    {
+      "city": "Taipei, TW",
+      "resourceDemanded": "Mini Lantern",
+      "amountDemanded": 350,
+      "region": "Asia North"
+    },
+    {
+      "city": "Taichung City, TW",
+      "resourceDemanded": "Diesel Fuel",
+      "amountDemanded": 350,
+      "region": "Asia North"
+    },
+    {
+      "city": "Hangzhou, CN",
+      "resourceDemanded": "Chicken",
+      "amountDemanded": 1000,
+      "region": "Asia North"
+    },
+    {
+      "city": "Shanghai, CN",
+      "resourceDemanded": "Green Tea",
+      "amountDemanded": 1000,
+      "region": "Asia North"
+    },
+    {
+      "city": "Nanjing, CN",
+      "resourceDemanded": "Daikon",
+      "amountDemanded": 350,
+      "region": "Asia North"
+    },
+    {
+      "city": "Wuhan, CN",
+      "resourceDemanded": "Pumpkin",
+      "amountDemanded": 1000,
+      "region": "Asia North"
     }
   ]
 }

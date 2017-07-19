@@ -1,6 +1,6 @@
 {
   "game": "tiny rails",
-  "update": "2017-06-14",
+  "update": "2017-07-19",
   "version": "0.1.0",
   "info": "resources needed",
   "content": [
@@ -17,8 +17,13 @@
     },
     {
       "name": "Apple",
-      "totalAmound": 700,
+      "totalAmound": 725,
       "regions": [
+        {
+          "amount": 25,
+          "city": "Murun, MN",
+          "region": "Asia North"
+        },
         {
           "amount": 25,
           "city": "Whitehorse, YT",
@@ -73,6 +78,17 @@
       ]
     },
     {
+      "name": "Bamboo",
+      "totalAmound": 350,
+      "regions": [
+        {
+          "amount": 350,
+          "city": "Bayingol, CN",
+          "region": "Asia North"
+        }
+      ]
+    },
+    {
       "name": "Banana",
       "totalAmound": 425,
       "regions": [
@@ -105,7 +121,7 @@
     },
     {
       "name": "BBQ Rib",
-      "totalAmound": 1900,
+      "totalAmound": 2250,
       "regions": [
         {
           "amount": 50,
@@ -126,6 +142,11 @@
           "amount": 350,
           "city": "San Juan, PR",
           "region": "Caribbean"
+        },
+        {
+          "amount": 350,
+          "city": "Guilin, CN",
+          "region": "Asia North"
         },
         {
           "amount": 1000,
@@ -198,7 +219,7 @@
     },
     {
       "name": "Carrot",
-      "totalAmound": 1000,
+      "totalAmound": 2000,
       "regions": [
         {
           "amount": 50,
@@ -229,6 +250,11 @@
           "amount": 350,
           "city": "Chicago, IL",
           "region": "USA Center"
+        },
+        {
+          "amount": 1000,
+          "city": "Osaka, JP",
+          "region": "Asia East"
         }
       ]
     },
@@ -265,18 +291,23 @@
     },
     {
       "name": "Cauliflower",
-      "totalAmound": 150,
+      "totalAmound": 1150,
       "regions": [
         {
           "amount": 150,
           "city": "Sakhalin, RU",
           "region": "Russia East"
+        },
+        {
+          "amount": 1000,
+          "city": "Shenzhen, CN",
+          "region": "Asia North"
         }
       ]
     },
     {
       "name": "Chicken",
-      "totalAmound": 2600,
+      "totalAmound": 3950,
       "regions": [
         {
           "amount": 50,
@@ -309,6 +340,16 @@
           "region": "Europe West"
         },
         {
+          "amount": 350,
+          "city": "Kowloon, HK",
+          "region": "Asia North"
+        },
+        {
+          "amount": 1000,
+          "city": "Hangzhou, CN",
+          "region": "Asia North"
+        },
+        {
           "amount": 1000,
           "city": "Philadelphia, PA",
           "region": "USA East"
@@ -321,6 +362,17 @@
       ]
     },
     {
+      "name": "Chinese Spring Water",
+      "totalAmound": 1000,
+      "regions": [
+        {
+          "amount": 1000,
+          "city": "Tokyo, JP",
+          "region": "Asia East"
+        }
+      ]
+    },
+    {
       "name": "Chlorine",
       "totalAmound": 150,
       "regions": [
@@ -328,6 +380,27 @@
           "amount": 150,
           "city": "Ulan-Ude, RU",
           "region": "Russia East"
+        }
+      ]
+    },
+    {
+      "name": "Chopsticks",
+      "totalAmound": 1700,
+      "regions": [
+        {
+          "amount": 350,
+          "city": "Busan, SK",
+          "region": "Asia East"
+        },
+        {
+          "amount": 350,
+          "city": "Pyongyang, NK",
+          "region": "Asia East"
+        },
+        {
+          "amount": 1000,
+          "city": "Chongqing, CN",
+          "region": "Asia North"
         }
       ]
     },
@@ -344,10 +417,10 @@
     },
     {
       "name": "Coal",
-      "totalAmound": 350,
+      "totalAmound": 1325,
       "regions": [
         {
-          "amount": 50,
+          "amount": 25,
           "city": "Zyryanka, RU",
           "region": "Russia East"
         },
@@ -360,12 +433,17 @@
           "amount": 150,
           "city": "Kamchatka Krai, RU",
           "region": "Russia East"
+        },
+        {
+          "amount": 1000,
+          "city": "Shijiazhuang, CN",
+          "region": "Asia North"
         }
       ]
     },
     {
       "name": "Coffee Beans",
-      "totalAmound": 2675,
+      "totalAmound": 3375,
       "regions": [
         {
           "amount": 25,
@@ -386,6 +464,16 @@
           "amount": 350,
           "city": "Merida",
           "region": "Mexico"
+        },
+        {
+          "amount": 350,
+          "city": "Changchun, CN",
+          "region": "Asia North"
+        },
+        {
+          "amount": 350,
+          "city": "Fukuoka, JP",
+          "region": "Asia East"
         },
         {
           "amount": 1000,
@@ -469,7 +557,7 @@
     },
     {
       "name": "Corn",
-      "totalAmound": 1850,
+      "totalAmound": 2200,
       "regions": [
         {
           "amount": 25,
@@ -502,6 +590,11 @@
           "region": "USA East"
         },
         {
+          "amount": 350,
+          "city": "Hulun Buir, CN",
+          "region": "Asia North"
+        },
+        {
           "amount": 1000,
           "city": "New Orleans, LA",
           "region": "USA South"
@@ -510,12 +603,17 @@
     },
     {
       "name": "Cotton",
-      "totalAmound": 350,
+      "totalAmound": 700,
       "regions": [
         {
           "amount": 350,
           "city": "Ashgabat, TM",
           "region": "Asia Central"
+        },
+        {
+          "amount": 350,
+          "city": "Zhengzhou, CN",
+          "region": "Asia North"
         }
       ]
     },
@@ -556,8 +654,19 @@
       ]
     },
     {
+      "name": "Daikon",
+      "totalAmound": 350,
+      "regions": [
+        {
+          "amount": 350,
+          "city": "Nanjing, CN",
+          "region": "Asia North"
+        }
+      ]
+    },
+    {
       "name": "Diesel Fuel",
-      "totalAmound": 550,
+      "totalAmound": 900,
       "regions": [
         {
           "amount": 50,
@@ -571,8 +680,24 @@
         },
         {
           "amount": 350,
+          "city": "Taichung City, TW",
+          "region": "Asia North"
+        },
+        {
+          "amount": 350,
           "city": "Ufa, RU",
           "region": "Russia West"
+        }
+      ]
+    },
+    {
+      "name": "Egg",
+      "totalAmound": 150,
+      "regions": [
+        {
+          "amount": 150,
+          "city": "Lhasa, CN",
+          "region": "Asia North"
         }
       ]
     },
@@ -609,7 +734,7 @@
     },
     {
       "name": "Gasoline Tank",
-      "totalAmound": 300,
+      "totalAmound": 650,
       "regions": [
         {
           "amount": 150,
@@ -620,6 +745,11 @@
           "amount": 150,
           "city": "Nizhnevartovsk, RU",
           "region": "Russia East"
+        },
+        {
+          "amount": 350,
+          "city": "Okinawa, JP",
+          "region": "Asia East"
         }
       ]
     },
@@ -631,6 +761,17 @@
           "amount": 25,
           "city": "Neryungri, RU",
           "region": "Russia East"
+        }
+      ]
+    },
+    {
+      "name": "Green Tea",
+      "totalAmound": 1000,
+      "regions": [
+        {
+          "amount": 1000,
+          "city": "Shanghai, CN",
+          "region": "Asia North"
         }
       ]
     },
@@ -714,7 +855,7 @@
     },
     {
       "name": "Honey",
-      "totalAmound": 425,
+      "totalAmound": 775,
       "regions": [
         {
           "amount": 25,
@@ -750,6 +891,33 @@
           "amount": 150,
           "city": "Izhevsk, RU",
           "region": "Russia West"
+        },
+        {
+          "amount": 350,
+          "city": "Foshan, CN",
+          "region": "Asia North"
+        }
+      ]
+    },
+    {
+      "name": "Incense",
+      "totalAmound": 1000,
+      "regions": [
+        {
+          "amount": 1000,
+          "city": "Chengdu, CN",
+          "region": "Asia North"
+        }
+      ]
+    },
+    {
+      "name": "Instant Ramen",
+      "totalAmound": 1000,
+      "regions": [
+        {
+          "amount": 1000,
+          "city": "Tianjin, CN",
+          "region": "Asia North"
         }
       ]
     },
@@ -786,6 +954,66 @@
           "amount": 350,
           "city": "Culiacan",
           "region": "Mexico"
+        }
+      ]
+    },
+    {
+      "name": "Jade",
+      "totalAmound": 350,
+      "regions": [
+        {
+          "amount": 350,
+          "city": "Changsha, CN",
+          "region": "Asia North"
+        }
+      ]
+    },
+    {
+      "name": "Japanese Spring Water",
+      "totalAmound": 50,
+      "regions": [
+        {
+          "amount": 50,
+          "city": "Choibalsan, MN",
+          "region": "Asia North"
+        }
+      ]
+    },
+    {
+      "name": "Kendama",
+      "totalAmound": 150,
+      "regions": [
+        {
+          "amount": 150,
+          "city": "Altay, CN",
+          "region": "Asia North"
+        }
+      ]
+    },
+    {
+      "name": "Kimono",
+      "totalAmound": 1000,
+      "regions": [
+        {
+          "amount": 1000,
+          "city": "Beijing, CN",
+          "region": "Asia North"
+        }
+      ]
+    },
+    {
+      "name": "Korean Spring Water",
+      "totalAmound": 500,
+      "regions": [
+        {
+          "amount": 150,
+          "city": "Tianjun, CN",
+          "region": "Asia North"
+        },
+        {
+          "amount": 350,
+          "city": "Sendai, JP",
+          "region": "Asia East"
         }
       ]
     },
@@ -837,6 +1065,17 @@
       ]
     },
     {
+      "name": "Lotus Flower",
+      "totalAmound": 1000,
+      "regions": [
+        {
+          "amount": 1000,
+          "city": "Harbin, CN",
+          "region": "Asia North"
+        }
+      ]
+    },
+    {
       "name": "Matryoshka Doll",
       "totalAmound": 150,
       "regions": [
@@ -875,7 +1114,7 @@
     },
     {
       "name": "Micro Processor",
-      "totalAmound": 3300,
+      "totalAmound": 3650,
       "regions": [
         {
           "amount": 50,
@@ -908,6 +1147,11 @@
           "region": "Russia East"
         },
         {
+          "amount": 350,
+          "city": "Sapporo, JP",
+          "region": "Asia East"
+        },
+        {
           "amount": 1000,
           "city": "San Francisco, CA",
           "region": "USA West"
@@ -916,6 +1160,17 @@
           "amount": 1000,
           "city": "Toronto, ON",
           "region": "Canada West"
+        }
+      ]
+    },
+    {
+      "name": "Mini Lantern",
+      "totalAmound": 350,
+      "regions": [
+        {
+          "amount": 350,
+          "city": "Taipei, TW",
+          "region": "Asia North"
         }
       ]
     },
@@ -998,7 +1253,7 @@
     },
     {
       "name": "Orange",
-      "totalAmound": 1000,
+      "totalAmound": 1350,
       "regions": [
         {
           "amount": 25,
@@ -1034,6 +1289,22 @@
           "amount": 350,
           "city": "Uralsk, KZ",
           "region": "Asia Central"
+        },
+        {
+          "amount": 350,
+          "city": "Xiamen, CN",
+          "region": "Asia North"
+        }
+      ]
+    },
+    {
+      "name": "Origami",
+      "totalAmound": 150,
+      "regions": [
+        {
+          "amount": 150,
+          "city": "Kaxgar, CN",
+          "region": "Asia North"
         }
       ]
     },
@@ -1152,6 +1423,39 @@
       ]
     },
     {
+      "name": "Pear",
+      "totalAmound": 1000,
+      "regions": [
+        {
+          "amount": 1000,
+          "city": "Gunagzhou, CN",
+          "region": "Asia North"
+        }
+      ]
+    },
+    {
+      "name": "Pearl",
+      "totalAmound": 350,
+      "regions": [
+        {
+          "amount": 350,
+          "city": "Yantai, CN",
+          "region": "Asia North"
+        }
+      ]
+    },
+    {
+      "name": "Persimmon",
+      "totalAmound": 350,
+      "regions": [
+        {
+          "amount": 350,
+          "city": "Qingdao, CN",
+          "region": "Asia North"
+        }
+      ]
+    },
+    {
       "name": "Pig",
       "totalAmound": 725,
       "regions": [
@@ -1230,6 +1534,22 @@
       ]
     },
     {
+      "name": "Pocket Game",
+      "totalAmound": 500,
+      "regions": [
+        {
+          "amount": 150,
+          "city": "Kumul, CN",
+          "region": "Asia North"
+        },
+        {
+          "amount": 350,
+          "city": "Kyoto, JP",
+          "region": "Asia East"
+        }
+      ]
+    },
+    {
       "name": "Poutine",
       "totalAmound": 2400,
       "regions": [
@@ -1278,12 +1598,55 @@
     },
     {
       "name": "Pumpkin",
-      "totalAmound": 150,
+      "totalAmound": 1150,
       "regions": [
         {
           "amount": 150,
           "city": "Ust-Kamenogorsk, KZ",
           "region": "Asia Central"
+        },
+        {
+          "amount": 1000,
+          "city": "Wuhan, CN",
+          "region": "Asia North"
+        }
+      ]
+    },
+    {
+      "name": "Qipao",
+      "totalAmound": 350,
+      "regions": [
+        {
+          "amount": 350,
+          "city": "Nanning, CN",
+          "region": "Asia North"
+        }
+      ]
+    },
+    {
+      "name": "Replica Shuriken",
+      "totalAmound": 350,
+      "regions": [
+        {
+          "amount": 350,
+          "city": "Hiroshima, JP",
+          "region": "Asia East"
+        }
+      ]
+    },
+    {
+      "name": "Rice",
+      "totalAmound": 700,
+      "regions": [
+        {
+          "amount": 350,
+          "city": "Nagoya, JP",
+          "region": "Asia East"
+        },
+        {
+          "amount": 350,
+          "city": "Xilingol, CN",
+          "region": "Asia North"
         }
       ]
     },
@@ -1368,7 +1731,7 @@
     },
     {
       "name": "Sausage",
-      "totalAmound": 650,
+      "totalAmound": 1650,
       "regions": [
         {
           "amount": 25,
@@ -1399,6 +1762,11 @@
           "amount": 350,
           "city": "Dublin, IE",
           "region": "Europe West"
+        },
+        {
+          "amount": 1000,
+          "city": "Xi'an, CN",
+          "region": "Asia North"
         }
       ]
     },
@@ -1450,6 +1818,39 @@
       ]
     },
     {
+      "name": "Silk",
+      "totalAmound": 150,
+      "regions": [
+        {
+          "amount": 150,
+          "city": "Macau, CN",
+          "region": "Asia North"
+        }
+      ]
+    },
+    {
+      "name": "Soy Bean",
+      "totalAmound": 350,
+      "regions": [
+        {
+          "amount": 350,
+          "city": "Bayan Nur, CN",
+          "region": "Asia North"
+        }
+      ]
+    },
+    {
+      "name": "Soy Sauce",
+      "totalAmound": 50,
+      "regions": [
+        {
+          "amount": 50,
+          "city": "Bayankhongor, MN",
+          "region": "Asia North"
+        }
+      ]
+    },
+    {
       "name": "Steel",
       "totalAmound": 1500,
       "regions": [
@@ -1487,7 +1888,7 @@
     },
     {
       "name": "Strawberry",
-      "totalAmound": 1925,
+      "totalAmound": 2275,
       "regions": [
         {
           "amount": 25,
@@ -1520,6 +1921,11 @@
           "region": "Caribbean"
         },
         {
+          "amount": 350,
+          "city": "Ulanqab, CN",
+          "region": "Asia North"
+        },
+        {
           "amount": 1000,
           "city": "Milano, IT",
           "region": "Europe South"
@@ -1528,7 +1934,7 @@
     },
     {
       "name": "Tea",
-      "totalAmound": 1600,
+      "totalAmound": 1950,
       "regions": [
         {
           "amount": 25,
@@ -1556,6 +1962,11 @@
           "region": "Europe West"
         },
         {
+          "amount": 350,
+          "city": "Shenyang, CN",
+          "region": "Asia North"
+        },
+        {
           "amount": 1000,
           "city": "London, UK",
           "region": "Europe West"
@@ -1564,7 +1975,7 @@
     },
     {
       "name": "Tomato",
-      "totalAmound": 1625,
+      "totalAmound": 1975,
       "regions": [
         {
           "amount": 25,
@@ -1592,6 +2003,11 @@
           "region": "Mexico"
         },
         {
+          "amount": 350,
+          "city": "Okayama, JP",
+          "region": "Asia East"
+        },
+        {
           "amount": 1000,
           "city": "San Jose, CR",
           "region": "Central America"
@@ -1600,7 +2016,7 @@
     },
     {
       "name": "Tulip",
-      "totalAmound": 1850,
+      "totalAmound": 2200,
       "regions": [
         {
           "amount": 50,
@@ -1626,6 +2042,11 @@
           "amount": 350,
           "city": "Andorra, AD",
           "region": "Europe South"
+        },
+        {
+          "amount": 350,
+          "city": "Seoul, SK",
+          "region": "Asia East"
         },
         {
           "amount": 1000,
@@ -1698,6 +2119,17 @@
       ]
     },
     {
+      "name": "Wasabi",
+      "totalAmound": 350,
+      "regions": [
+        {
+          "amount": 350,
+          "city": "Ulaanbaatar, MN",
+          "region": "Asia North"
+        }
+      ]
+    },
+    {
       "name": "Watch",
       "totalAmound": 350,
       "regions": [
@@ -1710,7 +2142,7 @@
     },
     {
       "name": "Water",
-      "totalAmound": 1550,
+      "totalAmound": 1900,
       "regions": [
         {
           "amount": 50,
@@ -1738,9 +2170,25 @@
           "region": "Asia Central"
         },
         {
+          "amount": 350,
+          "city": "Kunming, CN",
+          "region": "Asia North"
+        },
+        {
           "amount": 1000,
           "city": "Las Vegas, NV",
           "region": "USA West"
+        }
+      ]
+    },
+    {
+      "name": "Water Chestnut",
+      "totalAmound": 350,
+      "regions": [
+        {
+          "amount": 350,
+          "city": "Jinan, CN",
+          "region": "Asia North"
         }
       ]
     },
@@ -1808,7 +2256,7 @@
     },
     {
       "name": "Wood",
-      "totalAmound": 650,
+      "totalAmound": 700,
       "regions": [
         {
           "amount": 25,
@@ -1829,6 +2277,11 @@
           "amount": 25,
           "city": "Zhezqazghan, KZ",
           "region": "Asia Central"
+        },
+        {
+          "amount": 50,
+          "city": "Khovd, MN",
+          "region": "Asia North"
         },
         {
           "amount": 50,

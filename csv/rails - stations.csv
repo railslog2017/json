@@ -291,3 +291,60 @@ Tashkent,UZ,4,Pineapple,"Osh,Samarkand, Shymkent",Asia Center,350
 Uralsk,KZ,4,Orange,"Aktobe, Atyrau, Samara",Asia Center,350
 Ust-Kamenogorsk,KZ,3,Pumpkin,"Almaty, Barnaul, Pavlodar",Asia Center,150
 Zhezqazghan,KZ,1,Wood,"Astana, Bishkek, Nukus",Asia Center,25
+Sapporo,JP,4,Micro Processor,"Yuzhno-Sakhalinsk, Sendai, Asia East Factory",Asia East,350
+Sendai,JP,4,Korean Spring Water,"Sapporo, Tokyo, Kyoto, Asia East Factory, Asia East Port",Asia East,350
+Tokyo,JP,5,Chinese Spring Water,"Sendai, Kyoto, Nagoya, Asia East Port",Asia East,1000
+Nagoya,JP,4,Rice,"Tokyo, Osaka",Asia East,350
+Kyoto,JP,4,Pocket Game,"Sendai, Tokyo, Osaka, Okayama",Asia East,350
+Osaka,JP,5,Carrot,"Kyoto, Nagoya, Okayama",Asia East,1000
+Okayama,JP,4,Tomato,"Osaka, Kyoto, Hiroshima",Asia East,350
+Hiroshima,JP,4,Replica Shuriken,"Okayama, Fukuoka, Busan",Asia East,350
+Fukuoka,JP,4,Coffee Beans,"Hiroshima, Busan, Okinawa",Asia East,350
+Okinawa,JP,4,Gasoline Tank,Fukuoka,Asia East,350
+Busan,SK,4,Chopsticks,"Fukuoka, Hiroshima, Seoul",Asia East,350
+Seoul,SK,4,Tulip,"Busan, Pyongyang",Asia East,350
+Pyongyang,NK,4,Chopsticks,Seoul,Asia East,350
+Yantai,CN,4,Pearl,"Seoul, Jinan, Qingdao",Asia North,350
+Qingdao,CN,4,Persimmon,"Yantai, Jinan, Zhengzhou",Asia North,350
+Jinan,CN,4,Water Chestnut,"Tianjin, Shijiazhuang, Yantai, Qingdao, Zhengzhou",Asia North,350
+Zhengzhou,CN,4,Cotton,"Xi'an, Jinan, Qingdao",Asia North,350
+Shijiazhuang,CN,5,Coal,"Tianjin, Jinan, Xi'an",Asia North,1000
+Tianjin,CN,5,Instant Ramen,"Beijing, Shijiazhuang, Jinan",Asia North,1000
+Beijing,CN,5,Kimono,"Shenyang, Ulanqab, Tianjin",Asia North,1000
+Shenyang,CN,4,Tea,"Pyongyang, Changchun, Xilingol, Beijing",Asia North,350
+Changchun,CN,4,Coffee Beans,"Vladivostok, Harbin, Shenyang",Asia North,350
+Harbin,CN,5,Lotus Flower,"Hulun Buir, Xilingol, Changchun",Asia North,1000
+Hulun Buir,CN,4,Corn,"Choibalsan, Harbin",Asia North,350
+Choibalsan,MN,2,Japanese Spring Water,"Blagoveshchensk, Ulaanbaatar, Hulun Buir, Xilingol",Asia North,50
+Xilingol,CN,4,Rice,"Ulaanbaatar, Choibalsan, Harbin, Shenyang, Ulanqab",Asia North,350
+Ulaanbaatar,MN,4,Wasabi,"Ulan-Ude, Murun, Khovd, Bayankhongor, Choibalsan, Xilingol",Asia North,350
+Murun,MN,1,Apple,"Khovd, Ulaanbaatar",Asia North,25
+Khovd,MN,2,Wood,"Altay, Murun, Ulaanbaatar, Bayankhongor",Asia North,50
+Altay,CN,3,Kendama,"Ust-Kamenogorsk, Kaxgar, Khovd, Kumul",Asia North,150
+Ulanqab,CN,4,Strawberry,"Beijing, Xilingol, Bayan Nur",Asia North,350
+Bayan Nur,CN,4,Soy Bean,"Ulanqab, Bayankhongor, Tianjun",Asia North,350
+Bayankhongor,MN,2,Soy Sauce,"Khovd, Ulaanbaatar, Bayan Nur, Kumul",Asia North,50
+Kumul,CN,3,Pocket Game,"Altay, Bayankhongor, Tianjun, Bayingol",Asia North,150
+Bayingol,CN,4,Bamboo,"Kaxgar, Kumul, Tianjun",Asia North,350
+Kaxgar,CN,3,Origami,"Osh, Altay, Bayingol, Lhasa, Asia North Factory",Asia North,150
+Lhasa,CN,3,Egg,"Kaxgar, Tianjun, Chengdu",Asia North,150
+Tianjun,CN,3,Korean Spring Water,"Bayingol, Kumul, Bayan Nur, Xi'an, Lhasa, Asia North Factory",Asia North,150
+Xi'an,CN,5,Sausage,"Tianjun, Shijiazhuang, Zhengzhou, Nanjing, Chongqing, Chengdu",Asia North,1000
+Chengdu,CN,5,Incense,"Lhasa, Xi'an, Chongqing, Kunming",Asia North,1000
+Kunming,CN,4,Water,"Chengdu, Guilin, Nanning",Asia North,350
+Nanning,CN,4,Qipao,"Kunming, Foshan",Asia North,350
+Foshan,CN,4,Honey,"Nanning, Guangzhou, Macau",Asia North,350
+Macau,CN,3,Silk,"Foshan, Shenzhen, Kowloon",Asia North,150
+Kowloon,HK,4,Chicken,"Shenzhen, Macau",Asia North,350
+Shenzhen,CN,5,Cauliflower,"Macau, Kowloon, Guangzhou, Xiamen",Asia North,1000
+Guangzhou,CN,5,Pear,"Guilin, Foshan, Shenzhen",Asia North,1000
+Guilin,CN,4,BBQ Ribs,"Chongqing, Kunming, Changsha, Guangzhou",Asia North,350
+Chongqing,CN,5,Chopsticks,"Chengdu, Xi'an, Wuhan, Guilin",Asia North,1000
+Changsha,CN,4,Jade,"Guilin, Xiamen",Asia North,350
+Xiamen,CN,4,Orange,"Shenzhen, Changsha, Hangzhou, Taipei, Taichung City",Asia North,350
+Taipei,TW,4,Mini Lantern,"Okinawa, Xiamen, Taichung City",Asia North,350
+Taichung City,TW,4,Diesel Fuel,"Taipei, Xiamen",Asia North,350
+Hangzhou,CN,5,Chicken,"Wuhan, Shanghai, Nanjing",Asia North,1000
+Shanghai,CN,5,Green Tea,"Hangzhou, Nanjing",Asia North,1000
+Nanjing,CN,4,Daikon,"Xi'an, Shanghai, Hangzhou",Asia North,350
+Wuhan,CN,5,Pumpkin,"Hangzhou, Chongqing",Asia North,1000
